@@ -1,0 +1,7179 @@
+[
+  {
+    "value": "Mumbai",
+    "synonyms": [
+      "Mumbai",
+      "Bombay",
+      "Bombai"
+    ]
+  },
+  {
+    "value": "Delhi",
+    "synonyms": [
+      "Delhi"
+    ]
+  },
+  {
+    "value": "Bengaluru",
+    "synonyms": [
+      "Bengaluru",
+      "Bangalore",
+      "Bangalore Urban",
+      "Bangalore Rural"
+    ]
+  },
+  {
+    "value": "Ahmedabad",
+    "synonyms": [
+      "Ahmedabad"
+    ]
+  },
+  {
+    "value": "Hyderabad",
+    "synonyms": [
+      "Hyderabad"
+    ]
+  },
+  {
+    "value": "Chennai",
+    "synonyms": [
+      "Chennai"
+    ]
+  },
+  {
+    "value": "Kolkata",
+    "synonyms": [
+      "Kolkata"
+    ]
+  },
+  {
+    "value": "Pune",
+    "synonyms": [
+      "Pune",
+      "Poona"
+    ]
+  },
+  {
+    "value": "Jaipur",
+    "synonyms": [
+      "Jaipur"
+    ]
+  },
+  {
+    "value": "Surat",
+    "synonyms": [
+      "Surat"
+    ]
+  },
+  {
+    "value": "Lucknow",
+    "synonyms": [
+      "Lucknow"
+    ]
+  },
+  {
+    "value": "Kanpur",
+    "synonyms": [
+      "Kanpur"
+    ]
+  },
+  {
+    "value": "Nagpur",
+    "synonyms": [
+      "Nagpur"
+    ]
+  },
+  {
+    "value": "Patna",
+    "synonyms": [
+      "Patna"
+    ]
+  },
+  {
+    "value": "Indore",
+    "synonyms": [
+      "Indore"
+    ]
+  },
+  {
+    "value": "Thane",
+    "synonyms": [
+      "Thane"
+    ]
+  },
+  {
+    "value": "Bhopal",
+    "synonyms": [
+      "Bhopal"
+    ]
+  },
+  {
+    "value": "Visakhapatnam",
+    "synonyms": [
+      "Visakhapatnam"
+    ]
+  },
+  {
+    "value": "Vadodara",
+    "synonyms": [
+      "Vadodara"
+    ]
+  },
+  {
+    "value": "Firozabad",
+    "synonyms": [
+      "Firozabad"
+    ]
+  },
+  {
+    "value": "Ludhiana",
+    "synonyms": [
+      "Ludhiana"
+    ]
+  },
+  {
+    "value": "Rajkot",
+    "synonyms": [
+      "Rajkot"
+    ]
+  },
+  {
+    "value": "Agra",
+    "synonyms": [
+      "Agra"
+    ]
+  },
+  {
+    "value": "Siliguri",
+    "synonyms": [
+      "Siliguri"
+    ]
+  },
+  {
+    "value": "Nashik",
+    "synonyms": [
+      "Nashik"
+    ]
+  },
+  {
+    "value": "Faridabad",
+    "synonyms": [
+      "Faridabad"
+    ]
+  },
+  {
+    "value": "Patiala",
+    "synonyms": [
+      "Patiala"
+    ]
+  },
+  {
+    "value": "Meerut",
+    "synonyms": [
+      "Meerut"
+    ]
+  },
+  {
+    "value": "Kalyan-Dombivali",
+    "synonyms": [
+      "Kalyan-Dombivali"
+    ]
+  },
+  {
+    "value": "Vasai-Virar",
+    "synonyms": [
+      "Vasai-Virar"
+    ]
+  },
+  {
+    "value": "Varanasi",
+    "synonyms": [
+      "Varanasi"
+    ]
+  },
+  {
+    "value": "Srinagar",
+    "synonyms": [
+      "Srinagar"
+    ]
+  },
+  {
+    "value": "Dhanbad",
+    "synonyms": [
+      "Dhanbad"
+    ]
+  },
+  {
+    "value": "Jodhpur",
+    "synonyms": [
+      "Jodhpur"
+    ]
+  },
+  {
+    "value": "Amritsar",
+    "synonyms": [
+      "Amritsar"
+    ]
+  },
+  {
+    "value": "Raipur",
+    "synonyms": [
+      "Raipur"
+    ]
+  },
+  {
+    "value": "Allahabad",
+    "synonyms": [
+      "Allahabad"
+    ]
+  },
+  {
+    "value": "Coimbatore",
+    "synonyms": [
+      "Coimbatore"
+    ]
+  },
+  {
+    "value": "Jabalpur",
+    "synonyms": [
+      "Jabalpur"
+    ]
+  },
+  {
+    "value": "Gwalior",
+    "synonyms": [
+      "Gwalior"
+    ]
+  },
+  {
+    "value": "Vijayawada",
+    "synonyms": [
+      "Vijayawada"
+    ]
+  },
+  {
+    "value": "Madurai",
+    "synonyms": [
+      "Madurai"
+    ]
+  },
+  {
+    "value": "Guwahati",
+    "synonyms": [
+      "Guwahati"
+    ]
+  },
+  {
+    "value": "Chandigarh",
+    "synonyms": [
+      "Chandigarh"
+    ]
+  },
+  {
+    "value": "Hubli-Dharwad",
+    "synonyms": [
+      "Hubli-Dharwad"
+    ]
+  },
+  {
+    "value": "Amroha",
+    "synonyms": [
+      "Amroha"
+    ]
+  },
+  {
+    "value": "Moradabad",
+    "synonyms": [
+      "Moradabad"
+    ]
+  },
+  {
+    "value": "Gurgaon",
+    "synonyms": [
+      "Gurgaon"
+    ]
+  },
+  {
+    "value": "Aligarh",
+    "synonyms": [
+      "Aligarh"
+    ]
+  },
+  {
+    "value": "Solapur",
+    "synonyms": [
+      "Solapur"
+    ]
+  },
+  {
+    "value": "Ranchi",
+    "synonyms": [
+      "Ranchi"
+    ]
+  },
+  {
+    "value": "Jalandhar",
+    "synonyms": [
+      "Jalandhar"
+    ]
+  },
+  {
+    "value": "Tiruchirappalli",
+    "synonyms": [
+      "Tiruchirappalli"
+    ]
+  },
+  {
+    "value": "Bhubaneswar",
+    "synonyms": [
+      "Bhubaneswar"
+    ]
+  },
+  {
+    "value": "Salem",
+    "synonyms": [
+      "Salem"
+    ]
+  },
+  {
+    "value": "Warangal",
+    "synonyms": [
+      "Warangal"
+    ]
+  },
+  {
+    "value": "Mira-Bhayandar",
+    "synonyms": [
+      "Mira-Bhayandar"
+    ]
+  },
+  {
+    "value": "Thiruvananthapuram",
+    "synonyms": [
+      "Thiruvananthapuram"
+    ]
+  },
+  {
+    "value": "Bhiwandi",
+    "synonyms": [
+      "Bhiwandi"
+    ]
+  },
+  {
+    "value": "Saharanpur",
+    "synonyms": [
+      "Saharanpur"
+    ]
+  },
+  {
+    "value": "Guntur",
+    "synonyms": [
+      "Guntur"
+    ]
+  },
+  {
+    "value": "Amravati",
+    "synonyms": [
+      "Amravati"
+    ]
+  },
+  {
+    "value": "Bikaner",
+    "synonyms": [
+      "Bikaner"
+    ]
+  },
+  {
+    "value": "Noida",
+    "synonyms": [
+      "Noida"
+    ]
+  },
+  {
+    "value": "Jamshedpur",
+    "synonyms": [
+      "Jamshedpur"
+    ]
+  },
+  {
+    "value": "Bhilai Nagar",
+    "synonyms": [
+      "Bhilai Nagar"
+    ]
+  },
+  {
+    "value": "Cuttack",
+    "synonyms": [
+      "Cuttack"
+    ]
+  },
+  {
+    "value": "Kochi",
+    "synonyms": [
+      "Kochi"
+    ]
+  },
+  {
+    "value": "Udaipur",
+    "synonyms": [
+      "Udaipur"
+    ]
+  },
+  {
+    "value": "Bhavnagar",
+    "synonyms": [
+      "Bhavnagar"
+    ]
+  },
+  {
+    "value": "Dehradun",
+    "synonyms": [
+      "Dehradun"
+    ]
+  },
+  {
+    "value": "Asansol",
+    "synonyms": [
+      "Asansol"
+    ]
+  },
+  {
+    "value": "Nanded-Waghala",
+    "synonyms": [
+      "Nanded-Waghala"
+    ]
+  },
+  {
+    "value": "Ajmer",
+    "synonyms": [
+      "Ajmer"
+    ]
+  },
+  {
+    "value": "Jamnagar",
+    "synonyms": [
+      "Jamnagar"
+    ]
+  },
+  {
+    "value": "Ujjain",
+    "synonyms": [
+      "Ujjain"
+    ]
+  },
+  {
+    "value": "Sangli",
+    "synonyms": [
+      "Sangli"
+    ]
+  },
+  {
+    "value": "Loni",
+    "synonyms": [
+      "Loni"
+    ]
+  },
+  {
+    "value": "Jhansi",
+    "synonyms": [
+      "Jhansi"
+    ]
+  },
+  {
+    "value": "Pondicherry",
+    "synonyms": [
+      "Pondicherry"
+    ]
+  },
+  {
+    "value": "Nellore",
+    "synonyms": [
+      "Nellore"
+    ]
+  },
+  {
+    "value": "Jammu",
+    "synonyms": [
+      "Jammu"
+    ]
+  },
+  {
+    "value": "Belagavi",
+    "synonyms": [
+      "Belagavi"
+    ]
+  },
+  {
+    "value": "Raurkela",
+    "synonyms": [
+      "Raurkela"
+    ]
+  },
+  {
+    "value": "Mangaluru",
+    "synonyms": [
+      "Mangaluru"
+    ]
+  },
+  {
+    "value": "Tirunelveli",
+    "synonyms": [
+      "Tirunelveli"
+    ]
+  },
+  {
+    "value": "Malegaon",
+    "synonyms": [
+      "Malegaon"
+    ]
+  },
+  {
+    "value": "Gaya",
+    "synonyms": [
+      "Gaya"
+    ]
+  },
+  {
+    "value": "Tiruppur",
+    "synonyms": [
+      "Tiruppur"
+    ]
+  },
+  {
+    "value": "Davanagere",
+    "synonyms": [
+      "Davanagere"
+    ]
+  },
+  {
+    "value": "Kozhikode",
+    "synonyms": [
+      "Kozhikode"
+    ]
+  },
+  {
+    "value": "Akola",
+    "synonyms": [
+      "Akola"
+    ]
+  },
+  {
+    "value": "Kurnool",
+    "synonyms": [
+      "Kurnool"
+    ]
+  },
+  {
+    "value": "Bokaro Steel City",
+    "synonyms": [
+      "Bokaro Steel City"
+    ]
+  },
+  {
+    "value": "Rajahmundry",
+    "synonyms": [
+      "Rajahmundry"
+    ]
+  },
+  {
+    "value": "Ballari",
+    "synonyms": [
+      "Ballari"
+    ]
+  },
+  {
+    "value": "Agartala",
+    "synonyms": [
+      "Agartala"
+    ]
+  },
+  {
+    "value": "Bhagalpur",
+    "synonyms": [
+      "Bhagalpur"
+    ]
+  },
+  {
+    "value": "Latur",
+    "synonyms": [
+      "Latur"
+    ]
+  },
+  {
+    "value": "Dhule",
+    "synonyms": [
+      "Dhule"
+    ]
+  },
+  {
+    "value": "Korba",
+    "synonyms": [
+      "Korba"
+    ]
+  },
+  {
+    "value": "Bhilwara",
+    "synonyms": [
+      "Bhilwara"
+    ]
+  },
+  {
+    "value": "Brahmapur",
+    "synonyms": [
+      "Brahmapur"
+    ]
+  },
+  {
+    "value": "Mysore",
+    "synonyms": [
+      "Mysore",
+      "Mysuru"
+    ]
+  },
+  {
+    "value": "Muzaffarpur",
+    "synonyms": [
+      "Muzaffarpur"
+    ]
+  },
+  {
+    "value": "Ahmednagar",
+    "synonyms": [
+      "Ahmednagar"
+    ]
+  },
+  {
+    "value": "Kollam",
+    "synonyms": [
+      "Kollam"
+    ]
+  },
+  {
+    "value": "Raghunathganj",
+    "synonyms": [
+      "Raghunathganj"
+    ]
+  },
+  {
+    "value": "Bilaspur",
+    "synonyms": [
+      "Bilaspur"
+    ]
+  },
+  {
+    "value": "Shahjahanpur",
+    "synonyms": [
+      "Shahjahanpur"
+    ]
+  },
+  {
+    "value": "Thrissur",
+    "synonyms": [
+      "Thrissur"
+    ]
+  },
+  {
+    "value": "Alwar",
+    "synonyms": [
+      "Alwar"
+    ]
+  },
+  {
+    "value": "Kakinada",
+    "synonyms": [
+      "Kakinada"
+    ]
+  },
+  {
+    "value": "Nizamabad",
+    "synonyms": [
+      "Nizamabad"
+    ]
+  },
+  {
+    "value": "Sagar",
+    "synonyms": [
+      "Sagar"
+    ]
+  },
+  {
+    "value": "Tumkur",
+    "synonyms": [
+      "Tumkur"
+    ]
+  },
+  {
+    "value": "Hisar",
+    "synonyms": [
+      "Hisar"
+    ]
+  },
+  {
+    "value": "Rohtak",
+    "synonyms": [
+      "Rohtak"
+    ]
+  },
+  {
+    "value": "Panipat",
+    "synonyms": [
+      "Panipat"
+    ]
+  },
+  {
+    "value": "Darbhanga",
+    "synonyms": [
+      "Darbhanga"
+    ]
+  },
+  {
+    "value": "Kharagpur",
+    "synonyms": [
+      "Kharagpur"
+    ]
+  },
+  {
+    "value": "Aizawl",
+    "synonyms": [
+      "Aizawl"
+    ]
+  },
+  {
+    "value": "Ichalkaranji",
+    "synonyms": [
+      "Ichalkaranji"
+    ]
+  },
+  {
+    "value": "Tirupati",
+    "synonyms": [
+      "Tirupati"
+    ]
+  },
+  {
+    "value": "Karnal",
+    "synonyms": [
+      "Karnal"
+    ]
+  },
+  {
+    "value": "Bathinda",
+    "synonyms": [
+      "Bathinda"
+    ]
+  },
+  {
+    "value": "Rampur",
+    "synonyms": [
+      "Rampur"
+    ]
+  },
+  {
+    "value": "Shivamogga",
+    "synonyms": [
+      "Shivamogga"
+    ]
+  },
+  {
+    "value": "Ratlam",
+    "synonyms": [
+      "Ratlam"
+    ]
+  },
+  {
+    "value": "Modinagar",
+    "synonyms": [
+      "Modinagar"
+    ]
+  },
+  {
+    "value": "Durg",
+    "synonyms": [
+      "Durg"
+    ]
+  },
+  {
+    "value": "Shillong",
+    "synonyms": [
+      "Shillong"
+    ]
+  },
+  {
+    "value": "Imphal",
+    "synonyms": [
+      "Imphal"
+    ]
+  },
+  {
+    "value": "Hapur",
+    "synonyms": [
+      "Hapur"
+    ]
+  },
+  {
+    "value": "Ranipet",
+    "synonyms": [
+      "Ranipet"
+    ]
+  },
+  {
+    "value": "Anantapur",
+    "synonyms": [
+      "Anantapur"
+    ]
+  },
+  {
+    "value": "Arrah",
+    "synonyms": [
+      "Arrah"
+    ]
+  },
+  {
+    "value": "Karimnagar",
+    "synonyms": [
+      "Karimnagar"
+    ]
+  },
+  {
+    "value": "Parbhani",
+    "synonyms": [
+      "Parbhani"
+    ]
+  },
+  {
+    "value": "Etawah",
+    "synonyms": [
+      "Etawah"
+    ]
+  },
+  {
+    "value": "Bharatpur",
+    "synonyms": [
+      "Bharatpur"
+    ]
+  },
+  {
+    "value": "Begusarai",
+    "synonyms": [
+      "Begusarai"
+    ]
+  },
+  {
+    "value": "New Delhi",
+    "synonyms": [
+      "New Delhi"
+    ]
+  },
+  {
+    "value": "Chhapra",
+    "synonyms": [
+      "Chhapra"
+    ]
+  },
+  {
+    "value": "Kadapa",
+    "synonyms": [
+      "Kadapa"
+    ]
+  },
+  {
+    "value": "Ramagundam",
+    "synonyms": [
+      "Ramagundam"
+    ]
+  },
+  {
+    "value": "Pali",
+    "synonyms": [
+      "Pali"
+    ]
+  },
+  {
+    "value": "Satna",
+    "synonyms": [
+      "Satna"
+    ]
+  },
+  {
+    "value": "Vizianagaram",
+    "synonyms": [
+      "Vizianagaram"
+    ]
+  },
+  {
+    "value": "Katihar",
+    "synonyms": [
+      "Katihar"
+    ]
+  },
+  {
+    "value": "Hardwar",
+    "synonyms": [
+      "Hardwar"
+    ]
+  },
+  {
+    "value": "Sonipat",
+    "synonyms": [
+      "Sonipat"
+    ]
+  },
+  {
+    "value": "Nagercoil",
+    "synonyms": [
+      "Nagercoil"
+    ]
+  },
+  {
+    "value": "Thanjavur",
+    "synonyms": [
+      "Thanjavur"
+    ]
+  },
+  {
+    "value": "Murwara",
+    "synonyms": [
+      "Murwara"
+    ]
+  },
+  {
+    "value": "Naihati",
+    "synonyms": [
+      "Naihati"
+    ]
+  },
+  {
+    "value": "Sambhal",
+    "synonyms": [
+      "Sambhal"
+    ]
+  },
+  {
+    "value": "Nadiad",
+    "synonyms": [
+      "Nadiad"
+    ]
+  },
+  {
+    "value": "Yamunanagar",
+    "synonyms": [
+      "Yamunanagar"
+    ]
+  },
+  {
+    "value": "English Bazar",
+    "synonyms": [
+      "English Bazar"
+    ]
+  },
+  {
+    "value": "Eluru",
+    "synonyms": [
+      "Eluru"
+    ]
+  },
+  {
+    "value": "Munger",
+    "synonyms": [
+      "Munger"
+    ]
+  },
+  {
+    "value": "Panchkula",
+    "synonyms": [
+      "Panchkula"
+    ]
+  },
+  {
+    "value": "Raayachuru",
+    "synonyms": [
+      "Raayachuru"
+    ]
+  },
+  {
+    "value": "Panvel",
+    "synonyms": [
+      "Panvel"
+    ]
+  },
+  {
+    "value": "Deoghar",
+    "synonyms": [
+      "Deoghar"
+    ]
+  },
+  {
+    "value": "Ongole",
+    "synonyms": [
+      "Ongole"
+    ]
+  },
+  {
+    "value": "Nandyal",
+    "synonyms": [
+      "Nandyal"
+    ]
+  },
+  {
+    "value": "Morena",
+    "synonyms": [
+      "Morena"
+    ]
+  },
+  {
+    "value": "Bhiwani",
+    "synonyms": [
+      "Bhiwani"
+    ]
+  },
+  {
+    "value": "Porbandar",
+    "synonyms": [
+      "Porbandar"
+    ]
+  },
+  {
+    "value": "Palakkad",
+    "synonyms": [
+      "Palakkad"
+    ]
+  },
+  {
+    "value": "Anand",
+    "synonyms": [
+      "Anand"
+    ]
+  },
+  {
+    "value": "Purnia",
+    "synonyms": [
+      "Purnia"
+    ]
+  },
+  {
+    "value": "Baharampur",
+    "synonyms": [
+      "Baharampur"
+    ]
+  },
+  {
+    "value": "Barmer",
+    "synonyms": [
+      "Barmer"
+    ]
+  },
+  {
+    "value": "Morvi",
+    "synonyms": [
+      "Morvi"
+    ]
+  },
+  {
+    "value": "Orai",
+    "synonyms": [
+      "Orai"
+    ]
+  },
+  {
+    "value": "Bahraich",
+    "synonyms": [
+      "Bahraich"
+    ]
+  },
+  {
+    "value": "Sikar",
+    "synonyms": [
+      "Sikar"
+    ]
+  },
+  {
+    "value": "Vellore",
+    "synonyms": [
+      "Vellore"
+    ]
+  },
+  {
+    "value": "Singrauli",
+    "synonyms": [
+      "Singrauli"
+    ]
+  },
+  {
+    "value": "Khammam",
+    "synonyms": [
+      "Khammam"
+    ]
+  },
+  {
+    "value": "Mahesana",
+    "synonyms": [
+      "Mahesana"
+    ]
+  },
+  {
+    "value": "Silchar",
+    "synonyms": [
+      "Silchar"
+    ]
+  },
+  {
+    "value": "Sambalpur",
+    "synonyms": [
+      "Sambalpur"
+    ]
+  },
+  {
+    "value": "Rewa",
+    "synonyms": [
+      "Rewa"
+    ]
+  },
+  {
+    "value": "Unnao",
+    "synonyms": [
+      "Unnao"
+    ]
+  },
+  {
+    "value": "Hugli-Chinsurah",
+    "synonyms": [
+      "Hugli-Chinsurah"
+    ]
+  },
+  {
+    "value": "Raiganj",
+    "synonyms": [
+      "Raiganj"
+    ]
+  },
+  {
+    "value": "Phusro",
+    "synonyms": [
+      "Phusro"
+    ]
+  },
+  {
+    "value": "Adityapur",
+    "synonyms": [
+      "Adityapur"
+    ]
+  },
+  {
+    "value": "Alappuzha",
+    "synonyms": [
+      "Alappuzha"
+    ]
+  },
+  {
+    "value": "Bahadurgarh",
+    "synonyms": [
+      "Bahadurgarh"
+    ]
+  },
+  {
+    "value": "Machilipatnam",
+    "synonyms": [
+      "Machilipatnam"
+    ]
+  },
+  {
+    "value": "Rae Bareli",
+    "synonyms": [
+      "Rae Bareli"
+    ]
+  },
+  {
+    "value": "Jalpaiguri",
+    "synonyms": [
+      "Jalpaiguri"
+    ]
+  },
+  {
+    "value": "Bharuch",
+    "synonyms": [
+      "Bharuch"
+    ]
+  },
+  {
+    "value": "Pathankot",
+    "synonyms": [
+      "Pathankot"
+    ]
+  },
+  {
+    "value": "Hoshiarpur",
+    "synonyms": [
+      "Hoshiarpur"
+    ]
+  },
+  {
+    "value": "Baramula",
+    "synonyms": [
+      "Baramula"
+    ]
+  },
+  {
+    "value": "Adoni",
+    "synonyms": [
+      "Adoni"
+    ]
+  },
+  {
+    "value": "Jind",
+    "synonyms": [
+      "Jind"
+    ]
+  },
+  {
+    "value": "Tonk",
+    "synonyms": [
+      "Tonk"
+    ]
+  },
+  {
+    "value": "Tenali",
+    "synonyms": [
+      "Tenali"
+    ]
+  },
+  {
+    "value": "Kancheepuram",
+    "synonyms": [
+      "Kancheepuram"
+    ]
+  },
+  {
+    "value": "Vapi",
+    "synonyms": [
+      "Vapi"
+    ]
+  },
+  {
+    "value": "Sirsa",
+    "synonyms": [
+      "Sirsa"
+    ]
+  },
+  {
+    "value": "Navsari",
+    "synonyms": [
+      "Navsari"
+    ]
+  },
+  {
+    "value": "Mahbubnagar",
+    "synonyms": [
+      "Mahbubnagar"
+    ]
+  },
+  {
+    "value": "Puri",
+    "synonyms": [
+      "Puri"
+    ]
+  },
+  {
+    "value": "Robertson Pet",
+    "synonyms": [
+      "Robertson Pet"
+    ]
+  },
+  {
+    "value": "Erode",
+    "synonyms": [
+      "Erode"
+    ]
+  },
+  {
+    "value": "Batala",
+    "synonyms": [
+      "Batala"
+    ]
+  },
+  {
+    "value": "Haldwani-cum-Kathgodam",
+    "synonyms": [
+      "Haldwani-cum-Kathgodam"
+    ]
+  },
+  {
+    "value": "Vidisha",
+    "synonyms": [
+      "Vidisha"
+    ]
+  },
+  {
+    "value": "Saharsa",
+    "synonyms": [
+      "Saharsa"
+    ]
+  },
+  {
+    "value": "Thanesar",
+    "synonyms": [
+      "Thanesar"
+    ]
+  },
+  {
+    "value": "Chittoor",
+    "synonyms": [
+      "Chittoor"
+    ]
+  },
+  {
+    "value": "Veraval",
+    "synonyms": [
+      "Veraval"
+    ]
+  },
+  {
+    "value": "Lakhimpur",
+    "synonyms": [
+      "Lakhimpur"
+    ]
+  },
+  {
+    "value": "Sitapur",
+    "synonyms": [
+      "Sitapur"
+    ]
+  },
+  {
+    "value": "Hindupur",
+    "synonyms": [
+      "Hindupur"
+    ]
+  },
+  {
+    "value": "Santipur",
+    "synonyms": [
+      "Santipur"
+    ]
+  },
+  {
+    "value": "Balurghat",
+    "synonyms": [
+      "Balurghat"
+    ]
+  },
+  {
+    "value": "Ganjbasoda",
+    "synonyms": [
+      "Ganjbasoda"
+    ]
+  },
+  {
+    "value": "Moga",
+    "synonyms": [
+      "Moga"
+    ]
+  },
+  {
+    "value": "Proddatur",
+    "synonyms": [
+      "Proddatur"
+    ]
+  },
+  {
+    "value": "Medinipur",
+    "synonyms": [
+      "Medinipur"
+    ]
+  },
+  {
+    "value": "Habra",
+    "synonyms": [
+      "Habra"
+    ]
+  },
+  {
+    "value": "Sasaram",
+    "synonyms": [
+      "Sasaram"
+    ]
+  },
+  {
+    "value": "Hajipur",
+    "synonyms": [
+      "Hajipur"
+    ]
+  },
+  {
+    "value": "Bhuj",
+    "synonyms": [
+      "Bhuj"
+    ]
+  },
+  {
+    "value": "Shivpuri",
+    "synonyms": [
+      "Shivpuri"
+    ]
+  },
+  {
+    "value": "Ranaghat",
+    "synonyms": [
+      "Ranaghat"
+    ]
+  },
+  {
+    "value": "Shimla",
+    "synonyms": [
+      "Shimla"
+    ]
+  },
+  {
+    "value": "Tiruvannamalai",
+    "synonyms": [
+      "Tiruvannamalai"
+    ]
+  },
+  {
+    "value": "Kaithal",
+    "synonyms": [
+      "Kaithal"
+    ]
+  },
+  {
+    "value": "Rajnandgaon",
+    "synonyms": [
+      "Rajnandgaon"
+    ]
+  },
+  {
+    "value": "Godhra",
+    "synonyms": [
+      "Godhra"
+    ]
+  },
+  {
+    "value": "Hazaribag",
+    "synonyms": [
+      "Hazaribag"
+    ]
+  },
+  {
+    "value": "Bhimavaram",
+    "synonyms": [
+      "Bhimavaram"
+    ]
+  },
+  {
+    "value": "Mandsaur",
+    "synonyms": [
+      "Mandsaur"
+    ]
+  },
+  {
+    "value": "Dibrugarh",
+    "synonyms": [
+      "Dibrugarh"
+    ]
+  },
+  {
+    "value": "Kolar",
+    "synonyms": [
+      "Kolar"
+    ]
+  },
+  {
+    "value": "Bankura",
+    "synonyms": [
+      "Bankura"
+    ]
+  },
+  {
+    "value": "Mandya",
+    "synonyms": [
+      "Mandya"
+    ]
+  },
+  {
+    "value": "Dehri-on-Sone",
+    "synonyms": [
+      "Dehri-on-Sone"
+    ]
+  },
+  {
+    "value": "Madanapalle",
+    "synonyms": [
+      "Madanapalle"
+    ]
+  },
+  {
+    "value": "Malerkotla",
+    "synonyms": [
+      "Malerkotla"
+    ]
+  },
+  {
+    "value": "Lalitpur",
+    "synonyms": [
+      "Lalitpur"
+    ]
+  },
+  {
+    "value": "Bettiah",
+    "synonyms": [
+      "Bettiah"
+    ]
+  },
+  {
+    "value": "Pollachi",
+    "synonyms": [
+      "Pollachi"
+    ]
+  },
+  {
+    "value": "Khanna",
+    "synonyms": [
+      "Khanna"
+    ]
+  },
+  {
+    "value": "Neemuch",
+    "synonyms": [
+      "Neemuch"
+    ]
+  },
+  {
+    "value": "Palwal",
+    "synonyms": [
+      "Palwal"
+    ]
+  },
+  {
+    "value": "Palanpur",
+    "synonyms": [
+      "Palanpur"
+    ]
+  },
+  {
+    "value": "Guntakal",
+    "synonyms": [
+      "Guntakal"
+    ]
+  },
+  {
+    "value": "Nabadwip",
+    "synonyms": [
+      "Nabadwip"
+    ]
+  },
+  {
+    "value": "Udupi",
+    "synonyms": [
+      "Udupi"
+    ]
+  },
+  {
+    "value": "Jagdalpur",
+    "synonyms": [
+      "Jagdalpur"
+    ]
+  },
+  {
+    "value": "Motihari",
+    "synonyms": [
+      "Motihari"
+    ]
+  },
+  {
+    "value": "Pilibhit",
+    "synonyms": [
+      "Pilibhit"
+    ]
+  },
+  {
+    "value": "Dimapur",
+    "synonyms": [
+      "Dimapur"
+    ]
+  },
+  {
+    "value": "Mohali",
+    "synonyms": [
+      "Mohali"
+    ]
+  },
+  {
+    "value": "Sadulpur",
+    "synonyms": [
+      "Sadulpur"
+    ]
+  },
+  {
+    "value": "Rajapalayam",
+    "synonyms": [
+      "Rajapalayam"
+    ]
+  },
+  {
+    "value": "Dharmavaram",
+    "synonyms": [
+      "Dharmavaram"
+    ]
+  },
+  {
+    "value": "Kashipur",
+    "synonyms": [
+      "Kashipur"
+    ]
+  },
+  {
+    "value": "Sivakasi",
+    "synonyms": [
+      "Sivakasi"
+    ]
+  },
+  {
+    "value": "Darjiling",
+    "synonyms": [
+      "Darjiling"
+    ]
+  },
+  {
+    "value": "Chikkamagaluru",
+    "synonyms": [
+      "Chikkamagaluru"
+    ]
+  },
+  {
+    "value": "Gudivada",
+    "synonyms": [
+      "Gudivada"
+    ]
+  },
+  {
+    "value": "Baleshwar Town",
+    "synonyms": [
+      "Baleshwar Town"
+    ]
+  },
+  {
+    "value": "Mancherial",
+    "synonyms": [
+      "Mancherial"
+    ]
+  },
+  {
+    "value": "Srikakulam",
+    "synonyms": [
+      "Srikakulam"
+    ]
+  },
+  {
+    "value": "Adilabad",
+    "synonyms": [
+      "Adilabad"
+    ]
+  },
+  {
+    "value": "Yavatmal",
+    "synonyms": [
+      "Yavatmal"
+    ]
+  },
+  {
+    "value": "Barnala",
+    "synonyms": [
+      "Barnala"
+    ]
+  },
+  {
+    "value": "Nagaon",
+    "synonyms": [
+      "Nagaon"
+    ]
+  },
+  {
+    "value": "Narasaraopet",
+    "synonyms": [
+      "Narasaraopet"
+    ]
+  },
+  {
+    "value": "Raigarh",
+    "synonyms": [
+      "Raigarh"
+    ]
+  },
+  {
+    "value": "Roorkee",
+    "synonyms": [
+      "Roorkee"
+    ]
+  },
+  {
+    "value": "Valsad",
+    "synonyms": [
+      "Valsad"
+    ]
+  },
+  {
+    "value": "Ambikapur",
+    "synonyms": [
+      "Ambikapur"
+    ]
+  },
+  {
+    "value": "Giridih",
+    "synonyms": [
+      "Giridih"
+    ]
+  },
+  {
+    "value": "Chandausi",
+    "synonyms": [
+      "Chandausi"
+    ]
+  },
+  {
+    "value": "Purulia",
+    "synonyms": [
+      "Purulia"
+    ]
+  },
+  {
+    "value": "Patan",
+    "synonyms": [
+      "Patan"
+    ]
+  },
+  {
+    "value": "Bagaha",
+    "synonyms": [
+      "Bagaha"
+    ]
+  },
+  {
+    "value": "Hardoi ",
+    "synonyms": [
+      "Hardoi "
+    ]
+  },
+  {
+    "value": "Achalpur",
+    "synonyms": [
+      "Achalpur"
+    ]
+  },
+  {
+    "value": "Osmanabad",
+    "synonyms": [
+      "Osmanabad"
+    ]
+  },
+  {
+    "value": "Deesa",
+    "synonyms": [
+      "Deesa"
+    ]
+  },
+  {
+    "value": "Nandurbar",
+    "synonyms": [
+      "Nandurbar"
+    ]
+  },
+  {
+    "value": "Azamgarh",
+    "synonyms": [
+      "Azamgarh"
+    ]
+  },
+  {
+    "value": "Ramgarh",
+    "synonyms": [
+      "Ramgarh"
+    ]
+  },
+  {
+    "value": "Firozpur",
+    "synonyms": [
+      "Firozpur"
+    ]
+  },
+  {
+    "value": "Baripada Town",
+    "synonyms": [
+      "Baripada Town"
+    ]
+  },
+  {
+    "value": "Karwar",
+    "synonyms": [
+      "Karwar"
+    ]
+  },
+  {
+    "value": "Siwan",
+    "synonyms": [
+      "Siwan"
+    ]
+  },
+  {
+    "value": "Rajampet",
+    "synonyms": [
+      "Rajampet"
+    ]
+  },
+  {
+    "value": "Pudukkottai",
+    "synonyms": [
+      "Pudukkottai"
+    ]
+  },
+  {
+    "value": "Anantnag",
+    "synonyms": [
+      "Anantnag"
+    ]
+  },
+  {
+    "value": "Tadpatri",
+    "synonyms": [
+      "Tadpatri"
+    ]
+  },
+  {
+    "value": "Satara",
+    "synonyms": [
+      "Satara"
+    ]
+  },
+  {
+    "value": "Bhadrak",
+    "synonyms": [
+      "Bhadrak"
+    ]
+  },
+  {
+    "value": "Kishanganj",
+    "synonyms": [
+      "Kishanganj"
+    ]
+  },
+  {
+    "value": "Suryapet",
+    "synonyms": [
+      "Suryapet"
+    ]
+  },
+  {
+    "value": "Wardha",
+    "synonyms": [
+      "Wardha"
+    ]
+  },
+  {
+    "value": "Ranebennuru",
+    "synonyms": [
+      "Ranebennuru"
+    ]
+  },
+  {
+    "value": "Amreli",
+    "synonyms": [
+      "Amreli"
+    ]
+  },
+  {
+    "value": "Neyveli",
+    "synonyms": [
+      "Neyveli"
+    ]
+  },
+  {
+    "value": "Jamalpur",
+    "synonyms": [
+      "Jamalpur"
+    ]
+  },
+  {
+    "value": "Marmagao",
+    "synonyms": [
+      "Marmagao"
+    ]
+  },
+  {
+    "value": "Udgir",
+    "synonyms": [
+      "Udgir"
+    ]
+  },
+  {
+    "value": "Tadepalligudem",
+    "synonyms": [
+      "Tadepalligudem"
+    ]
+  },
+  {
+    "value": "Nagapattinam",
+    "synonyms": [
+      "Nagapattinam"
+    ]
+  },
+  {
+    "value": "Buxar",
+    "synonyms": [
+      "Buxar"
+    ]
+  },
+  {
+    "value": "Aurangabad",
+    "synonyms": [
+      "Aurangabad"
+    ]
+  },
+  {
+    "value": "Jehanabad",
+    "synonyms": [
+      "Jehanabad"
+    ]
+  },
+  {
+    "value": "Phagwara",
+    "synonyms": [
+      "Phagwara"
+    ]
+  },
+  {
+    "value": "Khair",
+    "synonyms": [
+      "Khair"
+    ]
+  },
+  {
+    "value": "Sawai Madhopur",
+    "synonyms": [
+      "Sawai Madhopur"
+    ]
+  },
+  {
+    "value": "Kapurthala",
+    "synonyms": [
+      "Kapurthala"
+    ]
+  },
+  {
+    "value": "Chilakaluripet",
+    "synonyms": [
+      "Chilakaluripet"
+    ]
+  },
+  {
+    "value": "Malappuram",
+    "synonyms": [
+      "Malappuram"
+    ]
+  },
+  {
+    "value": "Rewari",
+    "synonyms": [
+      "Rewari"
+    ]
+  },
+  {
+    "value": "Nagaur",
+    "synonyms": [
+      "Nagaur"
+    ]
+  },
+  {
+    "value": "Sultanpur",
+    "synonyms": [
+      "Sultanpur"
+    ]
+  },
+  {
+    "value": "Nagda",
+    "synonyms": [
+      "Nagda"
+    ]
+  },
+  {
+    "value": "Port Blair",
+    "synonyms": [
+      "Port Blair"
+    ]
+  },
+  {
+    "value": "Lakhisarai",
+    "synonyms": [
+      "Lakhisarai"
+    ]
+  },
+  {
+    "value": "Panaji",
+    "synonyms": [
+      "Panaji"
+    ]
+  },
+  {
+    "value": "Tinsukia",
+    "synonyms": [
+      "Tinsukia"
+    ]
+  },
+  {
+    "value": "Itarsi",
+    "synonyms": [
+      "Itarsi"
+    ]
+  },
+  {
+    "value": "Kohima",
+    "synonyms": [
+      "Kohima"
+    ]
+  },
+  {
+    "value": "Balangir",
+    "synonyms": [
+      "Balangir"
+    ]
+  },
+  {
+    "value": "Nawada",
+    "synonyms": [
+      "Nawada"
+    ]
+  },
+  {
+    "value": "Jharsuguda",
+    "synonyms": [
+      "Jharsuguda"
+    ]
+  },
+  {
+    "value": "Jagtial",
+    "synonyms": [
+      "Jagtial"
+    ]
+  },
+  {
+    "value": "Viluppuram",
+    "synonyms": [
+      "Viluppuram"
+    ]
+  },
+  {
+    "value": "Amalner",
+    "synonyms": [
+      "Amalner"
+    ]
+  },
+  {
+    "value": "Zirakpur",
+    "synonyms": [
+      "Zirakpur"
+    ]
+  },
+  {
+    "value": "Tanda",
+    "synonyms": [
+      "Tanda"
+    ]
+  },
+  {
+    "value": "Tiruchengode",
+    "synonyms": [
+      "Tiruchengode"
+    ]
+  },
+  {
+    "value": "Nagina",
+    "synonyms": [
+      "Nagina"
+    ]
+  },
+  {
+    "value": "Yemmiganur",
+    "synonyms": [
+      "Yemmiganur"
+    ]
+  },
+  {
+    "value": "Vaniyambadi",
+    "synonyms": [
+      "Vaniyambadi"
+    ]
+  },
+  {
+    "value": "Sarni",
+    "synonyms": [
+      "Sarni"
+    ]
+  },
+  {
+    "value": "Theni Allinagaram",
+    "synonyms": [
+      "Theni Allinagaram"
+    ]
+  },
+  {
+    "value": "Margao",
+    "synonyms": [
+      "Margao"
+    ]
+  },
+  {
+    "value": "Akot",
+    "synonyms": [
+      "Akot"
+    ]
+  },
+  {
+    "value": "Sehore",
+    "synonyms": [
+      "Sehore"
+    ]
+  },
+  {
+    "value": "Mhow Cantonment",
+    "synonyms": [
+      "Mhow Cantonment"
+    ]
+  },
+  {
+    "value": "Kot Kapura",
+    "synonyms": [
+      "Kot Kapura"
+    ]
+  },
+  {
+    "value": "Makrana",
+    "synonyms": [
+      "Makrana"
+    ]
+  },
+  {
+    "value": "Pandharpur",
+    "synonyms": [
+      "Pandharpur"
+    ]
+  },
+  {
+    "value": "Miryalaguda",
+    "synonyms": [
+      "Miryalaguda"
+    ]
+  },
+  {
+    "value": "Shamli",
+    "synonyms": [
+      "Shamli"
+    ]
+  },
+  {
+    "value": "Seoni",
+    "synonyms": [
+      "Seoni"
+    ]
+  },
+  {
+    "value": "Ranibennur",
+    "synonyms": [
+      "Ranibennur"
+    ]
+  },
+  {
+    "value": "Kadiri",
+    "synonyms": [
+      "Kadiri"
+    ]
+  },
+  {
+    "value": "Shrirampur",
+    "synonyms": [
+      "Shrirampur"
+    ]
+  },
+  {
+    "value": "Rudrapur",
+    "synonyms": [
+      "Rudrapur"
+    ]
+  },
+  {
+    "value": "Parli",
+    "synonyms": [
+      "Parli"
+    ]
+  },
+  {
+    "value": "Najibabad",
+    "synonyms": [
+      "Najibabad"
+    ]
+  },
+  {
+    "value": "Nirmal",
+    "synonyms": [
+      "Nirmal"
+    ]
+  },
+  {
+    "value": "Udhagamandalam",
+    "synonyms": [
+      "Udhagamandalam"
+    ]
+  },
+  {
+    "value": "Shikohabad",
+    "synonyms": [
+      "Shikohabad"
+    ]
+  },
+  {
+    "value": "Jhumri Tilaiya",
+    "synonyms": [
+      "Jhumri Tilaiya"
+    ]
+  },
+  {
+    "value": "Aruppukkottai",
+    "synonyms": [
+      "Aruppukkottai"
+    ]
+  },
+  {
+    "value": "Ponnani",
+    "synonyms": [
+      "Ponnani"
+    ]
+  },
+  {
+    "value": "Jamui",
+    "synonyms": [
+      "Jamui"
+    ]
+  },
+  {
+    "value": "Sitamarhi",
+    "synonyms": [
+      "Sitamarhi"
+    ]
+  },
+  {
+    "value": "Chirala",
+    "synonyms": [
+      "Chirala"
+    ]
+  },
+  {
+    "value": "Anjar",
+    "synonyms": [
+      "Anjar"
+    ]
+  },
+  {
+    "value": "Karaikal",
+    "synonyms": [
+      "Karaikal"
+    ]
+  },
+  {
+    "value": "Hansi",
+    "synonyms": [
+      "Hansi"
+    ]
+  },
+  {
+    "value": "Anakapalle",
+    "synonyms": [
+      "Anakapalle"
+    ]
+  },
+  {
+    "value": "Mahasamund",
+    "synonyms": [
+      "Mahasamund"
+    ]
+  },
+  {
+    "value": "Faridkot",
+    "synonyms": [
+      "Faridkot"
+    ]
+  },
+  {
+    "value": "Saunda",
+    "synonyms": [
+      "Saunda"
+    ]
+  },
+  {
+    "value": "Dhoraji",
+    "synonyms": [
+      "Dhoraji"
+    ]
+  },
+  {
+    "value": "Paramakudi",
+    "synonyms": [
+      "Paramakudi"
+    ]
+  },
+  {
+    "value": "Balaghat",
+    "synonyms": [
+      "Balaghat"
+    ]
+  },
+  {
+    "value": "Sujangarh",
+    "synonyms": [
+      "Sujangarh"
+    ]
+  },
+  {
+    "value": "Khambhat",
+    "synonyms": [
+      "Khambhat"
+    ]
+  },
+  {
+    "value": "Muktsar",
+    "synonyms": [
+      "Muktsar"
+    ]
+  },
+  {
+    "value": "Rajpura",
+    "synonyms": [
+      "Rajpura"
+    ]
+  },
+  {
+    "value": "Kavali",
+    "synonyms": [
+      "Kavali"
+    ]
+  },
+  {
+    "value": "Dhamtari",
+    "synonyms": [
+      "Dhamtari"
+    ]
+  },
+  {
+    "value": "Ashok Nagar",
+    "synonyms": [
+      "Ashok Nagar"
+    ]
+  },
+  {
+    "value": "Sardarshahar",
+    "synonyms": [
+      "Sardarshahar"
+    ]
+  },
+  {
+    "value": "Mahuva",
+    "synonyms": [
+      "Mahuva"
+    ]
+  },
+  {
+    "value": "Bargarh",
+    "synonyms": [
+      "Bargarh"
+    ]
+  },
+  {
+    "value": "Kamareddy",
+    "synonyms": [
+      "Kamareddy"
+    ]
+  },
+  {
+    "value": "Sahibganj",
+    "synonyms": [
+      "Sahibganj"
+    ]
+  },
+  {
+    "value": "Kothagudem",
+    "synonyms": [
+      "Kothagudem"
+    ]
+  },
+  {
+    "value": "Ramanagaram",
+    "synonyms": [
+      "Ramanagaram"
+    ]
+  },
+  {
+    "value": "Gokak",
+    "synonyms": [
+      "Gokak"
+    ]
+  },
+  {
+    "value": "Tikamgarh",
+    "synonyms": [
+      "Tikamgarh"
+    ]
+  },
+  {
+    "value": "Araria",
+    "synonyms": [
+      "Araria"
+    ]
+  },
+  {
+    "value": "Rishikesh",
+    "synonyms": [
+      "Rishikesh"
+    ]
+  },
+  {
+    "value": "Shahdol",
+    "synonyms": [
+      "Shahdol"
+    ]
+  },
+  {
+    "value": "Medininagar",
+    "synonyms": [
+      "Medininagar"
+    ]
+  },
+  {
+    "value": "Arakkonam",
+    "synonyms": [
+      "Arakkonam"
+    ]
+  },
+  {
+    "value": "Washim",
+    "synonyms": [
+      "Washim"
+    ]
+  },
+  {
+    "value": "Sangrur",
+    "synonyms": [
+      "Sangrur"
+    ]
+  },
+  {
+    "value": "Bodhan",
+    "synonyms": [
+      "Bodhan"
+    ]
+  },
+  {
+    "value": "Fazilka",
+    "synonyms": [
+      "Fazilka"
+    ]
+  },
+  {
+    "value": "Palacole",
+    "synonyms": [
+      "Palacole"
+    ]
+  },
+  {
+    "value": "Keshod",
+    "synonyms": [
+      "Keshod"
+    ]
+  },
+  {
+    "value": "Sullurpeta",
+    "synonyms": [
+      "Sullurpeta"
+    ]
+  },
+  {
+    "value": "Wadhwan",
+    "synonyms": [
+      "Wadhwan"
+    ]
+  },
+  {
+    "value": "Gurdaspur",
+    "synonyms": [
+      "Gurdaspur"
+    ]
+  },
+  {
+    "value": "Vatakara",
+    "synonyms": [
+      "Vatakara"
+    ]
+  },
+  {
+    "value": "Tura",
+    "synonyms": [
+      "Tura"
+    ]
+  },
+  {
+    "value": "Narnaul",
+    "synonyms": [
+      "Narnaul"
+    ]
+  },
+  {
+    "value": "Kharar",
+    "synonyms": [
+      "Kharar"
+    ]
+  },
+  {
+    "value": "Yadgir",
+    "synonyms": [
+      "Yadgir"
+    ]
+  },
+  {
+    "value": "Ambejogai",
+    "synonyms": [
+      "Ambejogai"
+    ]
+  },
+  {
+    "value": "Ankleshwar",
+    "synonyms": [
+      "Ankleshwar"
+    ]
+  },
+  {
+    "value": "Savarkundla",
+    "synonyms": [
+      "Savarkundla"
+    ]
+  },
+  {
+    "value": "Paradip",
+    "synonyms": [
+      "Paradip"
+    ]
+  },
+  {
+    "value": "Virudhachalam",
+    "synonyms": [
+      "Virudhachalam"
+    ]
+  },
+  {
+    "value": "Kanhangad",
+    "synonyms": [
+      "Kanhangad"
+    ]
+  },
+  {
+    "value": "Kadi",
+    "synonyms": [
+      "Kadi"
+    ]
+  },
+  {
+    "value": "Srivilliputhur",
+    "synonyms": [
+      "Srivilliputhur"
+    ]
+  },
+  {
+    "value": "Gobindgarh",
+    "synonyms": [
+      "Gobindgarh"
+    ]
+  },
+  {
+    "value": "Tindivanam",
+    "synonyms": [
+      "Tindivanam"
+    ]
+  },
+  {
+    "value": "Mansa",
+    "synonyms": [
+      "Mansa"
+    ]
+  },
+  {
+    "value": "Taliparamba",
+    "synonyms": [
+      "Taliparamba"
+    ]
+  },
+  {
+    "value": "Manmad",
+    "synonyms": [
+      "Manmad"
+    ]
+  },
+  {
+    "value": "Tanuku",
+    "synonyms": [
+      "Tanuku"
+    ]
+  },
+  {
+    "value": "Rayachoti",
+    "synonyms": [
+      "Rayachoti"
+    ]
+  },
+  {
+    "value": "Virudhunagar",
+    "synonyms": [
+      "Virudhunagar"
+    ]
+  },
+  {
+    "value": "Koyilandy",
+    "synonyms": [
+      "Koyilandy"
+    ]
+  },
+  {
+    "value": "Jorhat",
+    "synonyms": [
+      "Jorhat"
+    ]
+  },
+  {
+    "value": "Karur",
+    "synonyms": [
+      "Karur"
+    ]
+  },
+  {
+    "value": "Valparai",
+    "synonyms": [
+      "Valparai"
+    ]
+  },
+  {
+    "value": "Srikalahasti",
+    "synonyms": [
+      "Srikalahasti"
+    ]
+  },
+  {
+    "value": "Neyyattinkara",
+    "synonyms": [
+      "Neyyattinkara"
+    ]
+  },
+  {
+    "value": "Bapatla",
+    "synonyms": [
+      "Bapatla"
+    ]
+  },
+  {
+    "value": "Fatehabad",
+    "synonyms": [
+      "Fatehabad"
+    ]
+  },
+  {
+    "value": "Malout",
+    "synonyms": [
+      "Malout"
+    ]
+  },
+  {
+    "value": "Sankarankovil",
+    "synonyms": [
+      "Sankarankovil"
+    ]
+  },
+  {
+    "value": "Tenkasi",
+    "synonyms": [
+      "Tenkasi"
+    ]
+  },
+  {
+    "value": "Ratnagiri",
+    "synonyms": [
+      "Ratnagiri"
+    ]
+  },
+  {
+    "value": "Rabkavi Banhatti",
+    "synonyms": [
+      "Rabkavi Banhatti"
+    ]
+  },
+  {
+    "value": "Sikandrabad",
+    "synonyms": [
+      "Sikandrabad"
+    ]
+  },
+  {
+    "value": "Chaibasa",
+    "synonyms": [
+      "Chaibasa"
+    ]
+  },
+  {
+    "value": "Chirmiri",
+    "synonyms": [
+      "Chirmiri"
+    ]
+  },
+  {
+    "value": "Palwancha",
+    "synonyms": [
+      "Palwancha"
+    ]
+  },
+  {
+    "value": "Bhawanipatna",
+    "synonyms": [
+      "Bhawanipatna"
+    ]
+  },
+  {
+    "value": "Kayamkulam",
+    "synonyms": [
+      "Kayamkulam"
+    ]
+  },
+  {
+    "value": "Pithampur",
+    "synonyms": [
+      "Pithampur"
+    ]
+  },
+  {
+    "value": "Nabha",
+    "synonyms": [
+      "Nabha"
+    ]
+  },
+  {
+    "value": "Shahabad, Hardoi",
+    "synonyms": [
+      "Shahabad, Hardoi"
+    ]
+  },
+  {
+    "value": "Dhenkanal",
+    "synonyms": [
+      "Dhenkanal"
+    ]
+  },
+  {
+    "value": "Uran Islampur",
+    "synonyms": [
+      "Uran Islampur"
+    ]
+  },
+  {
+    "value": "Gopalganj",
+    "synonyms": [
+      "Gopalganj"
+    ]
+  },
+  {
+    "value": "Bongaigaon City",
+    "synonyms": [
+      "Bongaigaon City"
+    ]
+  },
+  {
+    "value": "Palani",
+    "synonyms": [
+      "Palani"
+    ]
+  },
+  {
+    "value": "Pusad",
+    "synonyms": [
+      "Pusad"
+    ]
+  },
+  {
+    "value": "Sopore",
+    "synonyms": [
+      "Sopore"
+    ]
+  },
+  {
+    "value": "Pilkhuwa",
+    "synonyms": [
+      "Pilkhuwa"
+    ]
+  },
+  {
+    "value": "Tarn Taran",
+    "synonyms": [
+      "Tarn Taran"
+    ]
+  },
+  {
+    "value": "Renukoot",
+    "synonyms": [
+      "Renukoot"
+    ]
+  },
+  {
+    "value": "Mandamarri",
+    "synonyms": [
+      "Mandamarri"
+    ]
+  },
+  {
+    "value": "Shahabad",
+    "synonyms": [
+      "Shahabad"
+    ]
+  },
+  {
+    "value": "Barbil",
+    "synonyms": [
+      "Barbil"
+    ]
+  },
+  {
+    "value": "Koratla",
+    "synonyms": [
+      "Koratla"
+    ]
+  },
+  {
+    "value": "Madhubani",
+    "synonyms": [
+      "Madhubani"
+    ]
+  },
+  {
+    "value": "Arambagh",
+    "synonyms": [
+      "Arambagh"
+    ]
+  },
+  {
+    "value": "Gohana",
+    "synonyms": [
+      "Gohana"
+    ]
+  },
+  {
+    "value": "Ladnu",
+    "synonyms": [
+      "Ladnu"
+    ]
+  },
+  {
+    "value": "Pattukkottai",
+    "synonyms": [
+      "Pattukkottai"
+    ]
+  },
+  {
+    "value": "Sirsi",
+    "synonyms": [
+      "Sirsi"
+    ]
+  },
+  {
+    "value": "Sircilla",
+    "synonyms": [
+      "Sircilla"
+    ]
+  },
+  {
+    "value": "Tamluk",
+    "synonyms": [
+      "Tamluk"
+    ]
+  },
+  {
+    "value": "Jagraon",
+    "synonyms": [
+      "Jagraon"
+    ]
+  },
+  {
+    "value": "AlipurdUrban Agglomerationr",
+    "synonyms": [
+      "AlipurdUrban Agglomerationr"
+    ]
+  },
+  {
+    "value": "Alirajpur",
+    "synonyms": [
+      "Alirajpur"
+    ]
+  },
+  {
+    "value": "Tandur",
+    "synonyms": [
+      "Tandur"
+    ]
+  },
+  {
+    "value": "Naidupet",
+    "synonyms": [
+      "Naidupet"
+    ]
+  },
+  {
+    "value": "Tirupathur",
+    "synonyms": [
+      "Tirupathur"
+    ]
+  },
+  {
+    "value": "Tohana",
+    "synonyms": [
+      "Tohana"
+    ]
+  },
+  {
+    "value": "Ratangarh",
+    "synonyms": [
+      "Ratangarh"
+    ]
+  },
+  {
+    "value": "Dhubri",
+    "synonyms": [
+      "Dhubri"
+    ]
+  },
+  {
+    "value": "Masaurhi",
+    "synonyms": [
+      "Masaurhi"
+    ]
+  },
+  {
+    "value": "Visnagar",
+    "synonyms": [
+      "Visnagar"
+    ]
+  },
+  {
+    "value": "Vrindavan",
+    "synonyms": [
+      "Vrindavan"
+    ]
+  },
+  {
+    "value": "Nokha",
+    "synonyms": [
+      "Nokha"
+    ]
+  },
+  {
+    "value": "Nagari",
+    "synonyms": [
+      "Nagari"
+    ]
+  },
+  {
+    "value": "Narwana",
+    "synonyms": [
+      "Narwana"
+    ]
+  },
+  {
+    "value": "Ramanathapuram",
+    "synonyms": [
+      "Ramanathapuram"
+    ]
+  },
+  {
+    "value": "Ujhani",
+    "synonyms": [
+      "Ujhani"
+    ]
+  },
+  {
+    "value": "Samastipur",
+    "synonyms": [
+      "Samastipur"
+    ]
+  },
+  {
+    "value": "Laharpur",
+    "synonyms": [
+      "Laharpur"
+    ]
+  },
+  {
+    "value": "Sangamner",
+    "synonyms": [
+      "Sangamner"
+    ]
+  },
+  {
+    "value": "Nimbahera",
+    "synonyms": [
+      "Nimbahera"
+    ]
+  },
+  {
+    "value": "Siddipet",
+    "synonyms": [
+      "Siddipet"
+    ]
+  },
+  {
+    "value": "Suri",
+    "synonyms": [
+      "Suri"
+    ]
+  },
+  {
+    "value": "Diphu",
+    "synonyms": [
+      "Diphu"
+    ]
+  },
+  {
+    "value": "Jhargram",
+    "synonyms": [
+      "Jhargram"
+    ]
+  },
+  {
+    "value": "Shirpur-Warwade",
+    "synonyms": [
+      "Shirpur-Warwade"
+    ]
+  },
+  {
+    "value": "Tilhar",
+    "synonyms": [
+      "Tilhar"
+    ]
+  },
+  {
+    "value": "Sindhnur",
+    "synonyms": [
+      "Sindhnur"
+    ]
+  },
+  {
+    "value": "Udumalaipettai",
+    "synonyms": [
+      "Udumalaipettai"
+    ]
+  },
+  {
+    "value": "Malkapur",
+    "synonyms": [
+      "Malkapur"
+    ]
+  },
+  {
+    "value": "Wanaparthy",
+    "synonyms": [
+      "Wanaparthy"
+    ]
+  },
+  {
+    "value": "Gudur",
+    "synonyms": [
+      "Gudur"
+    ]
+  },
+  {
+    "value": "Kendujhar",
+    "synonyms": [
+      "Kendujhar"
+    ]
+  },
+  {
+    "value": "Mandla",
+    "synonyms": [
+      "Mandla"
+    ]
+  },
+  {
+    "value": "Mandi",
+    "synonyms": [
+      "Mandi"
+    ]
+  },
+  {
+    "value": "Nedumangad",
+    "synonyms": [
+      "Nedumangad"
+    ]
+  },
+  {
+    "value": "North Lakhimpur",
+    "synonyms": [
+      "North Lakhimpur"
+    ]
+  },
+  {
+    "value": "Vinukonda",
+    "synonyms": [
+      "Vinukonda"
+    ]
+  },
+  {
+    "value": "Tiptur",
+    "synonyms": [
+      "Tiptur"
+    ]
+  },
+  {
+    "value": "Gobichettipalayam",
+    "synonyms": [
+      "Gobichettipalayam"
+    ]
+  },
+  {
+    "value": "Sunabeda",
+    "synonyms": [
+      "Sunabeda"
+    ]
+  },
+  {
+    "value": "Wani",
+    "synonyms": [
+      "Wani"
+    ]
+  },
+  {
+    "value": "Upleta",
+    "synonyms": [
+      "Upleta"
+    ]
+  },
+  {
+    "value": "Narasapuram",
+    "synonyms": [
+      "Narasapuram"
+    ]
+  },
+  {
+    "value": "Nuzvid",
+    "synonyms": [
+      "Nuzvid"
+    ]
+  },
+  {
+    "value": "Tezpur",
+    "synonyms": [
+      "Tezpur"
+    ]
+  },
+  {
+    "value": "Una",
+    "synonyms": [
+      "Una"
+    ]
+  },
+  {
+    "value": "Markapur",
+    "synonyms": [
+      "Markapur"
+    ]
+  },
+  {
+    "value": "Sheopur",
+    "synonyms": [
+      "Sheopur"
+    ]
+  },
+  {
+    "value": "Thiruvarur",
+    "synonyms": [
+      "Thiruvarur"
+    ]
+  },
+  {
+    "value": "Sidhpur",
+    "synonyms": [
+      "Sidhpur"
+    ]
+  },
+  {
+    "value": "Sahaswan",
+    "synonyms": [
+      "Sahaswan"
+    ]
+  },
+  {
+    "value": "Suratgarh",
+    "synonyms": [
+      "Suratgarh"
+    ]
+  },
+  {
+    "value": "Shajapur",
+    "synonyms": [
+      "Shajapur"
+    ]
+  },
+  {
+    "value": "Rayagada",
+    "synonyms": [
+      "Rayagada"
+    ]
+  },
+  {
+    "value": "Lonavla",
+    "synonyms": [
+      "Lonavla"
+    ]
+  },
+  {
+    "value": "Ponnur",
+    "synonyms": [
+      "Ponnur"
+    ]
+  },
+  {
+    "value": "Kagaznagar",
+    "synonyms": [
+      "Kagaznagar"
+    ]
+  },
+  {
+    "value": "Gadwal",
+    "synonyms": [
+      "Gadwal"
+    ]
+  },
+  {
+    "value": "Bhatapara",
+    "synonyms": [
+      "Bhatapara"
+    ]
+  },
+  {
+    "value": "Kandukur",
+    "synonyms": [
+      "Kandukur"
+    ]
+  },
+  {
+    "value": "Sangareddy",
+    "synonyms": [
+      "Sangareddy"
+    ]
+  },
+  {
+    "value": "Unjha",
+    "synonyms": [
+      "Unjha"
+    ]
+  },
+  {
+    "value": "Lunglei",
+    "synonyms": [
+      "Lunglei"
+    ]
+  },
+  {
+    "value": "Karimganj",
+    "synonyms": [
+      "Karimganj"
+    ]
+  },
+  {
+    "value": "Kannur",
+    "synonyms": [
+      "Kannur"
+    ]
+  },
+  {
+    "value": "Bobbili",
+    "synonyms": [
+      "Bobbili"
+    ]
+  },
+  {
+    "value": "Mokameh",
+    "synonyms": [
+      "Mokameh"
+    ]
+  },
+  {
+    "value": "Talegaon Dabhade",
+    "synonyms": [
+      "Talegaon Dabhade"
+    ]
+  },
+  {
+    "value": "Anjangaon",
+    "synonyms": [
+      "Anjangaon"
+    ]
+  },
+  {
+    "value": "Mangrol",
+    "synonyms": [
+      "Mangrol"
+    ]
+  },
+  {
+    "value": "Sunam",
+    "synonyms": [
+      "Sunam"
+    ]
+  },
+  {
+    "value": "Gangarampur",
+    "synonyms": [
+      "Gangarampur"
+    ]
+  },
+  {
+    "value": "Thiruvallur",
+    "synonyms": [
+      "Thiruvallur"
+    ]
+  },
+  {
+    "value": "Tirur",
+    "synonyms": [
+      "Tirur"
+    ]
+  },
+  {
+    "value": "Rath",
+    "synonyms": [
+      "Rath"
+    ]
+  },
+  {
+    "value": "Jatani",
+    "synonyms": [
+      "Jatani"
+    ]
+  },
+  {
+    "value": "Viramgam",
+    "synonyms": [
+      "Viramgam"
+    ]
+  },
+  {
+    "value": "Rajsamand",
+    "synonyms": [
+      "Rajsamand"
+    ]
+  },
+  {
+    "value": "Yanam",
+    "synonyms": [
+      "Yanam"
+    ]
+  },
+  {
+    "value": "Kottayam",
+    "synonyms": [
+      "Kottayam"
+    ]
+  },
+  {
+    "value": "Panruti",
+    "synonyms": [
+      "Panruti"
+    ]
+  },
+  {
+    "value": "Dhuri",
+    "synonyms": [
+      "Dhuri"
+    ]
+  },
+  {
+    "value": "Namakkal",
+    "synonyms": [
+      "Namakkal"
+    ]
+  },
+  {
+    "value": "Kasaragod",
+    "synonyms": [
+      "Kasaragod"
+    ]
+  },
+  {
+    "value": "Modasa",
+    "synonyms": [
+      "Modasa"
+    ]
+  },
+  {
+    "value": "Rayadurg",
+    "synonyms": [
+      "Rayadurg"
+    ]
+  },
+  {
+    "value": "Supaul",
+    "synonyms": [
+      "Supaul"
+    ]
+  },
+  {
+    "value": "Kunnamkulam",
+    "synonyms": [
+      "Kunnamkulam"
+    ]
+  },
+  {
+    "value": "Umred",
+    "synonyms": [
+      "Umred"
+    ]
+  },
+  {
+    "value": "Bellampalle",
+    "synonyms": [
+      "Bellampalle"
+    ]
+  },
+  {
+    "value": "Sibsagar",
+    "synonyms": [
+      "Sibsagar"
+    ]
+  },
+  {
+    "value": "Mandi Dabwali",
+    "synonyms": [
+      "Mandi Dabwali"
+    ]
+  },
+  {
+    "value": "Ottappalam",
+    "synonyms": [
+      "Ottappalam"
+    ]
+  },
+  {
+    "value": "Dumraon",
+    "synonyms": [
+      "Dumraon"
+    ]
+  },
+  {
+    "value": "Samalkot",
+    "synonyms": [
+      "Samalkot"
+    ]
+  },
+  {
+    "value": "Jaggaiahpet",
+    "synonyms": [
+      "Jaggaiahpet"
+    ]
+  },
+  {
+    "value": "Goalpara",
+    "synonyms": [
+      "Goalpara"
+    ]
+  },
+  {
+    "value": "Tuni",
+    "synonyms": [
+      "Tuni"
+    ]
+  },
+  {
+    "value": "Lachhmangarh",
+    "synonyms": [
+      "Lachhmangarh"
+    ]
+  },
+  {
+    "value": "Bhongir",
+    "synonyms": [
+      "Bhongir"
+    ]
+  },
+  {
+    "value": "Amalapuram",
+    "synonyms": [
+      "Amalapuram"
+    ]
+  },
+  {
+    "value": "Firozpur Cantt.",
+    "synonyms": [
+      "Firozpur Cantt."
+    ]
+  },
+  {
+    "value": "Vikarabad",
+    "synonyms": [
+      "Vikarabad"
+    ]
+  },
+  {
+    "value": "Thiruvalla",
+    "synonyms": [
+      "Thiruvalla"
+    ]
+  },
+  {
+    "value": "Sherkot",
+    "synonyms": [
+      "Sherkot"
+    ]
+  },
+  {
+    "value": "Palghar",
+    "synonyms": [
+      "Palghar"
+    ]
+  },
+  {
+    "value": "Shegaon",
+    "synonyms": [
+      "Shegaon"
+    ]
+  },
+  {
+    "value": "Jangaon",
+    "synonyms": [
+      "Jangaon"
+    ]
+  },
+  {
+    "value": "Bheemunipatnam",
+    "synonyms": [
+      "Bheemunipatnam"
+    ]
+  },
+  {
+    "value": "Panna",
+    "synonyms": [
+      "Panna"
+    ]
+  },
+  {
+    "value": "Thodupuzha",
+    "synonyms": [
+      "Thodupuzha"
+    ]
+  },
+  {
+    "value": "KathUrban Agglomeration",
+    "synonyms": [
+      "KathUrban Agglomeration"
+    ]
+  },
+  {
+    "value": "Palitana",
+    "synonyms": [
+      "Palitana"
+    ]
+  },
+  {
+    "value": "Arwal",
+    "synonyms": [
+      "Arwal"
+    ]
+  },
+  {
+    "value": "Venkatagiri",
+    "synonyms": [
+      "Venkatagiri"
+    ]
+  },
+  {
+    "value": "Kalpi",
+    "synonyms": [
+      "Kalpi"
+    ]
+  },
+  {
+    "value": "Rajgarh",
+    "synonyms": [
+      "Rajgarh"
+    ]
+  },
+  {
+    "value": "Sattenapalle",
+    "synonyms": [
+      "Sattenapalle"
+    ]
+  },
+  {
+    "value": "Arsikere",
+    "synonyms": [
+      "Arsikere"
+    ]
+  },
+  {
+    "value": "Ozar",
+    "synonyms": [
+      "Ozar"
+    ]
+  },
+  {
+    "value": "Thirumangalam",
+    "synonyms": [
+      "Thirumangalam"
+    ]
+  },
+  {
+    "value": "Petlad",
+    "synonyms": [
+      "Petlad"
+    ]
+  },
+  {
+    "value": "Nasirabad",
+    "synonyms": [
+      "Nasirabad"
+    ]
+  },
+  {
+    "value": "Phaltan",
+    "synonyms": [
+      "Phaltan"
+    ]
+  },
+  {
+    "value": "Rampurhat",
+    "synonyms": [
+      "Rampurhat"
+    ]
+  },
+  {
+    "value": "Nanjangud",
+    "synonyms": [
+      "Nanjangud"
+    ]
+  },
+  {
+    "value": "Forbesganj",
+    "synonyms": [
+      "Forbesganj"
+    ]
+  },
+  {
+    "value": "Tundla",
+    "synonyms": [
+      "Tundla"
+    ]
+  },
+  {
+    "value": "BhabUrban Agglomeration",
+    "synonyms": [
+      "BhabUrban Agglomeration"
+    ]
+  },
+  {
+    "value": "Sagara",
+    "synonyms": [
+      "Sagara"
+    ]
+  },
+  {
+    "value": "Pithapuram",
+    "synonyms": [
+      "Pithapuram"
+    ]
+  },
+  {
+    "value": "Sira",
+    "synonyms": [
+      "Sira"
+    ]
+  },
+  {
+    "value": "Bhadrachalam",
+    "synonyms": [
+      "Bhadrachalam"
+    ]
+  },
+  {
+    "value": "Charkhi Dadri",
+    "synonyms": [
+      "Charkhi Dadri"
+    ]
+  },
+  {
+    "value": "Chatra",
+    "synonyms": [
+      "Chatra"
+    ]
+  },
+  {
+    "value": "Palasa Kasibugga",
+    "synonyms": [
+      "Palasa Kasibugga"
+    ]
+  },
+  {
+    "value": "Nohar",
+    "synonyms": [
+      "Nohar"
+    ]
+  },
+  {
+    "value": "Yevla",
+    "synonyms": [
+      "Yevla"
+    ]
+  },
+  {
+    "value": "Sirhind Fatehgarh Sahib",
+    "synonyms": [
+      "Sirhind Fatehgarh Sahib"
+    ]
+  },
+  {
+    "value": "Bhainsa",
+    "synonyms": [
+      "Bhainsa"
+    ]
+  },
+  {
+    "value": "Parvathipuram",
+    "synonyms": [
+      "Parvathipuram"
+    ]
+  },
+  {
+    "value": "Shahade",
+    "synonyms": [
+      "Shahade"
+    ]
+  },
+  {
+    "value": "Chalakudy",
+    "synonyms": [
+      "Chalakudy"
+    ]
+  },
+  {
+    "value": "Narkatiaganj",
+    "synonyms": [
+      "Narkatiaganj"
+    ]
+  },
+  {
+    "value": "Kapadvanj",
+    "synonyms": [
+      "Kapadvanj"
+    ]
+  },
+  {
+    "value": "Macherla",
+    "synonyms": [
+      "Macherla"
+    ]
+  },
+  {
+    "value": "Raghogarh-Vijaypur",
+    "synonyms": [
+      "Raghogarh-Vijaypur"
+    ]
+  },
+  {
+    "value": "Rupnagar",
+    "synonyms": [
+      "Rupnagar"
+    ]
+  },
+  {
+    "value": "Naugachhia",
+    "synonyms": [
+      "Naugachhia"
+    ]
+  },
+  {
+    "value": "Sendhwa",
+    "synonyms": [
+      "Sendhwa"
+    ]
+  },
+  {
+    "value": "Byasanagar",
+    "synonyms": [
+      "Byasanagar"
+    ]
+  },
+  {
+    "value": "Sandila",
+    "synonyms": [
+      "Sandila"
+    ]
+  },
+  {
+    "value": "Gooty",
+    "synonyms": [
+      "Gooty"
+    ]
+  },
+  {
+    "value": "Salur",
+    "synonyms": [
+      "Salur"
+    ]
+  },
+  {
+    "value": "Nanpara",
+    "synonyms": [
+      "Nanpara"
+    ]
+  },
+  {
+    "value": "Sardhana",
+    "synonyms": [
+      "Sardhana"
+    ]
+  },
+  {
+    "value": "Vita",
+    "synonyms": [
+      "Vita"
+    ]
+  },
+  {
+    "value": "Gumia",
+    "synonyms": [
+      "Gumia"
+    ]
+  },
+  {
+    "value": "Puttur",
+    "synonyms": [
+      "Puttur"
+    ]
+  },
+  {
+    "value": "Jalandhar Cantt.",
+    "synonyms": [
+      "Jalandhar Cantt."
+    ]
+  },
+  {
+    "value": "Nehtaur",
+    "synonyms": [
+      "Nehtaur"
+    ]
+  },
+  {
+    "value": "Changanassery",
+    "synonyms": [
+      "Changanassery"
+    ]
+  },
+  {
+    "value": "Mandapeta",
+    "synonyms": [
+      "Mandapeta"
+    ]
+  },
+  {
+    "value": "Dumka",
+    "synonyms": [
+      "Dumka"
+    ]
+  },
+  {
+    "value": "Seohara",
+    "synonyms": [
+      "Seohara"
+    ]
+  },
+  {
+    "value": "Umarkhed",
+    "synonyms": [
+      "Umarkhed"
+    ]
+  },
+  {
+    "value": "Madhupur",
+    "synonyms": [
+      "Madhupur"
+    ]
+  },
+  {
+    "value": "Vikramasingapuram",
+    "synonyms": [
+      "Vikramasingapuram"
+    ]
+  },
+  {
+    "value": "Punalur",
+    "synonyms": [
+      "Punalur"
+    ]
+  },
+  {
+    "value": "Kendrapara",
+    "synonyms": [
+      "Kendrapara"
+    ]
+  },
+  {
+    "value": "Sihor",
+    "synonyms": [
+      "Sihor"
+    ]
+  },
+  {
+    "value": "Nellikuppam",
+    "synonyms": [
+      "Nellikuppam"
+    ]
+  },
+  {
+    "value": "Samana",
+    "synonyms": [
+      "Samana"
+    ]
+  },
+  {
+    "value": "Warora",
+    "synonyms": [
+      "Warora"
+    ]
+  },
+  {
+    "value": "Nilambur",
+    "synonyms": [
+      "Nilambur"
+    ]
+  },
+  {
+    "value": "Rasipuram",
+    "synonyms": [
+      "Rasipuram"
+    ]
+  },
+  {
+    "value": "Ramnagar",
+    "synonyms": [
+      "Ramnagar"
+    ]
+  },
+  {
+    "value": "Jammalamadugu",
+    "synonyms": [
+      "Jammalamadugu"
+    ]
+  },
+  {
+    "value": "Nawanshahr",
+    "synonyms": [
+      "Nawanshahr"
+    ]
+  },
+  {
+    "value": "Thoubal",
+    "synonyms": [
+      "Thoubal"
+    ]
+  },
+  {
+    "value": "Athni",
+    "synonyms": [
+      "Athni"
+    ]
+  },
+  {
+    "value": "Cherthala",
+    "synonyms": [
+      "Cherthala"
+    ]
+  },
+  {
+    "value": "Sidhi",
+    "synonyms": [
+      "Sidhi"
+    ]
+  },
+  {
+    "value": "Farooqnagar",
+    "synonyms": [
+      "Farooqnagar"
+    ]
+  },
+  {
+    "value": "Peddapuram",
+    "synonyms": [
+      "Peddapuram"
+    ]
+  },
+  {
+    "value": "Chirkunda",
+    "synonyms": [
+      "Chirkunda"
+    ]
+  },
+  {
+    "value": "Pachora",
+    "synonyms": [
+      "Pachora"
+    ]
+  },
+  {
+    "value": "Madhepura",
+    "synonyms": [
+      "Madhepura"
+    ]
+  },
+  {
+    "value": "Pithoragarh",
+    "synonyms": [
+      "Pithoragarh"
+    ]
+  },
+  {
+    "value": "Tumsar",
+    "synonyms": [
+      "Tumsar"
+    ]
+  },
+  {
+    "value": "Phalodi",
+    "synonyms": [
+      "Phalodi"
+    ]
+  },
+  {
+    "value": "Tiruttani",
+    "synonyms": [
+      "Tiruttani"
+    ]
+  },
+  {
+    "value": "Rampura Phul",
+    "synonyms": [
+      "Rampura Phul"
+    ]
+  },
+  {
+    "value": "Perinthalmanna",
+    "synonyms": [
+      "Perinthalmanna"
+    ]
+  },
+  {
+    "value": "Padrauna",
+    "synonyms": [
+      "Padrauna"
+    ]
+  },
+  {
+    "value": "Pipariya",
+    "synonyms": [
+      "Pipariya"
+    ]
+  },
+  {
+    "value": "Dalli-Rajhara",
+    "synonyms": [
+      "Dalli-Rajhara"
+    ]
+  },
+  {
+    "value": "Punganur",
+    "synonyms": [
+      "Punganur"
+    ]
+  },
+  {
+    "value": "Mattannur",
+    "synonyms": [
+      "Mattannur"
+    ]
+  },
+  {
+    "value": "Mathura",
+    "synonyms": [
+      "Mathura"
+    ]
+  },
+  {
+    "value": "Thakurdwara",
+    "synonyms": [
+      "Thakurdwara"
+    ]
+  },
+  {
+    "value": "Nandivaram-Guduvancheri",
+    "synonyms": [
+      "Nandivaram-Guduvancheri"
+    ]
+  },
+  {
+    "value": "Mulbagal",
+    "synonyms": [
+      "Mulbagal"
+    ]
+  },
+  {
+    "value": "Manjlegaon",
+    "synonyms": [
+      "Manjlegaon"
+    ]
+  },
+  {
+    "value": "Wankaner",
+    "synonyms": [
+      "Wankaner"
+    ]
+  },
+  {
+    "value": "Sillod",
+    "synonyms": [
+      "Sillod"
+    ]
+  },
+  {
+    "value": "Nidadavole",
+    "synonyms": [
+      "Nidadavole"
+    ]
+  },
+  {
+    "value": "Surapura",
+    "synonyms": [
+      "Surapura"
+    ]
+  },
+  {
+    "value": "Rajagangapur",
+    "synonyms": [
+      "Rajagangapur"
+    ]
+  },
+  {
+    "value": "Sheikhpura",
+    "synonyms": [
+      "Sheikhpura"
+    ]
+  },
+  {
+    "value": "Parlakhemundi",
+    "synonyms": [
+      "Parlakhemundi"
+    ]
+  },
+  {
+    "value": "Kalimpong",
+    "synonyms": [
+      "Kalimpong"
+    ]
+  },
+  {
+    "value": "Siruguppa",
+    "synonyms": [
+      "Siruguppa"
+    ]
+  },
+  {
+    "value": "Arvi",
+    "synonyms": [
+      "Arvi"
+    ]
+  },
+  {
+    "value": "Limbdi",
+    "synonyms": [
+      "Limbdi"
+    ]
+  },
+  {
+    "value": "Barpeta",
+    "synonyms": [
+      "Barpeta"
+    ]
+  },
+  {
+    "value": "Manglaur",
+    "synonyms": [
+      "Manglaur"
+    ]
+  },
+  {
+    "value": "Repalle",
+    "synonyms": [
+      "Repalle"
+    ]
+  },
+  {
+    "value": "Mudhol",
+    "synonyms": [
+      "Mudhol"
+    ]
+  },
+  {
+    "value": "Shujalpur",
+    "synonyms": [
+      "Shujalpur"
+    ]
+  },
+  {
+    "value": "Mandvi",
+    "synonyms": [
+      "Mandvi"
+    ]
+  },
+  {
+    "value": "Thangadh",
+    "synonyms": [
+      "Thangadh"
+    ]
+  },
+  {
+    "value": "Sironj",
+    "synonyms": [
+      "Sironj"
+    ]
+  },
+  {
+    "value": "Nandura",
+    "synonyms": [
+      "Nandura"
+    ]
+  },
+  {
+    "value": "Shoranur",
+    "synonyms": [
+      "Shoranur"
+    ]
+  },
+  {
+    "value": "Nathdwara",
+    "synonyms": [
+      "Nathdwara"
+    ]
+  },
+  {
+    "value": "Periyakulam",
+    "synonyms": [
+      "Periyakulam"
+    ]
+  },
+  {
+    "value": "Sultanganj",
+    "synonyms": [
+      "Sultanganj"
+    ]
+  },
+  {
+    "value": "Medak",
+    "synonyms": [
+      "Medak"
+    ]
+  },
+  {
+    "value": "Narayanpet",
+    "synonyms": [
+      "Narayanpet"
+    ]
+  },
+  {
+    "value": "Raxaul Bazar",
+    "synonyms": [
+      "Raxaul Bazar"
+    ]
+  },
+  {
+    "value": "Rajauri",
+    "synonyms": [
+      "Rajauri"
+    ]
+  },
+  {
+    "value": "Pernampattu",
+    "synonyms": [
+      "Pernampattu"
+    ]
+  },
+  {
+    "value": "Nainital",
+    "synonyms": [
+      "Nainital"
+    ]
+  },
+  {
+    "value": "Ramachandrapuram",
+    "synonyms": [
+      "Ramachandrapuram"
+    ]
+  },
+  {
+    "value": "Vaijapur",
+    "synonyms": [
+      "Vaijapur"
+    ]
+  },
+  {
+    "value": "Nangal",
+    "synonyms": [
+      "Nangal"
+    ]
+  },
+  {
+    "value": "Sidlaghatta",
+    "synonyms": [
+      "Sidlaghatta"
+    ]
+  },
+  {
+    "value": "Punch",
+    "synonyms": [
+      "Punch"
+    ]
+  },
+  {
+    "value": "Pandhurna",
+    "synonyms": [
+      "Pandhurna"
+    ]
+  },
+  {
+    "value": "Wadgaon Road",
+    "synonyms": [
+      "Wadgaon Road"
+    ]
+  },
+  {
+    "value": "Talcher",
+    "synonyms": [
+      "Talcher"
+    ]
+  },
+  {
+    "value": "Varkala",
+    "synonyms": [
+      "Varkala"
+    ]
+  },
+  {
+    "value": "Pilani",
+    "synonyms": [
+      "Pilani"
+    ]
+  },
+  {
+    "value": "Nowgong",
+    "synonyms": [
+      "Nowgong"
+    ]
+  },
+  {
+    "value": "Naila Janjgir",
+    "synonyms": [
+      "Naila Janjgir"
+    ]
+  },
+  {
+    "value": "Mapusa",
+    "synonyms": [
+      "Mapusa"
+    ]
+  },
+  {
+    "value": "Vellakoil",
+    "synonyms": [
+      "Vellakoil"
+    ]
+  },
+  {
+    "value": "Merta City",
+    "synonyms": [
+      "Merta City"
+    ]
+  },
+  {
+    "value": "Sivaganga",
+    "synonyms": [
+      "Sivaganga"
+    ]
+  },
+  {
+    "value": "Mandideep",
+    "synonyms": [
+      "Mandideep"
+    ]
+  },
+  {
+    "value": "Sailu",
+    "synonyms": [
+      "Sailu"
+    ]
+  },
+  {
+    "value": "Vyara",
+    "synonyms": [
+      "Vyara"
+    ]
+  },
+  {
+    "value": "Kovvur",
+    "synonyms": [
+      "Kovvur"
+    ]
+  },
+  {
+    "value": "Vadalur",
+    "synonyms": [
+      "Vadalur"
+    ]
+  },
+  {
+    "value": "Nawabganj",
+    "synonyms": [
+      "Nawabganj"
+    ]
+  },
+  {
+    "value": "Padra",
+    "synonyms": [
+      "Padra"
+    ]
+  },
+  {
+    "value": "Sainthia",
+    "synonyms": [
+      "Sainthia"
+    ]
+  },
+  {
+    "value": "Siana",
+    "synonyms": [
+      "Siana"
+    ]
+  },
+  {
+    "value": "Shahpur",
+    "synonyms": [
+      "Shahpur"
+    ]
+  },
+  {
+    "value": "Sojat",
+    "synonyms": [
+      "Sojat"
+    ]
+  },
+  {
+    "value": "Noorpur",
+    "synonyms": [
+      "Noorpur"
+    ]
+  },
+  {
+    "value": "Paravoor",
+    "synonyms": [
+      "Paravoor"
+    ]
+  },
+  {
+    "value": "Murtijapur",
+    "synonyms": [
+      "Murtijapur"
+    ]
+  },
+  {
+    "value": "Sundargarh",
+    "synonyms": [
+      "Sundargarh"
+    ]
+  },
+  {
+    "value": "Taki",
+    "synonyms": [
+      "Taki"
+    ]
+  },
+  {
+    "value": "Saundatti-Yellamma",
+    "synonyms": [
+      "Saundatti-Yellamma"
+    ]
+  },
+  {
+    "value": "Pathanamthitta",
+    "synonyms": [
+      "Pathanamthitta"
+    ]
+  },
+  {
+    "value": "Wadi",
+    "synonyms": [
+      "Wadi"
+    ]
+  },
+  {
+    "value": "Rameshwaram",
+    "synonyms": [
+      "Rameshwaram"
+    ]
+  },
+  {
+    "value": "Tasgaon",
+    "synonyms": [
+      "Tasgaon"
+    ]
+  },
+  {
+    "value": "Sikandra Rao",
+    "synonyms": [
+      "Sikandra Rao"
+    ]
+  },
+  {
+    "value": "Sihora",
+    "synonyms": [
+      "Sihora"
+    ]
+  },
+  {
+    "value": "Tiruvethipuram",
+    "synonyms": [
+      "Tiruvethipuram"
+    ]
+  },
+  {
+    "value": "Tiruvuru",
+    "synonyms": [
+      "Tiruvuru"
+    ]
+  },
+  {
+    "value": "Mehkar",
+    "synonyms": [
+      "Mehkar"
+    ]
+  },
+  {
+    "value": "Peringathur",
+    "synonyms": [
+      "Peringathur"
+    ]
+  },
+  {
+    "value": "Perambalur",
+    "synonyms": [
+      "Perambalur"
+    ]
+  },
+  {
+    "value": "Manvi",
+    "synonyms": [
+      "Manvi"
+    ]
+  },
+  {
+    "value": "Zunheboto",
+    "synonyms": [
+      "Zunheboto"
+    ]
+  },
+  {
+    "value": "Mahnar Bazar",
+    "synonyms": [
+      "Mahnar Bazar"
+    ]
+  },
+  {
+    "value": "Attingal",
+    "synonyms": [
+      "Attingal"
+    ]
+  },
+  {
+    "value": "Shahbad",
+    "synonyms": [
+      "Shahbad"
+    ]
+  },
+  {
+    "value": "Puranpur",
+    "synonyms": [
+      "Puranpur"
+    ]
+  },
+  {
+    "value": "Nelamangala",
+    "synonyms": [
+      "Nelamangala"
+    ]
+  },
+  {
+    "value": "Nakodar",
+    "synonyms": [
+      "Nakodar"
+    ]
+  },
+  {
+    "value": "Lunawada",
+    "synonyms": [
+      "Lunawada"
+    ]
+  },
+  {
+    "value": "Murshidabad",
+    "synonyms": [
+      "Murshidabad"
+    ]
+  },
+  {
+    "value": "Mahe",
+    "synonyms": [
+      "Mahe"
+    ]
+  },
+  {
+    "value": "Lanka",
+    "synonyms": [
+      "Lanka"
+    ]
+  },
+  {
+    "value": "Rudauli",
+    "synonyms": [
+      "Rudauli"
+    ]
+  },
+  {
+    "value": "Tuensang",
+    "synonyms": [
+      "Tuensang"
+    ]
+  },
+  {
+    "value": "Lakshmeshwar",
+    "synonyms": [
+      "Lakshmeshwar"
+    ]
+  },
+  {
+    "value": "Zira",
+    "synonyms": [
+      "Zira"
+    ]
+  },
+  {
+    "value": "Yawal",
+    "synonyms": [
+      "Yawal"
+    ]
+  },
+  {
+    "value": "Thana Bhawan",
+    "synonyms": [
+      "Thana Bhawan"
+    ]
+  },
+  {
+    "value": "Ramdurg",
+    "synonyms": [
+      "Ramdurg"
+    ]
+  },
+  {
+    "value": "Pulgaon",
+    "synonyms": [
+      "Pulgaon"
+    ]
+  },
+  {
+    "value": "Sadasivpet",
+    "synonyms": [
+      "Sadasivpet"
+    ]
+  },
+  {
+    "value": "Nargund",
+    "synonyms": [
+      "Nargund"
+    ]
+  },
+  {
+    "value": "Neem-Ka-Thana",
+    "synonyms": [
+      "Neem-Ka-Thana"
+    ]
+  },
+  {
+    "value": "Memari",
+    "synonyms": [
+      "Memari"
+    ]
+  },
+  {
+    "value": "Nilanga",
+    "synonyms": [
+      "Nilanga"
+    ]
+  },
+  {
+    "value": "Naharlagun",
+    "synonyms": [
+      "Naharlagun"
+    ]
+  },
+  {
+    "value": "Pakaur",
+    "synonyms": [
+      "Pakaur"
+    ]
+  },
+  {
+    "value": "Wai",
+    "synonyms": [
+      "Wai"
+    ]
+  },
+  {
+    "value": "Tarikere",
+    "synonyms": [
+      "Tarikere"
+    ]
+  },
+  {
+    "value": "Malavalli",
+    "synonyms": [
+      "Malavalli"
+    ]
+  },
+  {
+    "value": "Raisen",
+    "synonyms": [
+      "Raisen"
+    ]
+  },
+  {
+    "value": "Lahar",
+    "synonyms": [
+      "Lahar"
+    ]
+  },
+  {
+    "value": "Uravakonda",
+    "synonyms": [
+      "Uravakonda"
+    ]
+  },
+  {
+    "value": "Savanur",
+    "synonyms": [
+      "Savanur"
+    ]
+  },
+  {
+    "value": "Sirohi",
+    "synonyms": [
+      "Sirohi"
+    ]
+  },
+  {
+    "value": "Udhampur",
+    "synonyms": [
+      "Udhampur"
+    ]
+  },
+  {
+    "value": "Umarga",
+    "synonyms": [
+      "Umarga"
+    ]
+  },
+  {
+    "value": "Pratapgarh",
+    "synonyms": [
+      "Pratapgarh"
+    ]
+  },
+  {
+    "value": "Lingsugur",
+    "synonyms": [
+      "Lingsugur"
+    ]
+  },
+  {
+    "value": "Usilampatti",
+    "synonyms": [
+      "Usilampatti"
+    ]
+  },
+  {
+    "value": "Palia Kalan",
+    "synonyms": [
+      "Palia Kalan"
+    ]
+  },
+  {
+    "value": "Wokha",
+    "synonyms": [
+      "Wokha"
+    ]
+  },
+  {
+    "value": "Rajpipla",
+    "synonyms": [
+      "Rajpipla"
+    ]
+  },
+  {
+    "value": "Vijayapura",
+    "synonyms": [
+      "Vijayapura"
+    ]
+  },
+  {
+    "value": "Rawatbhata",
+    "synonyms": [
+      "Rawatbhata"
+    ]
+  },
+  {
+    "value": "Sangaria",
+    "synonyms": [
+      "Sangaria"
+    ]
+  },
+  {
+    "value": "Paithan",
+    "synonyms": [
+      "Paithan"
+    ]
+  },
+  {
+    "value": "Rahuri",
+    "synonyms": [
+      "Rahuri"
+    ]
+  },
+  {
+    "value": "Patti",
+    "synonyms": [
+      "Patti"
+    ]
+  },
+  {
+    "value": "Zaidpur",
+    "synonyms": [
+      "Zaidpur"
+    ]
+  },
+  {
+    "value": "Lalsot",
+    "synonyms": [
+      "Lalsot"
+    ]
+  },
+  {
+    "value": "Maihar",
+    "synonyms": [
+      "Maihar"
+    ]
+  },
+  {
+    "value": "Vedaranyam",
+    "synonyms": [
+      "Vedaranyam"
+    ]
+  },
+  {
+    "value": "Nawapur",
+    "synonyms": [
+      "Nawapur"
+    ]
+  },
+  {
+    "value": "Solan",
+    "synonyms": [
+      "Solan"
+    ]
+  },
+  {
+    "value": "Sanawad",
+    "synonyms": [
+      "Sanawad"
+    ]
+  },
+  {
+    "value": "Warisaliganj",
+    "synonyms": [
+      "Warisaliganj"
+    ]
+  },
+  {
+    "value": "Revelganj",
+    "synonyms": [
+      "Revelganj"
+    ]
+  },
+  {
+    "value": "Sabalgarh",
+    "synonyms": [
+      "Sabalgarh"
+    ]
+  },
+  {
+    "value": "Tuljapur",
+    "synonyms": [
+      "Tuljapur"
+    ]
+  },
+  {
+    "value": "Simdega",
+    "synonyms": [
+      "Simdega"
+    ]
+  },
+  {
+    "value": "Musabani",
+    "synonyms": [
+      "Musabani"
+    ]
+  },
+  {
+    "value": "Kodungallur",
+    "synonyms": [
+      "Kodungallur"
+    ]
+  },
+  {
+    "value": "Phulabani",
+    "synonyms": [
+      "Phulabani"
+    ]
+  },
+  {
+    "value": "Umreth",
+    "synonyms": [
+      "Umreth"
+    ]
+  },
+  {
+    "value": "Narsipatnam",
+    "synonyms": [
+      "Narsipatnam"
+    ]
+  },
+  {
+    "value": "Nautanwa",
+    "synonyms": [
+      "Nautanwa"
+    ]
+  },
+  {
+    "value": "Rajgir",
+    "synonyms": [
+      "Rajgir"
+    ]
+  },
+  {
+    "value": "Yellandu",
+    "synonyms": [
+      "Yellandu"
+    ]
+  },
+  {
+    "value": "Sathyamangalam",
+    "synonyms": [
+      "Sathyamangalam"
+    ]
+  },
+  {
+    "value": "Pilibanga",
+    "synonyms": [
+      "Pilibanga"
+    ]
+  },
+  {
+    "value": "Morshi",
+    "synonyms": [
+      "Morshi"
+    ]
+  },
+  {
+    "value": "Pehowa",
+    "synonyms": [
+      "Pehowa"
+    ]
+  },
+  {
+    "value": "Sonepur",
+    "synonyms": [
+      "Sonepur"
+    ]
+  },
+  {
+    "value": "Pappinisseri",
+    "synonyms": [
+      "Pappinisseri"
+    ]
+  },
+  {
+    "value": "Zamania",
+    "synonyms": [
+      "Zamania"
+    ]
+  },
+  {
+    "value": "Mihijam",
+    "synonyms": [
+      "Mihijam"
+    ]
+  },
+  {
+    "value": "Purna",
+    "synonyms": [
+      "Purna"
+    ]
+  },
+  {
+    "value": "Puliyankudi",
+    "synonyms": [
+      "Puliyankudi"
+    ]
+  },
+  {
+    "value": "Shikarpur, Bulandshahr",
+    "synonyms": [
+      "Shikarpur, Bulandshahr"
+    ]
+  },
+  {
+    "value": "Umaria",
+    "synonyms": [
+      "Umaria"
+    ]
+  },
+  {
+    "value": "Porsa",
+    "synonyms": [
+      "Porsa"
+    ]
+  },
+  {
+    "value": "Naugawan Sadat",
+    "synonyms": [
+      "Naugawan Sadat"
+    ]
+  },
+  {
+    "value": "Fatehpur Sikri",
+    "synonyms": [
+      "Fatehpur Sikri"
+    ]
+  },
+  {
+    "value": "Manuguru",
+    "synonyms": [
+      "Manuguru"
+    ]
+  },
+  {
+    "value": "Pipar City",
+    "synonyms": [
+      "Pipar City"
+    ]
+  },
+  {
+    "value": "Pattamundai",
+    "synonyms": [
+      "Pattamundai"
+    ]
+  },
+  {
+    "value": "Nanjikottai",
+    "synonyms": [
+      "Nanjikottai"
+    ]
+  },
+  {
+    "value": "Taranagar",
+    "synonyms": [
+      "Taranagar"
+    ]
+  },
+  {
+    "value": "Yerraguntla",
+    "synonyms": [
+      "Yerraguntla"
+    ]
+  },
+  {
+    "value": "Satana",
+    "synonyms": [
+      "Satana"
+    ]
+  },
+  {
+    "value": "Sherghati",
+    "synonyms": [
+      "Sherghati"
+    ]
+  },
+  {
+    "value": "Sankeshwara",
+    "synonyms": [
+      "Sankeshwara"
+    ]
+  },
+  {
+    "value": "Madikeri",
+    "synonyms": [
+      "Madikeri"
+    ]
+  },
+  {
+    "value": "Thuraiyur",
+    "synonyms": [
+      "Thuraiyur"
+    ]
+  },
+  {
+    "value": "Sanand",
+    "synonyms": [
+      "Sanand"
+    ]
+  },
+  {
+    "value": "Rajula",
+    "synonyms": [
+      "Rajula"
+    ]
+  },
+  {
+    "value": "Kyathampalle",
+    "synonyms": [
+      "Kyathampalle"
+    ]
+  },
+  {
+    "value": "Shahabad, Rampur",
+    "synonyms": [
+      "Shahabad, Rampur"
+    ]
+  },
+  {
+    "value": "Tilda Newra",
+    "synonyms": [
+      "Tilda Newra"
+    ]
+  },
+  {
+    "value": "Narsinghgarh",
+    "synonyms": [
+      "Narsinghgarh"
+    ]
+  },
+  {
+    "value": "Chittur-Thathamangalam",
+    "synonyms": [
+      "Chittur-Thathamangalam"
+    ]
+  },
+  {
+    "value": "Malaj Khand",
+    "synonyms": [
+      "Malaj Khand"
+    ]
+  },
+  {
+    "value": "Sarangpur",
+    "synonyms": [
+      "Sarangpur"
+    ]
+  },
+  {
+    "value": "Robertsganj",
+    "synonyms": [
+      "Robertsganj"
+    ]
+  },
+  {
+    "value": "Sirkali",
+    "synonyms": [
+      "Sirkali"
+    ]
+  },
+  {
+    "value": "Radhanpur",
+    "synonyms": [
+      "Radhanpur"
+    ]
+  },
+  {
+    "value": "Tiruchendur",
+    "synonyms": [
+      "Tiruchendur"
+    ]
+  },
+  {
+    "value": "Utraula",
+    "synonyms": [
+      "Utraula"
+    ]
+  },
+  {
+    "value": "Patratu",
+    "synonyms": [
+      "Patratu"
+    ]
+  },
+  {
+    "value": "Vijainagar, Ajmer",
+    "synonyms": [
+      "Vijainagar, Ajmer"
+    ]
+  },
+  {
+    "value": "Periyasemur",
+    "synonyms": [
+      "Periyasemur"
+    ]
+  },
+  {
+    "value": "Pathri",
+    "synonyms": [
+      "Pathri"
+    ]
+  },
+  {
+    "value": "Sadabad",
+    "synonyms": [
+      "Sadabad"
+    ]
+  },
+  {
+    "value": "Talikota",
+    "synonyms": [
+      "Talikota"
+    ]
+  },
+  {
+    "value": "Sinnar",
+    "synonyms": [
+      "Sinnar"
+    ]
+  },
+  {
+    "value": "Mungeli",
+    "synonyms": [
+      "Mungeli"
+    ]
+  },
+  {
+    "value": "Sedam",
+    "synonyms": [
+      "Sedam"
+    ]
+  },
+  {
+    "value": "Shikaripur",
+    "synonyms": [
+      "Shikaripur"
+    ]
+  },
+  {
+    "value": "Sumerpur",
+    "synonyms": [
+      "Sumerpur"
+    ]
+  },
+  {
+    "value": "Sattur",
+    "synonyms": [
+      "Sattur"
+    ]
+  },
+  {
+    "value": "Sugauli",
+    "synonyms": [
+      "Sugauli"
+    ]
+  },
+  {
+    "value": "Lumding",
+    "synonyms": [
+      "Lumding"
+    ]
+  },
+  {
+    "value": "Vandavasi",
+    "synonyms": [
+      "Vandavasi"
+    ]
+  },
+  {
+    "value": "Titlagarh",
+    "synonyms": [
+      "Titlagarh"
+    ]
+  },
+  {
+    "value": "Uchgaon",
+    "synonyms": [
+      "Uchgaon"
+    ]
+  },
+  {
+    "value": "Mokokchung",
+    "synonyms": [
+      "Mokokchung"
+    ]
+  },
+  {
+    "value": "Paschim Punropara",
+    "synonyms": [
+      "Paschim Punropara"
+    ]
+  },
+  {
+    "value": "Sagwara",
+    "synonyms": [
+      "Sagwara"
+    ]
+  },
+  {
+    "value": "Ramganj Mandi",
+    "synonyms": [
+      "Ramganj Mandi"
+    ]
+  },
+  {
+    "value": "Tarakeswar",
+    "synonyms": [
+      "Tarakeswar"
+    ]
+  },
+  {
+    "value": "Mahalingapura",
+    "synonyms": [
+      "Mahalingapura"
+    ]
+  },
+  {
+    "value": "Dharmanagar",
+    "synonyms": [
+      "Dharmanagar"
+    ]
+  },
+  {
+    "value": "Mahemdabad",
+    "synonyms": [
+      "Mahemdabad"
+    ]
+  },
+  {
+    "value": "Manendragarh",
+    "synonyms": [
+      "Manendragarh"
+    ]
+  },
+  {
+    "value": "Uran",
+    "synonyms": [
+      "Uran"
+    ]
+  },
+  {
+    "value": "Tharamangalam",
+    "synonyms": [
+      "Tharamangalam"
+    ]
+  },
+  {
+    "value": "Tirukkoyilur",
+    "synonyms": [
+      "Tirukkoyilur"
+    ]
+  },
+  {
+    "value": "Pen",
+    "synonyms": [
+      "Pen"
+    ]
+  },
+  {
+    "value": "Makhdumpur",
+    "synonyms": [
+      "Makhdumpur"
+    ]
+  },
+  {
+    "value": "Maner",
+    "synonyms": [
+      "Maner"
+    ]
+  },
+  {
+    "value": "Oddanchatram",
+    "synonyms": [
+      "Oddanchatram"
+    ]
+  },
+  {
+    "value": "Palladam",
+    "synonyms": [
+      "Palladam"
+    ]
+  },
+  {
+    "value": "Mundi",
+    "synonyms": [
+      "Mundi"
+    ]
+  },
+  {
+    "value": "Nabarangapur",
+    "synonyms": [
+      "Nabarangapur"
+    ]
+  },
+  {
+    "value": "Mudalagi",
+    "synonyms": [
+      "Mudalagi"
+    ]
+  },
+  {
+    "value": "Samalkha",
+    "synonyms": [
+      "Samalkha"
+    ]
+  },
+  {
+    "value": "Nepanagar",
+    "synonyms": [
+      "Nepanagar"
+    ]
+  },
+  {
+    "value": "Karjat",
+    "synonyms": [
+      "Karjat"
+    ]
+  },
+  {
+    "value": "Ranavav",
+    "synonyms": [
+      "Ranavav"
+    ]
+  },
+  {
+    "value": "Pedana",
+    "synonyms": [
+      "Pedana"
+    ]
+  },
+  {
+    "value": "Pinjore",
+    "synonyms": [
+      "Pinjore"
+    ]
+  },
+  {
+    "value": "Lakheri",
+    "synonyms": [
+      "Lakheri"
+    ]
+  },
+  {
+    "value": "Pasan",
+    "synonyms": [
+      "Pasan"
+    ]
+  },
+  {
+    "value": "Vadakkuvalliyur",
+    "synonyms": [
+      "Vadakkuvalliyur"
+    ]
+  },
+  {
+    "value": "Tirukalukundram",
+    "synonyms": [
+      "Tirukalukundram"
+    ]
+  },
+  {
+    "value": "Mahidpur",
+    "synonyms": [
+      "Mahidpur"
+    ]
+  },
+  {
+    "value": "Mussoorie",
+    "synonyms": [
+      "Mussoorie"
+    ]
+  },
+  {
+    "value": "Muvattupuzha",
+    "synonyms": [
+      "Muvattupuzha"
+    ]
+  },
+  {
+    "value": "Rasra",
+    "synonyms": [
+      "Rasra"
+    ]
+  },
+  {
+    "value": "Udaipurwati",
+    "synonyms": [
+      "Udaipurwati"
+    ]
+  },
+  {
+    "value": "Manwath",
+    "synonyms": [
+      "Manwath"
+    ]
+  },
+  {
+    "value": "Adoor",
+    "synonyms": [
+      "Adoor"
+    ]
+  },
+  {
+    "value": "Uthamapalayam",
+    "synonyms": [
+      "Uthamapalayam"
+    ]
+  },
+  {
+    "value": "Partur",
+    "synonyms": [
+      "Partur"
+    ]
+  },
+  {
+    "value": "Nahan",
+    "synonyms": [
+      "Nahan"
+    ]
+  },
+  {
+    "value": "Ladwa",
+    "synonyms": [
+      "Ladwa"
+    ]
+  },
+  {
+    "value": "Mankachar",
+    "synonyms": [
+      "Mankachar"
+    ]
+  },
+  {
+    "value": "Nongstoin",
+    "synonyms": [
+      "Nongstoin"
+    ]
+  },
+  {
+    "value": "Losal",
+    "synonyms": [
+      "Losal"
+    ]
+  },
+  {
+    "value": "Sri Madhopur",
+    "synonyms": [
+      "Sri Madhopur"
+    ]
+  },
+  {
+    "value": "Ramngarh",
+    "synonyms": [
+      "Ramngarh"
+    ]
+  },
+  {
+    "value": "Mavelikkara",
+    "synonyms": [
+      "Mavelikkara"
+    ]
+  },
+  {
+    "value": "Rawatsar",
+    "synonyms": [
+      "Rawatsar"
+    ]
+  },
+  {
+    "value": "Rajakhera",
+    "synonyms": [
+      "Rajakhera"
+    ]
+  },
+  {
+    "value": "Lar",
+    "synonyms": [
+      "Lar"
+    ]
+  },
+  {
+    "value": "Lal Gopalganj Nindaura",
+    "synonyms": [
+      "Lal Gopalganj Nindaura"
+    ]
+  },
+  {
+    "value": "Muddebihal",
+    "synonyms": [
+      "Muddebihal"
+    ]
+  },
+  {
+    "value": "Sirsaganj",
+    "synonyms": [
+      "Sirsaganj"
+    ]
+  },
+  {
+    "value": "Shahpura",
+    "synonyms": [
+      "Shahpura"
+    ]
+  },
+  {
+    "value": "Surandai",
+    "synonyms": [
+      "Surandai"
+    ]
+  },
+  {
+    "value": "Sangole",
+    "synonyms": [
+      "Sangole"
+    ]
+  },
+  {
+    "value": "Pavagada",
+    "synonyms": [
+      "Pavagada"
+    ]
+  },
+  {
+    "value": "Tharad",
+    "synonyms": [
+      "Tharad"
+    ]
+  },
+  {
+    "value": "Umbergaon",
+    "synonyms": [
+      "Umbergaon"
+    ]
+  },
+  {
+    "value": "Mavoor",
+    "synonyms": [
+      "Mavoor"
+    ]
+  },
+  {
+    "value": "Nalbari",
+    "synonyms": [
+      "Nalbari"
+    ]
+  },
+  {
+    "value": "Talaja",
+    "synonyms": [
+      "Talaja"
+    ]
+  },
+  {
+    "value": "Malur",
+    "synonyms": [
+      "Malur"
+    ]
+  },
+  {
+    "value": "Mangrulpir",
+    "synonyms": [
+      "Mangrulpir"
+    ]
+  },
+  {
+    "value": "Soro",
+    "synonyms": [
+      "Soro"
+    ]
+  },
+  {
+    "value": "Vadnagar",
+    "synonyms": [
+      "Vadnagar"
+    ]
+  },
+  {
+    "value": "Raisinghnagar",
+    "synonyms": [
+      "Raisinghnagar"
+    ]
+  },
+  {
+    "value": "Sindhagi",
+    "synonyms": [
+      "Sindhagi"
+    ]
+  },
+  {
+    "value": "Sanduru",
+    "synonyms": [
+      "Sanduru"
+    ]
+  },
+  {
+    "value": "Sohna",
+    "synonyms": [
+      "Sohna"
+    ]
+  },
+  {
+    "value": "Manavadar",
+    "synonyms": [
+      "Manavadar"
+    ]
+  },
+  {
+    "value": "Pihani",
+    "synonyms": [
+      "Pihani"
+    ]
+  },
+  {
+    "value": "Safidon",
+    "synonyms": [
+      "Safidon"
+    ]
+  },
+  {
+    "value": "Risod",
+    "synonyms": [
+      "Risod"
+    ]
+  },
+  {
+    "value": "Rosera",
+    "synonyms": [
+      "Rosera"
+    ]
+  },
+  {
+    "value": "Sankari",
+    "synonyms": [
+      "Sankari"
+    ]
+  },
+  {
+    "value": "Malpura",
+    "synonyms": [
+      "Malpura"
+    ]
+  },
+  {
+    "value": "Sonamukhi",
+    "synonyms": [
+      "Sonamukhi"
+    ]
+  },
+  {
+    "value": "Shamsabad, Agra",
+    "synonyms": [
+      "Shamsabad, Agra"
+    ]
+  },
+  {
+    "value": "PandUrban Agglomeration",
+    "synonyms": [
+      "PandUrban Agglomeration"
+    ]
+  },
+  {
+    "value": "Mainaguri",
+    "synonyms": [
+      "Mainaguri"
+    ]
+  },
+  {
+    "value": "Afzalpur",
+    "synonyms": [
+      "Afzalpur"
+    ]
+  },
+  {
+    "value": "Shirur",
+    "synonyms": [
+      "Shirur"
+    ]
+  },
+  {
+    "value": "Salaya",
+    "synonyms": [
+      "Salaya"
+    ]
+  },
+  {
+    "value": "Shenkottai",
+    "synonyms": [
+      "Shenkottai"
+    ]
+  },
+  {
+    "value": "Vadipatti",
+    "synonyms": [
+      "Vadipatti"
+    ]
+  },
+  {
+    "value": "Nagarkurnool",
+    "synonyms": [
+      "Nagarkurnool"
+    ]
+  },
+  {
+    "value": "Savner",
+    "synonyms": [
+      "Savner"
+    ]
+  },
+  {
+    "value": "Sasvad",
+    "synonyms": [
+      "Sasvad"
+    ]
+  },
+  {
+    "value": "Soron",
+    "synonyms": [
+      "Soron"
+    ]
+  },
+  {
+    "value": "Sholingur",
+    "synonyms": [
+      "Sholingur"
+    ]
+  },
+  {
+    "value": "Pandharkaoda",
+    "synonyms": [
+      "Pandharkaoda"
+    ]
+  },
+  {
+    "value": "Perumbavoor",
+    "synonyms": [
+      "Perumbavoor"
+    ]
+  },
+  {
+    "value": "Maddur",
+    "synonyms": [
+      "Maddur"
+    ]
+  },
+  {
+    "value": "Nadbai",
+    "synonyms": [
+      "Nadbai"
+    ]
+  },
+  {
+    "value": "Talode",
+    "synonyms": [
+      "Talode"
+    ]
+  },
+  {
+    "value": "Shrigonda",
+    "synonyms": [
+      "Shrigonda"
+    ]
+  },
+  {
+    "value": "Madhugiri",
+    "synonyms": [
+      "Madhugiri"
+    ]
+  },
+  {
+    "value": "Tekkalakote",
+    "synonyms": [
+      "Tekkalakote"
+    ]
+  },
+  {
+    "value": "Seoni-Malwa",
+    "synonyms": [
+      "Seoni-Malwa"
+    ]
+  },
+  {
+    "value": "Shirdi",
+    "synonyms": [
+      "Shirdi"
+    ]
+  },
+  {
+    "value": "SUrban Agglomerationr",
+    "synonyms": [
+      "SUrban Agglomerationr"
+    ]
+  },
+  {
+    "value": "Terdal",
+    "synonyms": [
+      "Terdal"
+    ]
+  },
+  {
+    "value": "Raver",
+    "synonyms": [
+      "Raver"
+    ]
+  },
+  {
+    "value": "Taraori",
+    "synonyms": [
+      "Taraori"
+    ]
+  },
+  {
+    "value": "Mukhed",
+    "synonyms": [
+      "Mukhed"
+    ]
+  },
+  {
+    "value": "Manachanallur",
+    "synonyms": [
+      "Manachanallur"
+    ]
+  },
+  {
+    "value": "Rehli",
+    "synonyms": [
+      "Rehli"
+    ]
+  },
+  {
+    "value": "Sanchore",
+    "synonyms": [
+      "Sanchore"
+    ]
+  },
+  {
+    "value": "Rajura",
+    "synonyms": [
+      "Rajura"
+    ]
+  },
+  {
+    "value": "Piro",
+    "synonyms": [
+      "Piro"
+    ]
+  },
+  {
+    "value": "Mudabidri",
+    "synonyms": [
+      "Mudabidri"
+    ]
+  },
+  {
+    "value": "Vadgaon Kasba",
+    "synonyms": [
+      "Vadgaon Kasba"
+    ]
+  },
+  {
+    "value": "Nagar",
+    "synonyms": [
+      "Nagar"
+    ]
+  },
+  {
+    "value": "Vijapur",
+    "synonyms": [
+      "Vijapur"
+    ]
+  },
+  {
+    "value": "Viswanatham",
+    "synonyms": [
+      "Viswanatham"
+    ]
+  },
+  {
+    "value": "Polur",
+    "synonyms": [
+      "Polur"
+    ]
+  },
+  {
+    "value": "Panagudi",
+    "synonyms": [
+      "Panagudi"
+    ]
+  },
+  {
+    "value": "Manawar",
+    "synonyms": [
+      "Manawar"
+    ]
+  },
+  {
+    "value": "Tehri",
+    "synonyms": [
+      "Tehri"
+    ]
+  },
+  {
+    "value": "Samdhan",
+    "synonyms": [
+      "Samdhan"
+    ]
+  },
+  {
+    "value": "Pardi",
+    "synonyms": [
+      "Pardi"
+    ]
+  },
+  {
+    "value": "Rahatgarh",
+    "synonyms": [
+      "Rahatgarh"
+    ]
+  },
+  {
+    "value": "Panagar",
+    "synonyms": [
+      "Panagar"
+    ]
+  },
+  {
+    "value": "Uthiramerur",
+    "synonyms": [
+      "Uthiramerur"
+    ]
+  },
+  {
+    "value": "Tirora",
+    "synonyms": [
+      "Tirora"
+    ]
+  },
+  {
+    "value": "Rangia",
+    "synonyms": [
+      "Rangia"
+    ]
+  },
+  {
+    "value": "Sahjanwa",
+    "synonyms": [
+      "Sahjanwa"
+    ]
+  },
+  {
+    "value": "Wara Seoni",
+    "synonyms": [
+      "Wara Seoni"
+    ]
+  },
+  {
+    "value": "Magadi",
+    "synonyms": [
+      "Magadi"
+    ]
+  },
+  {
+    "value": "Rafiganj",
+    "synonyms": [
+      "Rafiganj"
+    ]
+  },
+  {
+    "value": "Tarana",
+    "synonyms": [
+      "Tarana"
+    ]
+  },
+  {
+    "value": "Rampur Maniharan",
+    "synonyms": [
+      "Rampur Maniharan"
+    ]
+  },
+  {
+    "value": "Sheoganj",
+    "synonyms": [
+      "Sheoganj"
+    ]
+  },
+  {
+    "value": "Raikot",
+    "synonyms": [
+      "Raikot"
+    ]
+  },
+  {
+    "value": "Pauri",
+    "synonyms": [
+      "Pauri"
+    ]
+  },
+  {
+    "value": "Navalgund",
+    "synonyms": [
+      "Navalgund"
+    ]
+  },
+  {
+    "value": "Shahganj",
+    "synonyms": [
+      "Shahganj"
+    ]
+  },
+  {
+    "value": "Marhaura",
+    "synonyms": [
+      "Marhaura"
+    ]
+  },
+  {
+    "value": "Tulsipur",
+    "synonyms": [
+      "Tulsipur"
+    ]
+  },
+  {
+    "value": "Sadri",
+    "synonyms": [
+      "Sadri"
+    ]
+  },
+  {
+    "value": "Thiruthuraipoondi",
+    "synonyms": [
+      "Thiruthuraipoondi"
+    ]
+  },
+  {
+    "value": "Shiggaon",
+    "synonyms": [
+      "Shiggaon"
+    ]
+  },
+  {
+    "value": "Pallapatti",
+    "synonyms": [
+      "Pallapatti"
+    ]
+  },
+  {
+    "value": "Mahendragarh",
+    "synonyms": [
+      "Mahendragarh"
+    ]
+  },
+  {
+    "value": "Sausar",
+    "synonyms": [
+      "Sausar"
+    ]
+  },
+  {
+    "value": "Ponneri",
+    "synonyms": [
+      "Ponneri"
+    ]
+  },
+  {
+    "value": "Mahad",
+    "synonyms": [
+      "Mahad"
+    ]
+  },
+  {
+    "value": "Lohardaga",
+    "synonyms": [
+      "Lohardaga"
+    ]
+  },
+  {
+    "value": "Tirwaganj",
+    "synonyms": [
+      "Tirwaganj"
+    ]
+  },
+  {
+    "value": "Margherita",
+    "synonyms": [
+      "Margherita"
+    ]
+  },
+  {
+    "value": "Sundarnagar",
+    "synonyms": [
+      "Sundarnagar"
+    ]
+  },
+  {
+    "value": "Mangaldoi",
+    "synonyms": [
+      "Mangaldoi"
+    ]
+  },
+  {
+    "value": "Renigunta",
+    "synonyms": [
+      "Renigunta"
+    ]
+  },
+  {
+    "value": "Longowal",
+    "synonyms": [
+      "Longowal"
+    ]
+  },
+  {
+    "value": "Ratia",
+    "synonyms": [
+      "Ratia"
+    ]
+  },
+  {
+    "value": "Lalgudi",
+    "synonyms": [
+      "Lalgudi"
+    ]
+  },
+  {
+    "value": "Shrirangapattana",
+    "synonyms": [
+      "Shrirangapattana"
+    ]
+  },
+  {
+    "value": "Niwari",
+    "synonyms": [
+      "Niwari"
+    ]
+  },
+  {
+    "value": "Natham",
+    "synonyms": [
+      "Natham"
+    ]
+  },
+  {
+    "value": "Unnamalaikadai",
+    "synonyms": [
+      "Unnamalaikadai"
+    ]
+  },
+  {
+    "value": "PurqUrban Agglomerationzi",
+    "synonyms": [
+      "PurqUrban Agglomerationzi"
+    ]
+  },
+  {
+    "value": "Shamsabad, Farrukhabad",
+    "synonyms": [
+      "Shamsabad, Farrukhabad"
+    ]
+  },
+  {
+    "value": "Mirganj",
+    "synonyms": [
+      "Mirganj"
+    ]
+  },
+  {
+    "value": "Todaraisingh",
+    "synonyms": [
+      "Todaraisingh"
+    ]
+  },
+  {
+    "value": "Warhapur",
+    "synonyms": [
+      "Warhapur"
+    ]
+  },
+  {
+    "value": "Rajam",
+    "synonyms": [
+      "Rajam"
+    ]
+  },
+  {
+    "value": "Urmar Tanda",
+    "synonyms": [
+      "Urmar Tanda"
+    ]
+  },
+  {
+    "value": "Lonar",
+    "synonyms": [
+      "Lonar"
+    ]
+  },
+  {
+    "value": "Powayan",
+    "synonyms": [
+      "Powayan"
+    ]
+  },
+  {
+    "value": "P.N.Patti",
+    "synonyms": [
+      "P.N.Patti"
+    ]
+  },
+  {
+    "value": "Palampur",
+    "synonyms": [
+      "Palampur"
+    ]
+  },
+  {
+    "value": "Srisailam Project Township",
+    "synonyms": [
+      "Srisailam Project Township"
+    ]
+  },
+  {
+    "value": "Sindagi",
+    "synonyms": [
+      "Sindagi"
+    ]
+  },
+  {
+    "value": "Sandi",
+    "synonyms": [
+      "Sandi"
+    ]
+  },
+  {
+    "value": "Vaikom",
+    "synonyms": [
+      "Vaikom"
+    ]
+  },
+  {
+    "value": "Malda",
+    "synonyms": [
+      "Malda"
+    ]
+  },
+  {
+    "value": "Tharangambadi",
+    "synonyms": [
+      "Tharangambadi"
+    ]
+  },
+  {
+    "value": "Sakaleshapura",
+    "synonyms": [
+      "Sakaleshapura"
+    ]
+  },
+  {
+    "value": "Lalganj",
+    "synonyms": [
+      "Lalganj"
+    ]
+  },
+  {
+    "value": "Malkangiri",
+    "synonyms": [
+      "Malkangiri"
+    ]
+  },
+  {
+    "value": "Rapar",
+    "synonyms": [
+      "Rapar"
+    ]
+  },
+  {
+    "value": "Mauganj",
+    "synonyms": [
+      "Mauganj"
+    ]
+  },
+  {
+    "value": "Todabhim",
+    "synonyms": [
+      "Todabhim"
+    ]
+  },
+  {
+    "value": "Srinivaspur",
+    "synonyms": [
+      "Srinivaspur"
+    ]
+  },
+  {
+    "value": "Murliganj",
+    "synonyms": [
+      "Murliganj"
+    ]
+  },
+  {
+    "value": "Reengus",
+    "synonyms": [
+      "Reengus"
+    ]
+  },
+  {
+    "value": "Sawantwadi",
+    "synonyms": [
+      "Sawantwadi"
+    ]
+  },
+  {
+    "value": "Tittakudi",
+    "synonyms": [
+      "Tittakudi"
+    ]
+  },
+  {
+    "value": "Lilong",
+    "synonyms": [
+      "Lilong"
+    ]
+  },
+  {
+    "value": "Rajaldesar",
+    "synonyms": [
+      "Rajaldesar"
+    ]
+  },
+  {
+    "value": "Pathardi",
+    "synonyms": [
+      "Pathardi"
+    ]
+  },
+  {
+    "value": "Achhnera",
+    "synonyms": [
+      "Achhnera"
+    ]
+  },
+  {
+    "value": "Pacode",
+    "synonyms": [
+      "Pacode"
+    ]
+  },
+  {
+    "value": "Naraura",
+    "synonyms": [
+      "Naraura"
+    ]
+  },
+  {
+    "value": "Nakur",
+    "synonyms": [
+      "Nakur"
+    ]
+  },
+  {
+    "value": "Palai",
+    "synonyms": [
+      "Palai"
+    ]
+  },
+  {
+    "value": "Morinda, India",
+    "synonyms": [
+      "Morinda, India"
+    ]
+  },
+  {
+    "value": "Manasa",
+    "synonyms": [
+      "Manasa"
+    ]
+  },
+  {
+    "value": "Nainpur",
+    "synonyms": [
+      "Nainpur"
+    ]
+  },
+  {
+    "value": "Sahaspur",
+    "synonyms": [
+      "Sahaspur"
+    ]
+  },
+  {
+    "value": "Pauni",
+    "synonyms": [
+      "Pauni"
+    ]
+  },
+  {
+    "value": "Prithvipur",
+    "synonyms": [
+      "Prithvipur"
+    ]
+  },
+  {
+    "value": "Ramtek",
+    "synonyms": [
+      "Ramtek"
+    ]
+  },
+  {
+    "value": "Silapathar",
+    "synonyms": [
+      "Silapathar"
+    ]
+  },
+  {
+    "value": "Songadh",
+    "synonyms": [
+      "Songadh"
+    ]
+  },
+  {
+    "value": "Safipur",
+    "synonyms": [
+      "Safipur"
+    ]
+  },
+  {
+    "value": "Sohagpur",
+    "synonyms": [
+      "Sohagpur"
+    ]
+  },
+  {
+    "value": "Mul",
+    "synonyms": [
+      "Mul"
+    ]
+  },
+  {
+    "value": "Sadulshahar",
+    "synonyms": [
+      "Sadulshahar"
+    ]
+  },
+  {
+    "value": "Phillaur",
+    "synonyms": [
+      "Phillaur"
+    ]
+  },
+  {
+    "value": "Sambhar",
+    "synonyms": [
+      "Sambhar"
+    ]
+  },
+  {
+    "value": "Prantij",
+    "synonyms": [
+      "Prantij"
+    ]
+  },
+  {
+    "value": "Nagla",
+    "synonyms": [
+      "Nagla"
+    ]
+  },
+  {
+    "value": "Pattran",
+    "synonyms": [
+      "Pattran"
+    ]
+  },
+  {
+    "value": "Mount Abu",
+    "synonyms": [
+      "Mount Abu"
+    ]
+  },
+  {
+    "value": "Reoti",
+    "synonyms": [
+      "Reoti"
+    ]
+  },
+  {
+    "value": "Tenu dam-cum-Kathhara",
+    "synonyms": [
+      "Tenu dam-cum-Kathhara"
+    ]
+  },
+  {
+    "value": "Panchla",
+    "synonyms": [
+      "Panchla"
+    ]
+  },
+  {
+    "value": "Sitarganj",
+    "synonyms": [
+      "Sitarganj"
+    ]
+  },
+  {
+    "value": "Pasighat",
+    "synonyms": [
+      "Pasighat"
+    ]
+  },
+  {
+    "value": "Motipur",
+    "synonyms": [
+      "Motipur"
+    ]
+  },
+  {
+    "value": "O\u0027 Valley",
+    "synonyms": [
+      "O\u0027 Valley"
+    ]
+  },
+  {
+    "value": "Raghunathpur",
+    "synonyms": [
+      "Raghunathpur"
+    ]
+  },
+  {
+    "value": "Suriyampalayam",
+    "synonyms": [
+      "Suriyampalayam"
+    ]
+  },
+  {
+    "value": "Qadian",
+    "synonyms": [
+      "Qadian"
+    ]
+  },
+  {
+    "value": "Rairangpur",
+    "synonyms": [
+      "Rairangpur"
+    ]
+  },
+  {
+    "value": "Silvassa",
+    "synonyms": [
+      "Silvassa"
+    ]
+  },
+  {
+    "value": "Nowrozabad",
+    "synonyms": [
+      "Nowrozabad"
+    ]
+  },
+  {
+    "value": "Soyagaon",
+    "synonyms": [
+      "Soyagaon"
+    ]
+  },
+  {
+    "value": "Sujanpur",
+    "synonyms": [
+      "Sujanpur"
+    ]
+  },
+  {
+    "value": "Manihari",
+    "synonyms": [
+      "Manihari"
+    ]
+  },
+  {
+    "value": "Sikanderpur",
+    "synonyms": [
+      "Sikanderpur"
+    ]
+  },
+  {
+    "value": "Mangalvedhe",
+    "synonyms": [
+      "Mangalvedhe"
+    ]
+  },
+  {
+    "value": "Phulera",
+    "synonyms": [
+      "Phulera"
+    ]
+  },
+  {
+    "value": "Ron",
+    "synonyms": [
+      "Ron"
+    ]
+  },
+  {
+    "value": "Sholavandan",
+    "synonyms": [
+      "Sholavandan"
+    ]
+  },
+  {
+    "value": "Saidpur",
+    "synonyms": [
+      "Saidpur"
+    ]
+  },
+  {
+    "value": "Shamgarh",
+    "synonyms": [
+      "Shamgarh"
+    ]
+  },
+  {
+    "value": "Thammampatti",
+    "synonyms": [
+      "Thammampatti"
+    ]
+  },
+  {
+    "value": "Maharajpur",
+    "synonyms": [
+      "Maharajpur"
+    ]
+  },
+  {
+    "value": "Multai",
+    "synonyms": [
+      "Multai"
+    ]
+  },
+  {
+    "value": "Mukerian",
+    "synonyms": [
+      "Mukerian"
+    ]
+  },
+  {
+    "value": "Purwa",
+    "synonyms": [
+      "Purwa"
+    ]
+  },
+  {
+    "value": "Sheohar",
+    "synonyms": [
+      "Sheohar"
+    ]
+  },
+  {
+    "value": "Namagiripettai",
+    "synonyms": [
+      "Namagiripettai"
+    ]
+  },
+  {
+    "value": "Parasi",
+    "synonyms": [
+      "Parasi"
+    ]
+  },
+  {
+    "value": "Lathi",
+    "synonyms": [
+      "Lathi"
+    ]
+  },
+  {
+    "value": "Narkhed",
+    "synonyms": [
+      "Narkhed"
+    ]
+  },
+  {
+    "value": "Mathabhanga",
+    "synonyms": [
+      "Mathabhanga"
+    ]
+  },
+  {
+    "value": "Shendurjana",
+    "synonyms": [
+      "Shendurjana"
+    ]
+  },
+  {
+    "value": "Peravurani",
+    "synonyms": [
+      "Peravurani"
+    ]
+  },
+  {
+    "value": "Mariani",
+    "synonyms": [
+      "Mariani"
+    ]
+  },
+  {
+    "value": "Phulpur",
+    "synonyms": [
+      "Phulpur"
+    ]
+  },
+  {
+    "value": "Rania",
+    "synonyms": [
+      "Rania"
+    ]
+  },
+  {
+    "value": "Pachore",
+    "synonyms": [
+      "Pachore"
+    ]
+  },
+  {
+    "value": "Parangipettai",
+    "synonyms": [
+      "Parangipettai"
+    ]
+  },
+  {
+    "value": "Pudupattinam",
+    "synonyms": [
+      "Pudupattinam"
+    ]
+  },
+  {
+    "value": "Panniyannur",
+    "synonyms": [
+      "Panniyannur"
+    ]
+  },
+  {
+    "value": "Maharajganj",
+    "synonyms": [
+      "Maharajganj"
+    ]
+  },
+  {
+    "value": "Rau",
+    "synonyms": [
+      "Rau"
+    ]
+  },
+  {
+    "value": "Monoharpur",
+    "synonyms": [
+      "Monoharpur"
+    ]
+  },
+  {
+    "value": "Mandawa",
+    "synonyms": [
+      "Mandawa"
+    ]
+  },
+  {
+    "value": "Marigaon",
+    "synonyms": [
+      "Marigaon"
+    ]
+  },
+  {
+    "value": "Pallikonda",
+    "synonyms": [
+      "Pallikonda"
+    ]
+  },
+  {
+    "value": "Pindwara",
+    "synonyms": [
+      "Pindwara"
+    ]
+  },
+  {
+    "value": "Shishgarh",
+    "synonyms": [
+      "Shishgarh"
+    ]
+  },
+  {
+    "value": "Patur",
+    "synonyms": [
+      "Patur"
+    ]
+  },
+  {
+    "value": "Mayang Imphal",
+    "synonyms": [
+      "Mayang Imphal"
+    ]
+  },
+  {
+    "value": "Mhowgaon",
+    "synonyms": [
+      "Mhowgaon"
+    ]
+  },
+  {
+    "value": "Guruvayoor",
+    "synonyms": [
+      "Guruvayoor"
+    ]
+  },
+  {
+    "value": "Mhaswad",
+    "synonyms": [
+      "Mhaswad"
+    ]
+  },
+  {
+    "value": "Sahawar",
+    "synonyms": [
+      "Sahawar"
+    ]
+  },
+  {
+    "value": "Sivagiri",
+    "synonyms": [
+      "Sivagiri"
+    ]
+  },
+  {
+    "value": "Mundargi",
+    "synonyms": [
+      "Mundargi"
+    ]
+  },
+  {
+    "value": "Punjaipugalur",
+    "synonyms": [
+      "Punjaipugalur"
+    ]
+  },
+  {
+    "value": "Kailasahar",
+    "synonyms": [
+      "Kailasahar"
+    ]
+  },
+  {
+    "value": "Samthar",
+    "synonyms": [
+      "Samthar"
+    ]
+  },
+  {
+    "value": "Sakti",
+    "synonyms": [
+      "Sakti"
+    ]
+  },
+  {
+    "value": "Sadalagi",
+    "synonyms": [
+      "Sadalagi"
+    ]
+  },
+  {
+    "value": "Silao",
+    "synonyms": [
+      "Silao"
+    ]
+  },
+  {
+    "value": "Mandalgarh",
+    "synonyms": [
+      "Mandalgarh"
+    ]
+  },
+  {
+    "value": "Loha",
+    "synonyms": [
+      "Loha"
+    ]
+  },
+  {
+    "value": "Pukhrayan",
+    "synonyms": [
+      "Pukhrayan"
+    ]
+  },
+  {
+    "value": "Padmanabhapuram",
+    "synonyms": [
+      "Padmanabhapuram"
+    ]
+  },
+  {
+    "value": "Belonia",
+    "synonyms": [
+      "Belonia"
+    ]
+  },
+  {
+    "value": "Saiha",
+    "synonyms": [
+      "Saiha"
+    ]
+  },
+  {
+    "value": "Srirampore",
+    "synonyms": [
+      "Srirampore"
+    ]
+  },
+  {
+    "value": "Talwara",
+    "synonyms": [
+      "Talwara"
+    ]
+  },
+  {
+    "value": "Puthuppally",
+    "synonyms": [
+      "Puthuppally"
+    ]
+  },
+  {
+    "value": "Khowai",
+    "synonyms": [
+      "Khowai"
+    ]
+  },
+  {
+    "value": "Vijaypur",
+    "synonyms": [
+      "Vijaypur"
+    ]
+  },
+  {
+    "value": "Takhatgarh",
+    "synonyms": [
+      "Takhatgarh"
+    ]
+  },
+  {
+    "value": "Thirupuvanam",
+    "synonyms": [
+      "Thirupuvanam"
+    ]
+  },
+  {
+    "value": "Adra",
+    "synonyms": [
+      "Adra"
+    ]
+  },
+  {
+    "value": "Piriyapatna",
+    "synonyms": [
+      "Piriyapatna"
+    ]
+  },
+  {
+    "value": "Obra",
+    "synonyms": [
+      "Obra"
+    ]
+  },
+  {
+    "value": "Adalaj",
+    "synonyms": [
+      "Adalaj"
+    ]
+  },
+  {
+    "value": "Nandgaon",
+    "synonyms": [
+      "Nandgaon"
+    ]
+  },
+  {
+    "value": "Barh",
+    "synonyms": [
+      "Barh"
+    ]
+  },
+  {
+    "value": "Panamattom",
+    "synonyms": [
+      "Panamattom"
+    ]
+  },
+  {
+    "value": "Niwai",
+    "synonyms": [
+      "Niwai"
+    ]
+  },
+  {
+    "value": "Bageshwar",
+    "synonyms": [
+      "Bageshwar"
+    ]
+  },
+  {
+    "value": "Tarbha",
+    "synonyms": [
+      "Tarbha"
+    ]
+  },
+  {
+    "value": "Adyar",
+    "synonyms": [
+      "Adyar"
+    ]
+  },
+  {
+    "value": "Warud",
+    "synonyms": [
+      "Warud"
+    ]
+  },
+  {
+    "value": "Asarganj",
+    "synonyms": [
+      "Asarganj"
+    ]
+  },
+  {
+    "value": "Sarsod",
+    "synonyms": [
+      "Sarsod"
+    ]
+  },
+  {
+    "value": "Malleswaram",
+    "synonyms": [
+      "Malleswaram"
+    ]
+  }
+]

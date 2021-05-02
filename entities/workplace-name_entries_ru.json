@@ -1,0 +1,83 @@
+[
+  {
+    "value": "swiggy",
+    "synonyms": [
+      "swiggy",
+      "ஸ்விக்கி"
+    ]
+  },
+  {
+    "value": "Infosys",
+    "synonyms": [
+      "Infosys",
+      "இன்போசிஸ்"
+    ]
+  },
+  {
+    "value": "Ola",
+    "synonyms": [
+      "Ola",
+      "ஓலா"
+    ]
+  },
+  {
+    "value": "Uber",
+    "synonyms": [
+      "Uber",
+      "உபேர்",
+      "ஊபர்",
+      "யூபெர்"
+    ]
+  },
+  {
+    "value": "Zomato",
+    "synonyms": [
+      "Zomato",
+      "ஸ்மோட்டோ",
+      "ஜோமாட்டோ",
+      "ஸ்மட்டோ"
+    ]
+  },
+  {
+    "value": "Amazon",
+    "synonyms": [
+      "Amazon",
+      "அமேசான்",
+      "அமெஜோன்"
+    ]
+  },
+  {
+    "value": "Dunzo",
+    "synonyms": [
+      "Dunzo",
+      "டூன்ஸ்வ்",
+      "டண்ஸ்வ்",
+      "டஞ்சோ"
+    ]
+  },
+  {
+    "value": "Pizza Hut",
+    "synonyms": [
+      "Pizza Hut",
+      "பிஸ்சா ஹட்",
+      "பிஸ்சா"
+    ]
+  },
+  {
+    "value": "dominoz",
+    "synonyms": [
+      "dominoz",
+      "டாமினோஸ்",
+      "பிஸ்சா",
+      "டோமினோஸ்"
+    ]
+  },
+  {
+    "value": "Uber eats",
+    "synonyms": [
+      "Uber eats",
+      "உபெர் ஈட்ஸ்",
+      "யூபெர் ஈட்ஸ்"
+    ]
+  }
+]

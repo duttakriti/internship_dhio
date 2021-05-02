@@ -1,0 +1,93 @@
+[
+  {
+    "value": "Bengali",
+    "synonyms": [
+      "Bengali",
+      "ba",
+      "bangal",
+      "bangla",
+      "bengal",
+      "bengali"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "English",
+      "en",
+      "eng",
+      "engleesh",
+      "english",
+      "inglish"
+    ]
+  },
+  {
+    "value": "Hindi",
+    "synonyms": [
+      "Hindi",
+      "hi",
+      "hindi",
+      "hindu",
+      "hundi"
+    ]
+  },
+  {
+    "value": "Kannada",
+    "synonyms": [
+      "Kannada",
+      "ka",
+      "kannad",
+      "kannada"
+    ]
+  },
+  {
+    "value": "Malayalam",
+    "synonyms": [
+      "Malayalam",
+      "ma",
+      "malay",
+      "malayalam",
+      "malyalam"
+    ]
+  },
+  {
+    "value": "Tamil",
+    "synonyms": [
+      "Tamil",
+      "ta",
+      "tamil",
+      "tamizh"
+    ]
+  },
+  {
+    "value": "Telugu",
+    "synonyms": [
+      "Telugu",
+      "te",
+      "telgi",
+      "telgu",
+      "telugu"
+    ]
+  },
+  {
+    "value": "Marathi",
+    "synonyms": [
+      "Marathi",
+      "Ma",
+      "Marat",
+      "Mar",
+      "Marati",
+      "Maraati"
+    ]
+  },
+  {
+    "value": "Gujarati",
+    "synonyms": [
+      "Gujarati",
+      "Guj",
+      "Guju",
+      "Gujrathi",
+      "Gujarathi"
+    ]
+  }
+]

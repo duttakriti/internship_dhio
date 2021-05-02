@@ -1,0 +1,9 @@
+{
+  "id": "51136a21-d01b-4f8d-97f1-1495bc24677f",
+  "name": "job-location",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "62b673ea-3617-4cd7-8740-1103b36ac8fc",
+  "name": "indian-languages",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

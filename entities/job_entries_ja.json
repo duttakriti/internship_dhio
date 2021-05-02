@@ -1,0 +1,122 @@
+[
+  {
+    "value": "BABY SITTER",
+    "synonyms": [
+      "BABY SITTER"
+    ]
+  },
+  {
+    "value": "BPO",
+    "synonyms": [
+      "BPO"
+    ]
+  },
+  {
+    "value": "COOKING",
+    "synonyms": [
+      "COOKING",
+      "রান্না",
+      "রাঁধুনির"
+    ]
+  },
+  {
+    "value": "DELIVERY",
+    "synonyms": [
+      "DELIVERY",
+      "দেলিভেরি"
+    ]
+  },
+  {
+    "value": "DRIVER",
+    "synonyms": [
+      "DRIVER"
+    ]
+  },
+  {
+    "value": "MAID",
+    "synonyms": [
+      "MAID",
+      "পরিষ্কারক"
+    ]
+  },
+  {
+    "value": "SALES_AND_MARKETING",
+    "synonyms": [
+      "SALES_AND_MARKETING"
+    ]
+  },
+  {
+    "value": "TAILORING",
+    "synonyms": [
+      "TAILORING"
+    ]
+  },
+  {
+    "value": "SECURITY",
+    "synonyms": [
+      "SECURITY",
+      "চৌকিদার",
+      "সুরক্ষা",
+      "সিকিউরিটি"
+    ]
+  },
+  {
+    "value": "NURSE",
+    "synonyms": [
+      "NURSE"
+    ]
+  },
+  {
+    "value": "TEACHER",
+    "synonyms": [
+      "TEACHER",
+      "শিক্ষিকা"
+    ]
+  },
+  {
+    "value": "BEAUTICIAN",
+    "synonyms": [
+      "BEAUTICIAN",
+      "বিউটি সালন"
+    ]
+  },
+  {
+    "value": "RECEPTIONIST",
+    "synonyms": [
+      "RECEPTIONIST\","
+    ]
+  },
+  {
+    "value": "CONSTRUCTION",
+    "synonyms": [
+      "CONSTRUCTION"
+    ]
+  },
+  {
+    "value": "FACTORY_WORKER",
+    "synonyms": [
+      "FACTORY_WORKER",
+      "মিস্ত্রি",
+      "সেলাই"
+    ]
+  },
+  {
+    "value": "IT_AND_SOFTWARE",
+    "synonyms": [
+      "IT_AND_SOFTWARE"
+    ]
+  },
+  {
+    "value": "DATA ENTRY",
+    "synonyms": [
+      "DATA ENTRY"
+    ]
+  },
+  {
+    "value": "ACCOUNTANT",
+    "synonyms": [
+      "ACCOUNTANT",
+      "হিসাবরক্ষক"
+    ]
+  }
+]

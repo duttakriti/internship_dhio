@@ -1,0 +1,122 @@
+[
+  {
+    "value": "BABY SITTER",
+    "synonyms": [
+      "BABY SITTER"
+    ]
+  },
+  {
+    "value": "BPO",
+    "synonyms": [
+      "BPO",
+      "ബി പി ഓ"
+    ]
+  },
+  {
+    "value": "COOKING",
+    "synonyms": [
+      "COOKING",
+      "കുക്ക്"
+    ]
+  },
+  {
+    "value": "DELIVERY",
+    "synonyms": [
+      "DELIVERY",
+      "ഡെലിവറി"
+    ]
+  },
+  {
+    "value": "DRIVER",
+    "synonyms": [
+      "DRIVER",
+      "ഡ്രൈവർ",
+      "വാഹനം ഓടിക്കുന്ന"
+    ]
+  },
+  {
+    "value": "MAID",
+    "synonyms": [
+      "MAID",
+      "ഹൗസ് കീപ്പിംഗ്"
+    ]
+  },
+  {
+    "value": "SALES_AND_MARKETING",
+    "synonyms": [
+      "SALES_AND_MARKETING"
+    ]
+  },
+  {
+    "value": "TAILORING",
+    "synonyms": [
+      "TAILORING"
+    ]
+  },
+  {
+    "value": "SECURITY",
+    "synonyms": [
+      "SECURITY"
+    ]
+  },
+  {
+    "value": "NURSE",
+    "synonyms": [
+      "NURSE",
+      "നേഴ്സ്"
+    ]
+  },
+  {
+    "value": "TEACHER",
+    "synonyms": [
+      "TEACHER",
+      "അധ്യാപക"
+    ]
+  },
+  {
+    "value": "BEAUTICIAN",
+    "synonyms": [
+      "BEAUTICIAN"
+    ]
+  },
+  {
+    "value": "RECEPTIONIST",
+    "synonyms": [
+      "RECEPTIONIST\","
+    ]
+  },
+  {
+    "value": "CONSTRUCTION",
+    "synonyms": [
+      "CONSTRUCTION",
+      "വെൽഡിംഗ്"
+    ]
+  },
+  {
+    "value": "FACTORY_WORKER",
+    "synonyms": [
+      "FACTORY_WORKER",
+      "വെൽഡിംഗ്",
+      "ഫാക്ടറി വർക്കർ"
+    ]
+  },
+  {
+    "value": "IT_AND_SOFTWARE",
+    "synonyms": [
+      "IT_AND_SOFTWARE"
+    ]
+  },
+  {
+    "value": "DATA ENTRY",
+    "synonyms": [
+      "DATA ENTRY"
+    ]
+  },
+  {
+    "value": "ACCOUNTANT",
+    "synonyms": [
+      "ACCOUNTANT",
+      "അക്കൗണ്ടന്റ്"
+    ]
+  }
+]

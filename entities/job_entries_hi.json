@@ -1,0 +1,158 @@
+[
+  {
+    "value": "BABY SITTER",
+    "synonyms": [
+      "babysitter"
+    ]
+  },
+  {
+    "value": "BPO",
+    "synonyms": [
+      "BPO",
+      "बीपिओ",
+      "बिपिओ",
+      "टेली कॉलर"
+    ]
+  },
+  {
+    "value": "COOKING",
+    "synonyms": [
+      "COOKING",
+      "रसोई",
+      "शेफ",
+      "कुक"
+    ]
+  },
+  {
+    "value": "DELIVERY",
+    "synonyms": [
+      "DELIVERY",
+      "डिलीवरी",
+      "डेलिवरी",
+      "वितरण"
+    ]
+  },
+  {
+    "value": "DRIVER",
+    "synonyms": [
+      "DRIVER",
+      "ड्राइवर",
+      "चालक"
+    ]
+  },
+  {
+    "value": "MAID",
+    "synonyms": [
+      "MAID",
+      "बाई",
+      "हाउसकीपिंग"
+    ]
+  },
+  {
+    "value": "SALES_AND_MARKETING",
+    "synonyms": [
+      "SALES_AND_MARKETING",
+      "सेल्स",
+      "मार्केटिंग",
+      "सेल्स और मार्केटिंग"
+    ]
+  },
+  {
+    "value": "TAILORING",
+    "synonyms": [
+      "TAILORING",
+      "टेलर",
+      "दर्जी",
+      "टैलर"
+    ]
+  },
+  {
+    "value": "SECURITY",
+    "synonyms": [
+      "SECURITY",
+      "सेक्युरिटी",
+      "सिक्यूरिटी",
+      "सिक्योरिटी"
+    ]
+  },
+  {
+    "value": "NURSE",
+    "synonyms": [
+      "NURSE",
+      "नर्स"
+    ]
+  },
+  {
+    "value": "TEACHER",
+    "synonyms": [
+      "TEACHER",
+      "टीचर",
+      "अध्यापक",
+      "लेक्चरर",
+      "प्रोफेसर",
+      "शिक्षक"
+    ]
+  },
+  {
+    "value": "BEAUTICIAN",
+    "synonyms": [
+      "BEAUTICIAN",
+      "बूटिशन",
+      "ब्यूटिशियन",
+      "ब्यूटीशियन और स्टाइलिस्ट",
+      "ब्यूटीशियन",
+      "हेयर  स्टाइलिस्ट"
+    ]
+  },
+  {
+    "value": "RECEPTIONIST",
+    "synonyms": [
+      "RECEPTIONIST",
+      "रिसेप्शनिस्ट"
+    ]
+  },
+  {
+    "value": "CONSTRUCTION",
+    "synonyms": [
+      "CONSTRUCTION",
+      "मजदूर",
+      "कंस्ट्रक्शन",
+      "बिल्डिंग निर्माण"
+    ]
+  },
+  {
+    "value": "FACTORY_WORKER",
+    "synonyms": [
+      "FACTORY_WORKER",
+      "फैक्ट्री मज़दूर",
+      "कारीगर",
+      "फैक्ट्री कारीगर"
+    ]
+  },
+  {
+    "value": "IT_AND_SOFTWARE",
+    "synonyms": [
+      "IT_AND_SOFTWARE",
+      "सॉफ्टवेर इटी",
+      "इटी",
+      "सॉफ्टवेर"
+    ]
+  },
+  {
+    "value": "DATA ENTRY",
+    "synonyms": [
+      "DATA ENTRY",
+      "डाटा एंट्री"
+    ]
+  },
+  {
+    "value": "ACCOUNTANT",
+    "synonyms": [
+      "ACCOUNTANT",
+      "मुनीम",
+      "अकाउंटेंट",
+      "लेखापाल",
+      "मुनीब"
+    ]
+  }
+]

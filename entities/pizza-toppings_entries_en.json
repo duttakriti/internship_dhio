@@ -1,0 +1,24 @@
+[
+  {
+    "value": "capsicum",
+    "synonyms": [
+      "bell pepper",
+      "capsicum"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese",
+      "mozarella",
+      "parmesan"
+    ]
+  },
+  {
+    "value": "onion",
+    "synonyms": [
+      "onion",
+      "pyaas"
+    ]
+  }
+]
