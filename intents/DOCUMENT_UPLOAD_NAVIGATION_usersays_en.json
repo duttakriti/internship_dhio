@@ -1,0 +1,145 @@
+[
+  {
+    "id": "4fbed065-29a2-4bfb-9c9e-d2155b706e3e",
+    "data": [
+      {
+        "text": "Upload my documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c7df72d-5a02-4717-a932-fda0a3aff329",
+    "data": [
+      {
+        "text": "vehicle insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "952d4310-cc1e-4d5d-a1d6-7fa335e46f80",
+    "data": [
+      {
+        "text": "insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "054c420a-9993-455e-84b7-d0d9a0b59679",
+    "data": [
+      {
+        "text": "DL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea242602-a5a7-4cd2-871d-76c6d0b9dd08",
+    "data": [
+      {
+        "text": "RC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa352d12-ea76-4920-927d-1f037b99ede4",
+    "data": [
+      {
+        "text": "RC upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e128f76a-0a3c-4d28-ab38-81f9be960837",
+    "data": [
+      {
+        "text": "DL upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "022a234e-2615-45a2-88cb-8ffb0b62aed6",
+    "data": [
+      {
+        "text": "insurance upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cd58b7c-5231-4cc2-8c07-b1ae9af9d296",
+    "data": [
+      {
+        "text": "drivers license upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5112740-6de1-4ab5-b7f2-82c7ad99f54b",
+    "data": [
+      {
+        "text": "upload documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c61f4aa-7de8-4173-99f8-76617562cbf9",
+    "data": [
+      {
+        "text": "documents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

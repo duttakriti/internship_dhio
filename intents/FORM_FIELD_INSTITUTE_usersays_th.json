@@ -1,0 +1,78 @@
+[
+  {
+    "id": "a939b2cb-684e-4bd7-9ef4-9e2fa4aa0801",
+    "data": [
+      {
+        "text": "मी माझे ",
+        "userDefined": false
+      },
+      {
+        "text": "शिक्षण",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " संपवले आहे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2f5e4f63-7339-4aff-b714-cc8725db858b",
+    "data": [
+      {
+        "text": "मी ",
+        "userDefined": false
+      },
+      {
+        "text": "दहावी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " पर्यंत ",
+        "userDefined": false
+      },
+      {
+        "text": "शिक्षण",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " घेतले आहे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7e61265e-8c7f-48a3-810c-39b832acdf7c",
+    "data": [
+      {
+        "text": "मी ",
+        "userDefined": false
+      },
+      {
+        "text": "वी टी यू",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " मध्ये शिकलो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "19fc642f-f832-41f8-84cf-cdbd3b450da0",
+    "data": [
+      {
+        "text": "নমস্কার ভাল আছেন তো?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "c4a0911a-ab40-4d63-a7cd-2597946ca7d8",
+    "data": [
+      {
+        "text": "নমস্কার",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4bc568d3-df9c-4627-b886-b1942a2c2c9b",
+    "data": [
+      {
+        "text": "নমস্কার আপনাকে দেখে ভাল লাগল",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "52609a98-1dbb-4e79-bc5d-c6951d7b0846",
+    "data": [
+      {
+        "text": "আপনার সাথে দেখা হয়ে ভালো লাগলো।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "64ec0cb8-baa9-44a2-b8b6-aaafa6ba9185",
+    "data": [
+      {
+        "text": "তোমার সাথে দেখা হয়ে ভালো লাগলো।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3458cc84-cd8c-4d5b-8e72-505aa85ad4c3",
+    "data": [
+      {
+        "text": "হ্যালো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "26471b3b-c85c-4f20-8f4b-4185b99c03c0",
+    "data": [
+      {
+        "text": "স্বাগতম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "27d3826a-60a1-4ff3-8e88-0fce47337e16",
+    "data": [
+      {
+        "text": "স্বাগত",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

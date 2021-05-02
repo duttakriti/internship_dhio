@@ -1,0 +1,1438 @@
+[
+  {
+    "id": "bdae7169-acac-4850-81c2-f0433d63fafe",
+    "data": [
+      {
+        "text": "cashier",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs ",
+        "userDefined": false
+      },
+      {
+        "text": "bangalore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c951aca-27ed-4216-9d07-bc1941095888",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "bookkeeper",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "mysuru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8b7d06d-c500-4732-8c6d-07ab56b46e1f",
+    "data": [
+      {
+        "text": "bookkeeper",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "mysuru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe62734e-5629-467f-9142-65411f1757f9",
+    "data": [
+      {
+        "text": "bookkeeper",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90d0cf31-956e-45fb-98d5-0845680bb5bd",
+    "data": [
+      {
+        "text": "accontant",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3df32769-1691-4495-8bd6-88894079be51",
+    "data": [
+      {
+        "text": "accountant",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bangalore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35682ddb-5620-4d50-9498-f9bfae4bcc7a",
+    "data": [
+      {
+        "text": "accountant",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "mysuru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deb433cd-912d-4e0d-8d1c-3fef1d7df98f",
+    "data": [
+      {
+        "text": "accountant",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "bengaluru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b945ecaf-1a5f-435b-80b7-9cf695f3c6ce",
+    "data": [
+      {
+        "text": "i need ",
+        "userDefined": false
+      },
+      {
+        "text": "ola",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acb17912-6b90-44ff-a46d-350bda4004af",
+    "data": [
+      {
+        "text": "Ola",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb68e575-4a9d-40c0-b3db-15d730e27d98",
+    "data": [
+      {
+        "text": "ola",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " driver jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01f3130a-041a-4186-838a-51e78598e7fe",
+    "data": [
+      {
+        "text": "swiggy",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f824abe-af31-4ad9-87d7-a99064ef8c65",
+    "data": [
+      {
+        "text": "zomato",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " delivey boy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02a1473-cb29-42fd-a9eb-ddec33858343",
+    "data": [
+      {
+        "text": "swiggy",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rider",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d83f2e00-8507-4e33-8173-0d9d34d929b5",
+    "data": [
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " boy jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78bba68-f035-4be6-baf4-4bdb76282acd",
+    "data": [
+      {
+        "text": "swiggy",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "bangalore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a199a437-280f-4089-a537-868aec9af979",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "uber",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "mysore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb8d8a24-b9e9-4af6-bd52-b8f5e78108b4",
+    "data": [
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f22c75fd-c32d-4ea6-bc69-1b4d43a55d22",
+    "data": [
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " job in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac7fa794-5963-426a-842b-bb34adae392b",
+    "data": [
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "903c57a1-03ab-40c6-bfff-13a4874030fc",
+    "data": [
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "130cb4c2-cd04-4b67-82bd-283885d4963b",
+    "data": [
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " work ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c973f97-97d1-43ee-b9a3-96e9f5fe50be",
+    "data": [
+      {
+        "text": "Delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " work in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5230116c-00ef-4a04-8568-8def0e69f0e4",
+    "data": [
+      {
+        "text": "work in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76c42995-5617-4a2d-bdbf-2b2fa2c999c1",
+    "data": [
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abeb5b68-d8f1-4138-86ab-1257b7d1aea2",
+    "data": [
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cook",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe0feaa0-b0e2-4666-959a-c03088b08e45",
+    "data": [
+      {
+        "text": "cook",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "CHENNAI",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f27aa83-6971-43b5-b890-65543c86c4ae",
+    "data": [
+      {
+        "text": "Delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "340b9435-9f4a-4493-9cda-41e39491617a",
+    "data": [
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d04a4ea-c8a9-48e1-854c-15326b5f5a12",
+    "data": [
+      {
+        "text": "Jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2649c1c-e0d9-4396-bac6-dae3fbf8073d",
+    "data": [
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " Jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04a4d758-fd6c-41c9-b34f-b803134f9885",
+    "data": [
+      {
+        "text": "Swiggy",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6ca6457-2b91-4832-b7c7-2efe307767b1",
+    "data": [
+      {
+        "text": "Uber",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51217041-3bc2-4927-9729-885cd396610d",
+    "data": [
+      {
+        "text": "Ola",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56324609-a1c1-4b1c-a02d-87aad34b3166",
+    "data": [
+      {
+        "text": "Delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f74bcbf3-0094-4a21-94a9-4a07237825c4",
+    "data": [
+      {
+        "text": "Driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db043bea-6286-42ec-ac6c-2ab279fb6be4",
+    "data": [
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54e9a98f-3293-4aa4-b28f-a332851b2e76",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "RPC Layout",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "190ab0ed-3d56-4747-a648-2050bf987645",
+    "data": [
+      {
+        "text": "show me jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "kumarswamy layout",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618e1be3-a7a4-40ff-972d-a0ee259efc5f",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jobs",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Kolkata",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7b5e357-382e-4776-9083-176b18d1ac75",
+    "data": [
+      {
+        "text": "mumbai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70333142-ab07-4fb2-9da9-0e40f45b5d55",
+    "data": [
+      {
+        "text": "show",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f59a5d51-451f-4463-a3ea-df13a41fa4d6",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "mysuru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e89b1578-11c4-439d-812d-f2560e09cd6b",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " Boys jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mysore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62cecadd-9998-4d41-94e2-bf0df3038b5a",
+    "data": [
+      {
+        "text": "bengaluru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d7e4f6e-1fc2-4f63-bb0d-b47a12c4f2a7",
+    "data": [
+      {
+        "text": "cook",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " jobs or ",
+        "userDefined": false
+      },
+      {
+        "text": "chef",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Malleswaram",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23447eae-179d-4427-9794-eb6cfd926103",
+    "data": [
+      {
+        "text": "tailor",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "tailoring",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bengaluru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f384c962-56ee-4f01-b767-ed2f87c27aa4",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "uber",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " driver jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e18ca9bf-10a1-4dcb-b77d-d739ca3202f1",
+    "data": [
+      {
+        "text": "show me jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdb6bb99-bbbe-4af4-ac96-e02eb1eebcbb",
+    "data": [
+      {
+        "text": "show jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72cd909b-5d90-46d4-b5eb-caa151910586",
+    "data": [
+      {
+        "text": "bengaluru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0065d64-f8eb-4d00-8ec9-dd125da7ad3c",
+    "data": [
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bengaluru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3302a7e-f8b2-4ae7-b6c2-2dea41bf3f50",
+    "data": [
+      {
+        "text": "looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "bangalore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13312036-21d8-47a6-98dc-5c6566c760d7",
+    "data": [
+      {
+        "text": "I am searching for ",
+        "userDefined": false
+      },
+      {
+        "text": "carpenter",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6391dc2c-fb35-434b-aa5b-49be15a09057",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "beautician",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5027b5b-48ca-48ef-83dd-366477144bbe",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "nurse",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e6d8fa4-3e1b-4c14-a975-6f12f36e53ff",
+    "data": [
+      {
+        "text": "delivery",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangalore",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17f28c5-b148-4280-a8b2-ccb78a9c473c",
+    "data": [
+      {
+        "text": "Driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Karnataka",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9103362e-9dd5-40a4-9598-b7aa7187f4a7",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "Karnataka",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5fffb82-1224-41f3-a124-7250d1f579e0",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "mysuru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d622b48e-beb1-4521-b734-beea891a72e2",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " jobs in ",
+        "userDefined": false
+      },
+      {
+        "text": "bengaluru",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

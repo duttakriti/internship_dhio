@@ -1,0 +1,304 @@
+[
+  {
+    "id": "036c8f20-99bc-4bfc-9292-0032f1d254bd",
+    "data": [
+      {
+        "text": "চৌকিদার",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "76a41cbf-09b3-46b4-9c6c-5c39c4f0f9b8",
+    "data": [
+      {
+        "text": "সুরক্ষা",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "aabe36a0-9cb1-455e-addf-2776b5bb4d30",
+    "data": [
+      {
+        "text": "পরিষ্কারক",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e48260b5-38ab-435e-a89e-e74ea93ef79e",
+    "data": [
+      {
+        "text": "দিল্লি",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": "তে ",
+        "userDefined": false
+      },
+      {
+        "text": "বিউটি সালন",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7d7f0c19-64f8-49f2-a427-0f23f6864946",
+    "data": [
+      {
+        "text": "মিস্ত্রি",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "c1a0d657-be6c-43a0-9613-488bfa1dd963",
+    "data": [
+      {
+        "text": "রান্না",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "41d4c162-42a6-4e66-ad1c-b59823d8c5a7",
+    "data": [
+      {
+        "text": "সেলাই",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "fd52a5ae-299a-4bcf-9826-3800140ee2f0",
+    "data": [
+      {
+        "text": "চেন্নাই",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "রাঁধুনির",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " কাজ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4d0704c5-ddae-4ed4-b3a0-cfb3867d344e",
+    "data": [
+      {
+        "text": "মুম্বাই",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": "য়ে কোথায় ",
+        "userDefined": false
+      },
+      {
+        "text": "কাজ",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " পাব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d93e21ce-7cae-49c3-9c2c-e408ebe3286c",
+    "data": [
+      {
+        "text": "শিক্ষক",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " বা ",
+        "userDefined": false
+      },
+      {
+        "text": "শিক্ষিকা",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d255737f-1ecf-4bb6-896c-a2157f4ab5ec",
+    "data": [
+      {
+        "text": "বেঙ্গালুরু",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " তে ",
+        "userDefined": false
+      },
+      {
+        "text": "সেলাই",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": "য়ের চাকরি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "b2bdd3c2-bb97-486b-8a5b-ec26495a813e",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "জব",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d88ef082-1f72-4c2e-96ab-8894fb86c7ec",
+    "data": [
+      {
+        "text": "ব্যাঙ্গালোরের",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "সিকিউরিটি",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9bed4a4b-9c25-4470-af25-13e5a0dca3a5",
+    "data": [
+      {
+        "text": "কলকাতায়",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "দেলিভেরি",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

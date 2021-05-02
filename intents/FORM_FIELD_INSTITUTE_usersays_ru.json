@@ -1,0 +1,316 @@
+[
+  {
+    "id": "fb9d5575-8d50-416f-aa22-7f1041ee1134",
+    "data": [
+      {
+        "text": "நான் என்னுடைய டிகிரி படிப்பை ",
+        "userDefined": false
+      },
+      {
+        "text": "நேஷனல் காலேஜ்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " முடித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fd00990c-78c5-40ae-9566-14f4faac8896",
+    "data": [
+      {
+        "text": "நான் என்னுடைய படிப்பை ",
+        "userDefined": false
+      },
+      {
+        "text": "குளோபல் அகாடமியில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " படித்துள்ளேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "edb0791b-2ebf-4d6b-9f2a-ceaea8f7e79d",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "அண்ணாமலை யூனிவர்சிட்டி",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": "-ல் படிப்பை முடித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "891fe2b8-f312-4a28-9302-e401e9ce515d",
+    "data": [
+      {
+        "text": "2013-ல்  நான் என்னுடைய படிப்பை ",
+        "userDefined": false
+      },
+      {
+        "text": "சென்னை யூனிவர்சிட்டில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " முடித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2ca4d590-d706-4ddf-9556-ecb7683fc10d",
+    "data": [
+      {
+        "text": "எனக்கு ",
+        "userDefined": false
+      },
+      {
+        "text": "அண்ணா பல்கலைக்கழகம்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " மிகவும் பிடிக்கும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "44945e8f-8419-4be9-a76f-7fc78bfb7ec9",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "தனியார் பள்ளியில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " படித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5b44351b-3abc-4c71-a9a8-c9f3093b0f01",
+    "data": [
+      {
+        "text": "நான்  ",
+        "userDefined": false
+      },
+      {
+        "text": "பாலிடெக்னிக் கல்லூரியில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " படித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a92e881d-1afb-4ea3-aa00-a22c147cf5ca",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "வெப்ஸ்டர்களில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " என் பள்ளிபடிப்பை முடித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "61e038c5-50ca-4e34-86f3-7b18edd8a042",
+    "data": [
+      {
+        "text": "என்னுடைய கல்லூரின் பெயர் ",
+        "userDefined": false
+      },
+      {
+        "text": "கிருஷ்ணா கல்வியல் கல்லூரி",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e87d58c8-3317-4fb2-91e0-a80d127fcc86",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "அரசு பள்ளியில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " படித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "38679aec-1f7c-4886-bfe8-7382702d99b7",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "காமராஜ் பல்கலைகழகத்தில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " பட்டம் பெற்றேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "96347a94-8b93-4be5-9d81-68f8098ee7d1",
+    "data": [
+      {
+        "text": "எனது கல்லூரி பெயர் ",
+        "userDefined": false
+      },
+      {
+        "text": "அரசு கலை மற்றும் அறிவியல் கல்லூரி",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9c71e7ba-afcd-431b-8d3e-9e22daa1b09d",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "உயர்நிலைப் பள்ளியில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " கல்வியை முடித்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a953b156-3878-42aa-9450-34d450167b34",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "பெரியார் பல்கலைக்கழகத்தில்",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " படிக்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

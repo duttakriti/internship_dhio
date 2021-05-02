@@ -1,0 +1,150 @@
+{
+  "id": "846433b6-06d5-4ffc-8530-8cd84ebadfce",
+  "name": "JOB_SEARCH",
+  "auto": true,
+  "contexts": [
+    "navigation_and_job_search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "navigation_and_job_search",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "841b29cf-7e2a-4dfb-add9-9ad13a85f3fb",
+          "name": "job-location",
+          "required": false,
+          "dataType": "@job-location",
+          "value": "$job-location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "686f61ca-372e-4d66-9a8a-50eb609d7e3f",
+          "name": "job",
+          "required": false,
+          "dataType": "@job",
+          "value": "$job",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "आपण शोधलेल्या काही नोकर्‍या येथे आहेत",
+            "NO_DATA": "क्षमस्व,आपण ज्या नोकर्‍या शोधत आहात त्या आमच्याकडे सध्या नाहीत"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "Oops, currently we don\u0027t have the job you are looking for. Please come back later",
+            "DEFAULT": "Here are some jobs that you searched for"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "क्षमा की जिये, जिस तरह की नौकरी आप ढूंढ रहे हैं अभी हमारे पास नहीं हैं",
+            "DEFAULT": "यह कुछ नौकरियां हैं जो आप ढूंढ रहे हैं"
+          },
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ನೀವು ಹುಡುಕುತ್ತಿರುವ ಕೆಲವು ಕೆಲಸಗಳು ಇಲ್ಲಿವೆ",
+            "NO_DATA": "ಕ್ಷಮಿಸಿ,ನೀವು ಹುಡುಕುತ್ತಿರುವ ಕೆಲಸಗಳು ಸಧ್ಯಕ್ಕೆ ನಮ್ಮಲ್ಲಿಲ್ಲ"
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "ക്ഷമിക്കണം, നിലവിൽ നിങ്ങൾ അന്വേഷിക്കുന്ന ജോലി ഞങ്ങളുടെ പക്കൽ ലഭ്യമല്ല. ദയവായി പിന്നീട് ശ്രമിക്കുക",
+            "DEFAULT": "നിങ്ങൾ തിരഞ്ഞ ചില ജോലികൾ ഇതാ"
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "এখানে কিছু কাজ রয়েছে যা আপনি অনুসন্ধান করেছেন",
+            "NO_DATA": "দুঃখিত!বর্তমানে আপনি যে সন্ধান করছেন তা আমাদের কাছে নেই। অনুগ্রহ করে পরে আসুন"
+          },
+          "textToSpeech": "",
+          "lang": "ja",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "மன்னிக்கவும், நீங்கள் தேடும் வேலைகள் தற்போது எங்களுக்கு கிடைக்கவில்லை",
+            "NO_DATA": "நீங்கள் தேடும் சில வேலைகள் இங்கே"
+          },
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "క్షమించండి, మీరు వెతుకుతున్న ఉద్యోగాలు ప్రస్తుతం మాకు అందుబాటులో లేవు",
+            "DEFAULT": "మీరు వెతుకుతున్న కొన్ని పనులు ఇక్కడ ఉన్నాయి"
+          },
+          "textToSpeech": "",
+          "lang": "sv",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "8e6592a9-5fe7-4183-add9-8f18acafb4a2",
+    "data": [
+      {
+        "text": "बीमा",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " अपलोड",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "7e81b9f3-7e40-4527-9081-60e236cddf2d",
+    "data": [
+      {
+        "text": "ड्राइविंग लाइसेंस",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " अपलोड",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "581d0ac5-c06d-4642-b0d0-ab588360b529",
+    "data": [
+      {
+        "text": "मेरे दस्तावेज़ अपलोड करें",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "3013f30a-51bd-4b03-88d3-c0495fa395ca",
+    "data": [
+      {
+        "text": "दस्तावेज़ अपलोड करें",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

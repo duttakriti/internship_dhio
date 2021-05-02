@@ -1,0 +1,51 @@
+[
+  {
+    "id": "0e94c5c9-3320-4264-b64a-76d538438eb6",
+    "data": [
+      {
+        "text": "प्रोफ़ाइल संपादित करें",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "e4a1da0e-f712-43d6-ac19-b7606e83040b",
+    "data": [
+      {
+        "text": "मेरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " फोटो बदल ",
+        "userDefined": false
+      },
+      {
+        "text": "दो",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "20c057d1-814f-4751-860a-79dc94637bac",
+    "data": [
+      {
+        "text": "मेरे प्रोफ़ाइल संपादित करे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

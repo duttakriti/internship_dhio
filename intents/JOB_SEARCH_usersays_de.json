@@ -1,0 +1,943 @@
+[
+  {
+    "id": "72159688-3eb9-4e31-9902-52aa9fe07ba6",
+    "data": [
+      {
+        "text": "ಅಕೌಂಟೆಂಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಜಾಬ್  ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "705256a6-c92a-4ef2-8a8c-05769d6d0ca8",
+    "data": [
+      {
+        "text": "ಅಕೌಂಟಂಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಹುಡುಕಿಕೊಡಿ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "90529039-020b-44d8-a62c-9cc2342f39d1",
+    "data": [
+      {
+        "text": "ಲೆಕ್ಕಿಗನ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಉದ್ಯೋಗ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಹುಡುಕಿ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f57858db-d894-4c55-b33f-c59c54f01e57",
+    "data": [
+      {
+        "text": "ಅಕೌಂಟೆಂಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕೆಲಸ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ಬೇಕು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ce5c606a-644e-4123-b652-645b4892fb2a",
+    "data": [
+      {
+        "text": "ಲೆಕ್ಕಿಗನ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಉದ್ಯೋಗಗಳು",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "74e30900-de78-444e-bcf7-ba68a8ccb6db",
+    "data": [
+      {
+        "text": "ಮೈಸೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅಕೌಂಟೆಂಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1176fda7-9c0b-4c21-a0e4-f94ce27dbbce",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿರುವ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಲೆಕ್ಕಿಗ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಉದ್ಯೋಗಗಳು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d7ba6169-14a8-454c-a5d1-04495173cc2f",
+    "data": [
+      {
+        "text": "ಅಕೌಂಟೆಂಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": "  ಕೆಲಸಗಳು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "001a8db4-60ce-4695-a0e0-be3113d82fad",
+    "data": [
+      {
+        "text": "ಹತ್ತಿರದಲ್ಲಿರುವ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕೆಲಸಗಳು",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ad64a23e-e6b1-4190-b83e-73f1434d8534",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲೇ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": "  ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "98798b73-481e-49f7-a3fa-a396045691c2",
+    "data": [
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಕೆಲಸ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬೇಕಾಗಿದೆ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "28afc2b1-4696-4d12-9ce5-570a6cc8d9ba",
+    "data": [
+      {
+        "text": "ಓಲಾ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಚಾಲಕ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಉದ್ಯೋಗ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a8149d6b-8186-476b-ad92-4f0e7d3a5c7a",
+    "data": [
+      {
+        "text": "ಚೆನ್ನೈಯಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಚೆಫ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a2f4f077-7379-474e-9311-086bbcc23fe1",
+    "data": [
+      {
+        "text": "ವಿತರಣೆ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0ae32c90-1968-4186-91e5-979bccbda2cf",
+    "data": [
+      {
+        "text": "ಚಾಲಕ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fb9648b7-96a4-404d-8dc9-e8b72e7747d4",
+    "data": [
+      {
+        "text": "ಚೆನ್ನೈನಲ್ಲಿರುವ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ದಿಲಿವೆರಿ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಉದ್ಯೋಗ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3874981a-cbb5-4a71-8e9a-ae7f9ffee841",
+    "data": [
+      {
+        "text": "ಚೆನ್ನೈನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " ಬಸ್ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಚಾಲಕನ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "213de523-f726-4711-8d26-05922db93296",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "10279a0e-7475-4894-b644-10aa647398ab",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ನನಗೆ ಕೆಲಸಗಳನ್ನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ತೋರಿಸು",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5b4d3d8d-6ede-46a8-abd7-a7902be68ebb",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ಗಳನ್ನು ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b679bacb-83cd-476d-900a-dd2625b3b40d",
+    "data": [
+      {
+        "text": "ಎಲ್ಲಾ ರೀತಿಯ ಕೆಲಸಗಳನ್ನು ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6c445ee0-1ee2-4d72-bfe3-e9f4eac6bf90",
+    "data": [
+      {
+        "text": "ನನಗೆ ಎಲ್ಲಾ ",
+        "userDefined": false
+      },
+      {
+        "text": "ರೀತಿಯ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ಕೆಲಸಗಳನ್ನು ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "aa0d0c63-b03e-4080-a183-809a6b46d633",
+    "data": [
+      {
+        "text": "ನನಗೆ ಎಲ್ಲಾ ರೀತಿಯ ಕೆಲಸಗಳನ್ನು",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6d3ca6b9-426d-454e-83a2-e784ba72f30d",
+    "data": [
+      {
+        "text": "ಮೈಸೂರು",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3987a51b-e6cd-42aa-9029-a0563e507c82",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರು",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "41782519-9c9e-4784-bc11-9f52acbfbd82",
+    "data": [
+      {
+        "text": "ಕೆಲಸ ತೋರ್ಸಿ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಮಂಡ್ಯ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": "ದಲ್ಲಿ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಫ್ಯಾಕ್ಟರಿ ವರ್ಕರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6b9457c0-8b04-44d9-9397-635b02c53a46",
+    "data": [
+      {
+        "text": "ಬಿಪಿಓ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ",
+        "userDefined": false
+      },
+      {
+        "text": "ತುಮಕೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ಬೇಕು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "570c4947-f821-4b5b-8c79-733d07de33aa",
+    "data": [
+      {
+        "text": "ನನಗೆ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಟೀಚರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "842aae46-04c7-46c7-867b-7810ac50a521",
+    "data": [
+      {
+        "text": "ವೆಲ್ಡಿಂಗ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಜಾಬ್ ಇದ್ರೆ ಹೇಳಿ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಮೈಸೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b4a93ca7-6c5d-478b-883b-2e21fcebfb05",
+    "data": [
+      {
+        "text": "ನರ್ಸ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ಇದ್ದರೆ ತೋರಿಸಿ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c02e4542-360f-4023-a9e0-6724226c3dd5",
+    "data": [
+      {
+        "text": "ಹೌಸ್ಕೀಪಿಂಗ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಜಾಬ್ ತೋರ್ಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c96025fd-bfa9-48d7-8dfc-d363863edd4c",
+    "data": [
+      {
+        "text": "ಡ್ರೈವರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಇದೀನಿ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "ಡೆಲಿವರಿ",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e7fa228c-97ee-473c-8277-364314d76a79",
+    "data": [
+      {
+        "text": "ಮಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಡ್ರೈವರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಆಗಿದ್ದೀನಿ, ",
+        "userDefined": false
+      },
+      {
+        "text": "ಡ್ರೈವರ್",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9bcd3e1a-5607-418e-af42-c768fb643c05",
+    "data": [
+      {
+        "text": "ಕುಕ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಉದ್ಯೋಗ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬೆಂಗಳೂರು",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7e42b57d-91f7-4051-a19d-24dc9f39d03f",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರು",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಕ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dc1ca207-fbaf-4635-bc5f-0a53029d3e40",
+    "data": [
+      {
+        "text": "ಮೈಸೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಚಾಲಕನ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "99818a59-914b-4df9-90de-2d8817c138ee",
+    "data": [
+      {
+        "text": "ನನಗೆ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬ್ಯಾಂಗಲೋರ್",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಡೆಲಿವರಿ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9a85463b-9f54-445f-b6fb-da679bbdc466",
+    "data": [
+      {
+        "text": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ನನಗೆ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಡ್ರೈವರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಉದ್ಯೋಗಗಳನ್ನು",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

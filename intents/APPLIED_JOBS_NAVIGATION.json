@@ -1,0 +1,120 @@
+{
+  "id": "60aa2b50-1c53-4e11-95d2-418c676893fa",
+  "name": "APPLIED_JOBS_NAVIGATION",
+  "auto": true,
+  "contexts": [
+    "navigation_and_job_search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "navigation_and_job_search",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "आपण अर्ज केलेल्या काही नोकर्‍या येथे आहेत",
+            "NO_DATA": "क्षमस्व, आपण कोणत्याही नोकरीसाठी अर्ज केला नाही"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ನೀವು ಅರ್ಜಿ ಸಲ್ಲಿಸಿದ ಕೆಲವು ಉದ್ಯೋಗಗಳು ಇಲ್ಲಿವೆ",
+            "NO_DATA": "ಕ್ಷಮಿಸಿ, ನೀವು ಯಾವುದೇ ಉದ್ಯೋಗಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿಲ್ಲ ಎಂದು ತೋರುತ್ತಿದೆ"
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "ക്ഷമിക്കണം, നിങ്ങൾ ഒരു ജോലിക്കും അപേക്ഷിച്ചിട്ടില്ലെന്ന് തോന്നുന്നു",
+            "DEFAULT": "നിങ്ങൾ അപേക്ഷിച്ച ചില ജോലികൾ ഇതാ"
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "দুঃখিত, দেখে মনে হচ্ছে আপনি কোনও কাজের জন্য আবেদন করেন নি",
+            "DEFAULT": "এখানে কিছু কাজের জন্য আপনি আবেদন করেছেন"
+          },
+          "textToSpeech": "",
+          "lang": "ja",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "माफ़ करना, ऐसा लगता है कि आपने किसी भी नौकरी के लिए आवेदन नहीं किया है",
+            "DEFAULT": "यहां कुछ नौकरियां हैं जिनके लिए आपने आवेदन किया है"
+          },
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "మీరు దరఖాస్తు చేసుకున్న కొన్ని ఉద్యోగాలు ఇక్కడ ఉన్నాయి",
+            "NO_DATA": "క్షమించండి, మీరు ఏ ఉద్యోగాల కోసం దరఖాస్తు చేయనట్లు కనిపిస్తోంది"
+          },
+          "textToSpeech": "",
+          "lang": "sv",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "மன்னிக்கவும், நீங்கள் எந்த வேலைகளுக்கும் விண்ணப்பிக்கவில்லை என்று தெரிகிறதுு",
+            "DEFAULT": "நீங்கள் விண்ணப்பித்த சில வேலைகள் இங்கே"
+          },
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "Oops, looks like you have not applied for any jobs",
+            "DEFAULT": "Here are some jobs that you have applied for"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

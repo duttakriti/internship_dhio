@@ -1,0 +1,308 @@
+[
+  {
+    "id": "bcd266eb-5a33-4d65-901c-abc4e354126d",
+    "data": [
+      {
+        "text": "ಭಾಷೆ ಎಡಿಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8d9a1603-e23f-48a8-b59c-d3f9f32bed21",
+    "data": [
+      {
+        "text": "ಫೋನ್",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ನಂಬರ್ ಬದಲಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f727fa9a-5c15-4303-bbbf-6d3b05f2f573",
+    "data": [
+      {
+        "text": "ಎಕ್ಸ್ಪೀರಿಯೆನ್ಸ್ ಬದಲಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7a037906-4a55-4e78-a4be-d426fb2203ba",
+    "data": [
+      {
+        "text": "ಹೆಸರು ಬದಲಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "85feba16-1723-4bb1-ba61-f7d487e5c23e",
+    "data": [
+      {
+        "text": "ವೃತ್ತಿ  ಬದಲಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7a4c33cb-8c61-4cfa-b95c-b713115ac2e5",
+    "data": [
+      {
+        "text": "ಹೆಸರು ಬದಲಾಯಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9e602a01-b5b6-41ba-a281-644a0eb7b25c",
+    "data": [
+      {
+        "text": "ಶಿಕ್ಷಣ ಎಡಿಟ್ ಮಾಡು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "761fe48c-e781-4a00-b304-585be52b6147",
+    "data": [
+      {
+        "text": "ನನ್ನ ಶಿಕ್ಷಣ ಎಡಿಟ್ ಮಾಡು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "508f2476-c6ca-4131-84cf-7837396a4e19",
+    "data": [
+      {
+        "text": "ನನ್ನ ಅನುಭವ ಎಡಿಟ್ ಮಾಡು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2fc5e585-c457-45c4-ba6e-73d56e7c64a2",
+    "data": [
+      {
+        "text": "ಅನುಭವ ಎಡಿಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "43554e50-9386-43b3-9de2-fcd567452961",
+    "data": [
+      {
+        "text": "ನನ್ನ ಅನುಭವ ಎಡಿಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0c7b1fae-2e71-47fc-a17f-f033006fd501",
+    "data": [
+      {
+        "text": "ಇಮೇಲ್ ಎಡಿಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d5520662-2817-4a50-96e4-0b42b123f46c",
+    "data": [
+      {
+        "text": "ನನ್ನ ಇಮೇಲ್ ಎಡಿಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a720d480-17ce-4a8f-b6bb-1cd26d1dc0d4",
+    "data": [
+      {
+        "text": "ನನ್ನ ಪ್ರೊಫೈಲ್ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fec8fb2e-e881-4ce5-a57d-9e4ee9e6c32f",
+    "data": [
+      {
+        "text": "ನನ್ನ ಪ್ರೊಫೈಲ್ ತೋರಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9910a96d-6e7b-4072-be47-3a5f3fbbfd99",
+    "data": [
+      {
+        "text": "ನನ್ನ ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a54199ca-2eb2-4a27-8f34-19abdb928b52",
+    "data": [
+      {
+        "text": "ನನ್ನ ಪ್ರೊಫೈಲ್ ಎಡಿಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "35ee8053-c7cf-4b8d-9cd6-7d97927f820c",
+    "data": [
+      {
+        "text": "ಎಡಿಟ್ ಪ್ರೊಫೈಲ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "57934461-d8ef-4bd3-864f-3a09f1b58e64",
+    "data": [
+      {
+        "text": "ಪ್ರೊಫೈಲ್ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0a951414-db98-4619-9e1c-1f2c00bc2b1f",
+    "data": [
+      {
+        "text": "ನನ್ನ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಫೋಟೋ ಬದಲಾಯಿಸಿ",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b5ad4e8-27c3-489a-9228-566e28bb60b4",
+    "data": [
+      {
+        "text": "ನನ್ನ ಪ್ರೊಫೈಲ್ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅನ್ನು",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಎಡಿಟ್",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "de",
+    "updated": 0
+  }
+]

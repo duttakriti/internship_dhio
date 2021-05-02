@@ -1,0 +1,233 @@
+[
+  {
+    "id": "ba9ed150-b446-4117-ad2b-72f7f084ba75",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "ধিও",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "তে কাজ করতাম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7fd8562a-9a43-4fcb-9bce-629d1eed4ef2",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "অ্যাকসেন্টারে",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " কাজ করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "eeafd732-1249-49c7-ae0b-5b4184fd809c",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "টাটা",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "য় ৫ বছর কাজ করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1af34a55-73f3-4509-bbd3-598f3e736006",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "মহারাজা অগ্রসেন",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " হাসপাতালে ",
+        "userDefined": false
+      },
+      {
+        "text": "কাজ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " করি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f4eb742d-51a6-4cdd-9532-6b86b9ea4649",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "সুইগি",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "তে ",
+        "userDefined": false
+      },
+      {
+        "text": "কাজ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " করছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a10b47d8-b8b2-4b6b-9c63-1a8d65e98ae3",
+    "data": [
+      {
+        "text": "আমাজন",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " আমার ",
+        "userDefined": false
+      },
+      {
+        "text": "সংস্থা",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f7f159d8-4ba9-46c9-b521-ecc2bb154b78",
+    "data": [
+      {
+        "text": "আমার বর্তমান সংস্থাটি ",
+        "userDefined": false
+      },
+      {
+        "text": "ফেডেক্স",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7e973ff0-363e-4f6f-9cf0-41fdabcf7c59",
+    "data": [
+      {
+        "text": "আমার বর্তমান কর্মক্ষেত্র ",
+        "userDefined": false
+      },
+      {
+        "text": "ডেল",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7993cbe0-f461-4e99-a0e8-134d222a218e",
+    "data": [
+      {
+        "text": "আমি আগে ",
+        "userDefined": false
+      },
+      {
+        "text": "জোয়ালুকাসে",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "কাজ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " করছিলাম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "b01793bc-e793-49da-99aa-6eda11989a37",
+    "data": [
+      {
+        "text": "শেষ চাকরি  করা",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ee9bb315-43d4-4b11-8f62-a29153f34b6a",
+    "data": [
+      {
+        "text": "চাকরি শেষ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "24db762e-d172-4930-a543-3559ec9557b8",
+    "data": [
+      {
+        "text": "চাকরি শেষ করা",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8085a626-aeff-4eb2-8af3-3bbef7deeb2c",
+    "data": [
+      {
+        "text": "আমার  চাকরি শেষ করা",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "5527dfde-5105-453f-bcb0-4eeac0d6ff9e",
+    "data": [
+      {
+        "text": "আমার দ্বারা চাকরি শেষ করা",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "578d0723-8b01-4438-977f-5a6e2a61a928",
+    "data": [
+      {
+        "text": "আমার দ্বারা কাজ সংরক্ষিত",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "9b1c54a9-dac1-4941-96f6-eebee4b3457a",
+    "data": [
+      {
+        "text": "সঞ্চয়",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6305ae23-9667-4dbe-bcab-927502d2521a",
+    "data": [
+      {
+        "text": "চাকরি সঞ্চয়",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "48d6e45b-da53-4a28-88be-cc57db3a4cf0",
+    "data": [
+      {
+        "text": "পূর্বে কাজ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "291309f9-9170-46f4-ac46-460aa65d3a9d",
+    "data": [
+      {
+        "text": "পূর্বে সংরক্ষণ কাজ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "865d6de8-0a25-44fb-a941-dfef658a3b11",
+    "data": [
+      {
+        "text": "বাঁচানোর জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ce9fb7d5-9766-42d4-8a04-3159cce88e5a",
+    "data": [
+      {
+        "text": "আমার আগের বাঁচানোর",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "cbc5d125-8b04-455d-abb5-c0d68cf80618",
+    "data": [
+      {
+        "text": "আগের বাঁচানোর জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4744c3c9-f7cf-43bb-a096-89c00b594be5",
+    "data": [
+      {
+        "text": "আমার আগের বাঁচানোর জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f10b85ef-aba5-4264-9e14-6d984c1f663d",
+    "data": [
+      {
+        "text": "সেভ  জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f15ed030-6510-4d7c-a654-bdc5764e0db0",
+    "data": [
+      {
+        "text": "সেভ করা জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

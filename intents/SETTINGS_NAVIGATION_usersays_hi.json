@@ -1,0 +1,176 @@
+[
+  {
+    "id": "ee36e864-588b-474b-bad8-6e35c1072865",
+    "data": [
+      {
+        "text": "शो",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " मी सेट्टिंग्स",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "12139496-cc10-4a3b-9c92-d98bd4e7c4b9",
+    "data": [
+      {
+        "text": "नोटिफिकेशन्स",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "2fa942f3-ee51-43ab-ad8f-78c790c0e231",
+    "data": [
+      {
+        "text": "सेट्टिंग्स",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "47d025ae-3f6f-4e51-95a5-4e5e99fb29d4",
+    "data": [
+      {
+        "text": "सेट्टिंग्स दिखाएँ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "d17071cf-feda-40c9-81cd-2ab6b19a160d",
+    "data": [
+      {
+        "text": "सूचनाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "93229331-3db7-4182-89c8-392fb29b8899",
+    "data": [
+      {
+        "text": "सेट्टिंग्स चेंज करो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "3ae7ac14-eda5-4fe9-bade-1aaa7c53bb7d",
+    "data": [
+      {
+        "text": "नोटिफिकेशन्स अपडेट करो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "c1199491-8bbe-4b62-9d29-033ce0672b5f",
+    "data": [
+      {
+        "text": "ऍप्लिकेशन से लॉग आउट",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "1a3b0f24-ceea-4bb6-b442-5dbdb4279646",
+    "data": [
+      {
+        "text": "ऐप से लॉग आउट",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "647a5895-f8b9-4f5e-aef0-68b3c72fdb3e",
+    "data": [
+      {
+        "text": "लॉग आउट",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "6b9b75ba-42da-4b2c-b43e-9d07f8f5ef2a",
+    "data": [
+      {
+        "text": "नोटिफिकेशन",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "15263cb3-e9bf-48bd-b38e-24fd7d3da4f0",
+    "data": [
+      {
+        "text": " मुझे सेटिंग दिखाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "cbef78d4-49f8-4636-9db9-24d189fc4985",
+    "data": [
+      {
+        "text": "मुझे सेटिंग्स पर ले जाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "hi",
+    "updated": 0
+  }
+]

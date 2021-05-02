@@ -1,0 +1,335 @@
+[
+  {
+    "id": "32eef017-9bcf-4b36-b939-b2a48ab09512",
+    "data": [
+      {
+        "text": "नोकर्‍या दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "73cdeb91-7226-4227-99e0-4553302e02f3",
+    "data": [
+      {
+        "text": "मला नोकरी पाहिजे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ecd0c135-741f-4c0e-97b8-fa872fbc200f",
+    "data": [
+      {
+        "text": "मला नोकरी हवी आहे",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6dad344a-66d2-4d29-9aad-22a720a604ac",
+    "data": [
+      {
+        "text": "मला काम पाहिजे आहे",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "16157cc0-586f-4b8c-b932-75e4f0eb97ea",
+    "data": [
+      {
+        "text": "अप्लाइड नोकर्‍या",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "66b6d5fc-2140-4ca8-b804-25f91ae80109",
+    "data": [
+      {
+        "text": "लागू केलेल्या नोकर्‍या",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3db065dc-8935-4bd9-8a87-c05004fe8422",
+    "data": [
+      {
+        "text": "माझ्यासाठी काम दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a0f85d51-6cbb-4e70-a1a3-2ff3f6526753",
+    "data": [
+      {
+        "text": "माझ्यासाठी ",
+        "userDefined": false
+      },
+      {
+        "text": "नोकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "66d62db5-ca4c-45af-86c9-2380fa45a598",
+    "data": [
+      {
+        "text": "मी रजिस्टर केलेले काम दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a0601484-a24b-458b-848b-9cbf3c1203ee",
+    "data": [
+      {
+        "text": "मी रजिस्टर केलेले कार्य दर्शवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "46ae3e32-5cae-4604-b699-34a8ad9c073d",
+    "data": [
+      {
+        "text": "मी नोंदणीकृत केलेले कार्य दर्शवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "90bf67be-3adc-4947-b636-a3e57d002e15",
+    "data": [
+      {
+        "text": "अप्लाइड काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e183686c-0b11-4bb1-871a-02bbaeb377fd",
+    "data": [
+      {
+        "text": "अप्लाइड जॉब",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "8ad86001-0696-43bd-8d7a-95c364fb8298",
+    "data": [
+      {
+        "text": "काम दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4fb59726-9ea8-4907-b9bd-400a8bf6cb19",
+    "data": [
+      {
+        "text": "मला काम दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a55aa456-280e-448d-8267-f7888dd4c19d",
+    "data": [
+      {
+        "text": "मला काही काम दाखव",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c2a21e34-204b-47e6-bf4a-3140f22e60db",
+    "data": [
+      {
+        "text": "मी लागू केलेल्या नोकर्‍या दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f7dc19d3-76d3-4582-82e5-9a51d9273209",
+    "data": [
+      {
+        "text": "लागू केलेली ",
+        "userDefined": false
+      },
+      {
+        "text": "नोकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "52f2fbcb-edfd-479c-a864-ec47a35566a0",
+    "data": [
+      {
+        "text": "नोकरीसाठी अर्ज केली",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4efc68b1-a34f-469b-9496-675bf714fb17",
+    "data": [
+      {
+        "text": "नोकरीसाठी अर्ज केलो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6a7dd5f9-14d7-4f62-a568-01ece578d712",
+    "data": [
+      {
+        "text": "मला माझे काम दाखव",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7e31d661-0d63-4f5d-ae8c-b61d9bc90b15",
+    "data": [
+      {
+        "text": "नोकरीसाठी अर्ज केला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1d80a46a-aa74-44b8-bbc5-966244a687ac",
+    "data": [
+      {
+        "text": "नोकरीसाठी अर्ज",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c8651189-28a5-479e-8416-2559de691e3b",
+    "data": [
+      {
+        "text": "अर्ज केलेले काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

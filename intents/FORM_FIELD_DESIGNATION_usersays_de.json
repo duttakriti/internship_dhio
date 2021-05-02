@@ -1,0 +1,400 @@
+[
+  {
+    "id": "8fbd2057-43f1-490c-864a-3e4b41d333b4",
+    "data": [
+      {
+        "text": "ನಾನು ಇನ್ನ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸ್ಟೂಡೆಂಟ್/ಫ್ರೆಷೆರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸಕ್ಕಾಗಿ ಹುಡುಕುತ್ತಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2a8310de-e67e-49b5-9e16-533df589c5d1",
+    "data": [
+      {
+        "text": "ಮೈಸೂರಿನಲ್ಲಿ",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ",
+        "userDefined": false
+      },
+      {
+        "text": "ರೆಸೆಪ್ಟಿವ್ನಿಸ್ಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸದಲ್ಲಿ ಉದ್ಯೋಗಸ್ಥನಾಗಿದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b48b83c-19bf-4b2d-86b6-542043f45f83",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಟೆಲೆಕಾಲ್ಲೆರ್/ಬಿಪಿಓ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಆಗಿ ಕೆಲಸ ಮಾಡಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bff58da0-631e-47a6-942f-89d5908ed080",
+    "data": [
+      {
+        "text": "ವೆಲ್ಡಿಂಗ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸದಲ್ಲಿ ನಾನು ಪರಿಣಿತಿ ಹೊಂದಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a4112a96-30cf-436f-85c9-7ed390f653ae",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅಕೌಂಟೆಂಟ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2b0f2410-df75-461d-a147-b0afd8af8739",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬ್ಯೂಟಿಷಿಯನ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ವೃತ್ತಿಯನ್ನು ಆರಿಸಿಕೊಂಡಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "eade7324-6ba9-4528-a0c3-e6d2ddbec635",
+    "data": [
+      {
+        "text": "ನನ್ನದು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬಿಪಿಓ/ಟೆಲೆಕಾಲ್ಲೆರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "792639eb-d959-40f4-a690-b14f8bc2d3e3",
+    "data": [
+      {
+        "text": "ಟೀಚರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "88fed848-c9bd-40ee-b9b9-66cf08753458",
+    "data": [
+      {
+        "text": "ನರ್ಸ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಹುದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "764e10ca-7748-4e4f-96c4-82344e9f6ad6",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಎಲೆಕ್ಟ್ರಿಷಿಯನ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a6bb5b67-aa26-4968-8e76-e3b533f649b9",
+    "data": [
+      {
+        "text": "ನನ್ನ ಕಸುಬು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಪೈಂಟಿಂಗ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4173ef93-5294-485c-859a-349b0a9c0ed7",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಪೈಂಟರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಆಗಿದ್ದೀನಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3d91adac-543a-4c9b-909d-da73b1a2d9f6",
+    "data": [
+      {
+        "text": "ಟೈಲರಿಂಗ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಕೆಲಸ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "50a578b5-bcf9-4bfa-b3e1-881c0d285197",
+    "data": [
+      {
+        "text": "ನನ್ನ ಜಾಬಿನ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಟೈಲರಿಂಗ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fdfa6523-a7a3-4472-b436-f031aeb925ea",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸೇಲ್ಸ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಜಾಬ್ ಮಾಡುತ್ತೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9092d3cf-5afa-4968-983c-783a305a04a0",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸೇಲ್ಸ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಉದ್ಯೋಗದಲ್ಲಿ ಇದ್ದೀನಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f2096037-9405-460b-ac26-8ee5d97b64d2",
+    "data": [
+      {
+        "text": "ಟೀಚರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂಬುದು ನನ್ನ ಕಾರ್ಯಕ್ಷೇತ್ರ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "21a50475-0c72-486d-890f-d39ec642b900",
+    "data": [
+      {
+        "text": "ಡೆಲಿವರಿ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ಏಜೆಂಟ್ ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ba7a1ec7-49b6-4f4c-b9db-2b97dbf43e97",
+    "data": [
+      {
+        "text": "ಡ್ರೈವರ್",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ಆಗಿದ್ದೀನಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

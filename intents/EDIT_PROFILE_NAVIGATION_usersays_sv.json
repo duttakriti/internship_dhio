@@ -1,0 +1,290 @@
+[
+  {
+    "id": "e83bf311-7bb2-403d-ab9f-6a0a595a611b",
+    "data": [
+      {
+        "text": "నా ప్రొఫైల్‌ను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎడిట్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "da060a0e-de21-4c1c-ae55-38505b668ac1",
+    "data": [
+      {
+        "text": "నా ఫోటో మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a9b61843-428c-423a-a650-cfee3a254b0e",
+    "data": [
+      {
+        "text": "ప్రొఫైల్ చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "334269c8-23b5-4255-b079-f026857adf4d",
+    "data": [
+      {
+        "text": "ప్రొఫైల్‌ను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎడిట్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3482d357-b755-4fd3-b9d0-669ee2fdea14",
+    "data": [
+      {
+        "text": "నా ప్రొఫైల్‌ను సవరించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "0ed70c14-c6ea-4703-bdc5-a806204ef500",
+    "data": [
+      {
+        "text": "నా ప్రొఫైల్ చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "be982e16-ecb7-483c-a331-6717be6bd805",
+    "data": [
+      {
+        "text": "నా ప్రొఫైల్ ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎడిట్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "88e99a44-8c28-4f49-bc73-dcda6b00fc15",
+    "data": [
+      {
+        "text": "నా ఇమెయిల్‌ను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎడిట్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3febadf0-c5d2-4111-8ab8-982686115ce6",
+    "data": [
+      {
+        "text": "ఇమెయిల్‌నుఎడిట్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "fb36693f-4695-413f-9120-4378f818e85f",
+    "data": [
+      {
+        "text": "నా అనుభవాన్ని ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎడిట్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "82fd055d-f9c0-4ddb-abf7-f9a108f00fe7",
+    "data": [
+      {
+        "text": "అనుభవాన్ని ఎడిట్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "0437bf1c-d665-4fa2-be16-aecf4bcca7ed",
+    "data": [
+      {
+        "text": "నా విద్యను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎడిట్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a23aa1cc-c615-48ec-a941-9a4e2f6a3805",
+    "data": [
+      {
+        "text": "వృత్తిని మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "cbaa3c83-326c-4fd9-a599-27ec1a1004e5",
+    "data": [
+      {
+        "text": "ఎక్స్పీరియన్స్  మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "57796b47-db1f-4c3a-8054-b64195b3859c",
+    "data": [
+      {
+        "text": "ఫోన్ నంబర్ మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "707a954b-984d-47d3-a335-78cf8dd40775",
+    "data": [
+      {
+        "text": "భాషనుఎడిట్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "20afee55-41ed-4ddb-93e4-b548aba42b0b",
+    "data": [
+      {
+        "text": "ఫోటో మార్చు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3bddf90b-64ec-49c3-a8b1-b5685a11e6f4",
+    "data": [
+      {
+        "text": "నా ఫోటోను మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

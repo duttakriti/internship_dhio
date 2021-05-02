@@ -1,0 +1,108 @@
+[
+  {
+    "id": "b1f7c6c6-bf8c-4471-a2db-6959ec57e9b7",
+    "data": [
+      {
+        "text": "एस एम एस",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0c94dd36-6a60-42e4-b504-e800ccadbaf3",
+    "data": [
+      {
+        "text": "सूचना अद्यतनित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2399303f-95ee-4720-8159-044cb3d64db7",
+    "data": [
+      {
+        "text": "सेटिंग्ज",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a5aabd19-60d4-4f51-b8e0-4b5b83aeb401",
+    "data": [
+      {
+        "text": "सेटिंग्ज बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d40052e6-dc5a-409a-b201-6dc4b4d4f162",
+    "data": [
+      {
+        "text": "एक्सिट",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a0928f69-755a-4a73-a256-7b3bcf550ba6",
+    "data": [
+      {
+        "text": "अँप  लोगॉट",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e5d6c92a-c871-4a91-a9d1-051fa8f54969",
+    "data": [
+      {
+        "text": "लोगॉट",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5ba381f8-3a1f-476c-8a92-f49370c31b56",
+    "data": [
+      {
+        "text": "बाहेर पडणे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

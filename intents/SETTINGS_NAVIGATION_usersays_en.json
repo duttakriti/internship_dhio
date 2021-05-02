@@ -1,0 +1,145 @@
+[
+  {
+    "id": "a7fada8a-5d6e-4b40-b2ed-319eb50e5d48",
+    "data": [
+      {
+        "text": "SMS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4293801d-1f68-485c-9b3d-c4a619d4dc32",
+    "data": [
+      {
+        "text": "log out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fda87840-0ee8-432c-8512-3615330031bc",
+    "data": [
+      {
+        "text": "logout of the app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b3df3e9-abf4-4ae1-a60c-f0d88b6770d6",
+    "data": [
+      {
+        "text": "app logout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b802812e-47fa-4de2-a2f0-ecfcf8f5f3f9",
+    "data": [
+      {
+        "text": "logout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e1ddf6d-9734-4bec-985c-0d4a4fbb8b19",
+    "data": [
+      {
+        "text": "update notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a471de5-5e51-421c-9b67-81e4706778c1",
+    "data": [
+      {
+        "text": "Change settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b73decd7-862e-4b1c-945f-a9cf28aa4713",
+    "data": [
+      {
+        "text": "Notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce738460-8149-4c30-8883-9beb7c4f501b",
+    "data": [
+      {
+        "text": "Show settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6e8dcff-744d-4d67-825a-96d54a1ca908",
+    "data": [
+      {
+        "text": "Settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a543d7cb-f881-4f2c-bcb7-9ea7eec4538f",
+    "data": [
+      {
+        "text": "Show me settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b5748b60-26ea-481d-b5c5-6e923014199c",
+    "data": [
+      {
+        "text": "अक्सेंचरे",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " मैं नौकरी करता हूँ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "a10d39be-0255-4b72-abcc-3303dc935902",
+    "data": [
+      {
+        "text": "धियो",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " मैं काम करता हूँ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "c354d398-5a97-4255-ad4d-fa985d596657",
+    "data": [
+      {
+        "text": "मैंने ",
+        "userDefined": false
+      },
+      {
+        "text": "स्विग्गी",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " में काम किया हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "0f7f0481-91c7-43ac-840a-025abcde6e2c",
+    "data": [
+      {
+        "text": "मैं ",
+        "userDefined": false
+      },
+      {
+        "text": "अमेज़ॉन",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " मे काम कर रहा था",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

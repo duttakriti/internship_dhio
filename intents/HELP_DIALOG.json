@@ -1,0 +1,72 @@
+{
+  "id": "ac6fe318-6371-4472-a40f-7d3b56d8ad36",
+  "name": "HELP_DIALOG",
+  "auto": true,
+  "contexts": [
+    "navigation_and_job_search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "navigation_and_job_search",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "यहां हेल्प डायलॉग है"
+          },
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "येथे मदत संवाद आहे"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ಸಹಾಯ ಸಂವಾದ ಇಲ್ಲಿದೆ"
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "Here\u0027s the help dialog"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

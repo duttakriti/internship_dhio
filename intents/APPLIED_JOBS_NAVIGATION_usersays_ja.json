@@ -1,0 +1,171 @@
+[
+  {
+    "id": "570b2544-40a0-4ed2-823e-32e0e06e0d6d",
+    "data": [
+      {
+        "text": "আবেদন",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "29259570-45a7-43b2-81b1-f034452ed2e0",
+    "data": [
+      {
+        "text": "কাজের  আবেদন",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "40388ba5-f43d-4d57-94fb-1a10bc16e1a1",
+    "data": [
+      {
+        "text": "কাজের জন্য আবেদন",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a9efa9d9-7287-464e-bdb4-dfedd5e508b5",
+    "data": [
+      {
+        "text": "আমি কোথায় এপলাই করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ebd76bad-49ef-4700-ae71-9111730a7a1b",
+    "data": [
+      {
+        "text": "এপলাই করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6bb42d2d-c37d-49c0-9f9f-f1b0fd88d9f7",
+    "data": [
+      {
+        "text": "আমি কোন কাজে এপলাই করেছি?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "2c8acd8d-96e3-468a-ba63-c7303a04c5a1",
+    "data": [
+      {
+        "text": "ফলিত কাজ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1675f333-d2ff-45d3-ae6e-25f86de8e1ed",
+    "data": [
+      {
+        "text": "অ্যাপ্লাইড জবস",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3cf1fd4b-6f50-4eac-be54-e9032aaea0f6",
+    "data": [
+      {
+        "text": "অ্যাপ্লাইড জব",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3a886e44-808e-4f34-898b-9bec1d924ff0",
+    "data": [
+      {
+        "text": "অ্যাপ্লাইড জোকস দেখাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f9f005c9-17fd-4157-83ed-b3f709497ad9",
+    "data": [
+      {
+        "text": "আমি কোন চাকরিতে এপ্লাই করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "42f95977-5e5b-417f-97fc-a5ad752e5e65",
+    "data": [
+      {
+        "text": "জব এপ্লাই",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "72ed155a-47b8-4d21-a0db-c6fd7f92dbcc",
+    "data": [
+      {
+        "text": "আমি কোন কাজে আপ্লাই করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

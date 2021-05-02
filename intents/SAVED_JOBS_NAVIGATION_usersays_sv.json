@@ -1,0 +1,145 @@
+[
+  {
+    "id": "d8118993-c274-42b8-ad7b-a536a62f9a81",
+    "data": [
+      {
+        "text": "సేవ్ జాబ్స్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b957e692-e0d2-4762-9cea-38a63dedb1a9",
+    "data": [
+      {
+        "text": "సేవ్ చేసిన ఉద్యోగాలను నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "5d3c8c3b-4b03-47ca-a60c-86db2e0a45c3",
+    "data": [
+      {
+        "text": "సేవ్ చేసిన ఉద్యోగాలను చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "79e31943-f699-412e-889a-1f0f5f6a6f5f",
+    "data": [
+      {
+        "text": "సేవ్ చేసిన పన్లు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "ffa595cb-1f7f-4fde-83b4-b935d61bac53",
+    "data": [
+      {
+        "text": "సేవ్ ఉద్యోగాలు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "aac8185f-141d-405e-8b50-0a188a3874b9",
+    "data": [
+      {
+        "text": "సేవ్ చేసిన  ఉద్యోగాలు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e99acdfe-dd67-4cb4-be44-e19ebbc4e595",
+    "data": [
+      {
+        "text": "నా ఇష్టాలను చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "33eadcec-b055-4efd-a83c-6f0b81bdc499",
+    "data": [
+      {
+        "text": "నేను సేవ్ చేసిన ఉద్యోగాలను నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e4a078ed-2758-4161-98fe-a13dabedb9e6",
+    "data": [
+      {
+        "text": "నేను సేవ్ చేసిన పనిని నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "451618d9-a7dd-45e6-8b44-e4e6f7ab8998",
+    "data": [
+      {
+        "text": "సేవ్  పని",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7607e3d9-e70a-487f-9a3c-14bebd22a7da",
+    "data": [
+      {
+        "text": "నాకు సేవ్ చేసిన ఉద్యోగాలు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

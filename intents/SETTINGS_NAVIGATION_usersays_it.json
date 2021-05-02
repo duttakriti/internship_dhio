@@ -1,0 +1,214 @@
+[
+  {
+    "id": "537c6819-998a-451e-bd9d-1361c146e20f",
+    "data": [
+      {
+        "text": "എന്നെ സെറ്റിംഗ്സ് കാണിക്കുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b8dd1dfe-a8a8-4209-b324-56a657db68e7",
+    "data": [
+      {
+        "text": "എന്നെ സെറ്റിംഗ്സിലെക്ക് കൊണ്ടു പോകുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dd77d11c-cedc-4941-95b8-10f512f0bca0",
+    "data": [
+      {
+        "text": "എസ് എം എസ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0a88b393-6700-4872-8ac0-9b692df55274",
+    "data": [
+      {
+        "text": "ആപ്പിൽ നിന്ന് ലോഗൗട്ട് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f30d7f85-8472-4903-a953-235dfc555f19",
+    "data": [
+      {
+        "text": "ലോഗൗട്ട്",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b08c482a-8698-435f-9def-1de07251a67f",
+    "data": [
+      {
+        "text": "ആപ്പിക്കേഷൻ ലോഗൗട്ട്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e7ae59db-45ec-47b1-a914-054cad03c11a",
+    "data": [
+      {
+        "text": "നോട്ടിഫിക്കേഷൻസ് അപ്ടേറ്റ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5658e5df-8206-4f79-9ccb-72fc6fc82fe6",
+    "data": [
+      {
+        "text": "സെറ്റിംഗ്സ് ചെയിൻച് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "edffc5d9-3bea-407a-b9ea-840e5fda3f0c",
+    "data": [
+      {
+        "text": "നിർദ്ദേശങ്ങൾ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8ed53f86-b01f-4d7a-a424-a031fd83102e",
+    "data": [
+      {
+        "text": "ക്രമീകരണങ്ങൾ കാണിക്കുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6f446dc3-c0b0-4480-aec8-5ba5eefcab0d",
+    "data": [
+      {
+        "text": "ലോഗ് ഔട്ട്",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bbb86c34-d720-4501-a5c2-2366d4d245b7",
+    "data": [
+      {
+        "text": "എന്റെ സെറ്റിംഗ്സ് കാണിക്കുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bb0cd1ae-2398-46f5-a92c-b873e6daee6d",
+    "data": [
+      {
+        "text": "സെറ്റിംഗ്സ് കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8454051c-cf2e-4c06-9b5a-67ba434d924a",
+    "data": [
+      {
+        "text": "സെറ്റിംഗ്സ്",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0c95ebee-ac62-4725-8200-7909c6455010",
+    "data": [
+      {
+        "text": "നോട്ടിഫിക്കേഷൻസ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f7fa1cd3-b7cf-44ea-9548-4528480c972c",
+    "data": [
+      {
+        "text": "സെറ്റിംഗ്സ് കാണിക്കുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

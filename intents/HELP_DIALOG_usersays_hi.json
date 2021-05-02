@@ -1,0 +1,29 @@
+[
+  {
+    "id": "853e06c1-8e8b-44cc-aa3c-324d834fd652",
+    "data": [
+      {
+        "text": "हेल्प",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "1f0eee58-02cc-4da4-b5a3-be73bd162ac9",
+    "data": [
+      {
+        "text": "सहाय",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ec5ed7bd-2a48-4987-ba10-44b4b7b87273",
+    "data": [
+      {
+        "text": "हेल्प",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "12a2d728-f5a4-4b05-87ba-aba9604c05b6",
+    "data": [
+      {
+        "text": "मदत",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "89bf8de8-bf89-413b-8142-b55e4b556a76",
+    "data": [
+      {
+        "text": "कृपया",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " मदत करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e0faab1f-0a41-4ffb-96ff-53db94db0230",
+    "data": [
+      {
+        "text": "मला मदत करा",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "800b7d10-974a-4d06-a839-af13b5b4e3ae",
+    "data": [
+      {
+        "text": "मदत दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

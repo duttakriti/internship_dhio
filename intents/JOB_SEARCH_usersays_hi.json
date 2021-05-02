@@ -1,0 +1,917 @@
+[
+  {
+    "id": "f5358bf9-35f7-4f50-ac07-86993d7a3579",
+    "data": [
+      {
+        "text": "उबर",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "b3610420-4578-45fd-91cd-24e884a1880c",
+    "data": [
+      {
+        "text": "ओला",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "823b7d59-ba0a-46f5-a40e-689f93ca194c",
+    "data": [
+      {
+        "text": "स्विग्गि",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "8e1e44ac-89ba-49fb-8c1a-49ef6c07c9b4",
+    "data": [
+      {
+        "text": "डेलिवरी",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "febb9d81-2def-4749-a77e-31f46fa090f7",
+    "data": [
+      {
+        "text": "ड्राइवर",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "cf4a9e0a-6b50-4fa4-baef-7b2147cf8f47",
+    "data": [
+      {
+        "text": "वितरण",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " का ",
+        "userDefined": false
+      },
+      {
+        "text": "नौकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " तलाश करें",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "fd847d51-cad7-42c4-860d-68a36b26ca85",
+    "data": [
+      {
+        "text": "डेलिवेरी",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " बॉय ",
+        "userDefined": false
+      },
+      {
+        "text": "नौकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "1c996dd3-dd07-449d-ab86-8e616cedd9a6",
+    "data": [
+      {
+        "text": "ड्राइवर",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " काम चाहिये",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "dfe459fd-3d07-4ac9-9d9f-69117c54b971",
+    "data": [
+      {
+        "text": "चेन्नई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " नौकरियां",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "572862b7-a3b1-43af-bd92-5230ea054a38",
+    "data": [
+      {
+        "text": "चेन्नई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " में उद्योग चाहिये",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "0555146c-76e0-484b-b51b-0d9ec967d14e",
+    "data": [
+      {
+        "text": "लेखपाल",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " की ",
+        "userDefined": false
+      },
+      {
+        "text": "नौकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  चाहिये",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "76fd3196-1218-4bb7-a0fd-3bec61281d2e",
+    "data": [
+      {
+        "text": "अकाउंटेंट",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " का जॉब चाहिये",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "497ce332-8a36-4868-8275-9a3f05ca82f3",
+    "data": [
+      {
+        "text": "बेंगलुरु",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "अकाउंटेंट",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " का काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "48ad90c0-92d7-46bb-a530-6c4bc226641d",
+    "data": [
+      {
+        "text": "अकाउंटेंट",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " का काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "0a5a458b-d8ad-4f3e-b882-e5bf9e924fc3",
+    "data": [
+      {
+        "text": "बेंगलुरु",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "अकाउंटेंट",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "नौकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "7e4b2282-00a5-4bd5-b6b7-d76350907078",
+    "data": [
+      {
+        "text": "मुनीम",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " नौकरियां दिखाइये",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "bef863c7-595b-4144-94fd-7796abc977dc",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में नौकरियां दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "be6eff6e-a70a-4e91-bd92-29d566b4a4bb",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "डिलीवरी",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " की नौकरी दिखाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "18ec86d4-d532-48a6-8f66-cde4479afd78",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " भी नौकरियां दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "cea23db8-d0cd-46aa-bdaf-4bab446b0c7c",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "9f675445-ef4b-4bfc-9d58-3c09bd31dfe8",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में नौकरी दिखाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "dd9c6a29-ee97-46d4-b134-f7e4a61e1a9d",
+    "data": [
+      {
+        "text": "बंगलौर",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "नौकरी",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " दिखाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "25a0bf5b-fb81-4a88-bcd8-67ed5b2b712a",
+    "data": [
+      {
+        "text": "बंगलौर",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "डिलीवरी",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " की नौकरी दिखाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "4b8b9090-7682-4ad3-9f10-f55a52ca17f8",
+    "data": [
+      {
+        "text": "मैसुरू",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "38ca7cf3-a228-4096-8416-40c46a5cfa5f",
+    "data": [
+      {
+        "text": "मैसुरू",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " भी नौकरियां दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "a4296802-8e6e-4a81-b8bf-c03c4815eb21",
+    "data": [
+      {
+        "text": "मैसूरु",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " भी नौकरियां दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "9f77d61d-ea92-4c79-9881-be6c1c486852",
+    "data": [
+      {
+        "text": "लखनऊ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "नर्स",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "52b65b64-90ee-4f24-bdbb-5dd9fbdf8eb6",
+    "data": [
+      {
+        "text": "कोलकाता",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": false
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "कार चलाना",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "46f3519c-136d-49b0-b211-a19e8f1c2010",
+    "data": [
+      {
+        "text": "मैं ",
+        "userDefined": false
+      },
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "ड्राइवर",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " के रूप में काम करना चाहता हूं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "accf2dc6-aa7d-462e-95c2-629306ae8481",
+    "data": [
+      {
+        "text": "मैं ",
+        "userDefined": false
+      },
+      {
+        "text": "फैक्ट्री में काम",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " करना चाहता हूं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "61f61758-aee7-437a-a8be-7debe677ba43",
+    "data": [
+      {
+        "text": "नोएडा",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "सिलाई",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " का काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "1dba9cd8-a825-42c8-bc39-bbd6a2984aaf",
+    "data": [
+      {
+        "text": "मैसूरु",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "डिलीवरी",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " की नौकरी दिखाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "9adf1e7f-d7a1-4f8f-aaf4-86f74e266e0f",
+    "data": [
+      {
+        "text": "कुछ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " भी नौकरियां दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "25d7f2f1-bd8f-422b-b1b9-bb22cfdd76ae",
+    "data": [
+      {
+        "text": "बेंगलुरु",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में नौकरी दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "ce896d0a-c59e-4d5c-873e-2061568490e1",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में काम दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "6b094535-90d6-4c3b-b4c9-79bc3052bfc1",
+    "data": [
+      {
+        "text": "BPO",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " जॉब्स दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "7c38d74f-a36d-465c-8ed5-6b17a1fa2421",
+    "data": [
+      {
+        "text": "मुंबई",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "डिलीवरी",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " जॉब दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "56da8f5d-5dd2-4713-b873-2f8138c3dfc0",
+    "data": [
+      {
+        "text": "दिल्ली",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "सुरक्षा",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " की ",
+        "userDefined": false
+      },
+      {
+        "text": "नौकरियां",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " दिखाओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "4dd961e9-317e-4c10-a3f8-61580706e381",
+    "data": [
+      {
+        "text": "मुझे ",
+        "userDefined": false
+      },
+      {
+        "text": "कुक",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " या ",
+        "userDefined": false
+      },
+      {
+        "text": "बावर्ची",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " नौकरियां दिखाएँ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "4f2866d9-98cb-402a-91ee-23a1d1980ceb",
+    "data": [
+      {
+        "text": "इसके लिए ",
+        "userDefined": false
+      },
+      {
+        "text": "मैसूर",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " में ",
+        "userDefined": false
+      },
+      {
+        "text": "ड्राइवर",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " की नौकरी चाहिए",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "hi",
+    "updated": 0
+  }
+]

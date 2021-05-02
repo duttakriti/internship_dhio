@@ -1,0 +1,119 @@
+[
+  {
+    "id": "eb4274f9-13be-4357-a242-d84e6c4ba896",
+    "data": [
+      {
+        "text": "আরসি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "42252ef6-d30e-4691-a521-921bcb8ea2c0",
+    "data": [
+      {
+        "text": "ডিএল",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d9757a11-7699-401c-8689-074c85772124",
+    "data": [
+      {
+        "text": "আমার নথিগুলি আপলোড করুন",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "628491d4-eb35-4ade-828e-183b574993f4",
+    "data": [
+      {
+        "text": "যানবাহন বীমা",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ca00e41d-79cd-46c3-bbe5-a3f5cfa7d7d4",
+    "data": [
+      {
+        "text": "আরসি আপলোড",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "cae2a68b-cdc4-4470-a67f-4b3817e999d3",
+    "data": [
+      {
+        "text": "ডিএল আপলোড",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4d07f95a-f39f-4edc-ae75-49e720daff03",
+    "data": [
+      {
+        "text": "বীমা আপলোড",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4bd15b40-6441-4ab8-84cf-51a1016129e4",
+    "data": [
+      {
+        "text": "ড্রাইভার লাইসেন্স আপলোড",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f462858a-a14b-4df5-88aa-628fa7598bcf",
+    "data": [
+      {
+        "text": "নথি আপলোড করুন",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

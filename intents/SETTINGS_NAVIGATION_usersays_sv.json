@@ -1,0 +1,263 @@
+[
+  {
+    "id": "d5e03003-08aa-4656-9ac3-b45a9d30b54f",
+    "data": [
+      {
+        "text": "లాగ్ అవుట్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "59364bb5-b998-4eaa-b395-b78f9daee210",
+    "data": [
+      {
+        "text": "సెట్టింగులను నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "59ed6bcc-58d5-40b5-8114-24541e0d0bb2",
+    "data": [
+      {
+        "text": "నన్ను సెట్టింగులకు తీసుకెళ్లండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "1f7f9e57-d7ee-4d06-ad90-242b13b284af",
+    "data": [
+      {
+        "text": "SMS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3491669a-e216-4902-a1a3-db4e900cd84c",
+    "data": [
+      {
+        "text": "యాప్ నుండి లాగ్ అవుట్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "03a4cded-3535-4be0-b6df-4684788769e6",
+    "data": [
+      {
+        "text": "అప్లికేషన్ లాగ్ అవుట్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "16dff50a-07a7-45be-86aa-23c16f56e59c",
+    "data": [
+      {
+        "text": "నోటిఫికేషన్‌లను అప్ డేట్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e65f399e-0d47-47e3-8861-bf20a65ca319",
+    "data": [
+      {
+        "text": "సెట్టింగులను మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3bbf4f71-0937-40c2-a0f8-08ce24202234",
+    "data": [
+      {
+        "text": "సూచనలు",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "6d70d70a-db6d-4a42-a5df-ebccaf5d435b",
+    "data": [
+      {
+        "text": "సెట్టింగ్స్  చూపించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "55f7b429-330c-4986-9b4c-30afbcee0e59",
+    "data": [
+      {
+        "text": "సెట్టింగ్స్  చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "df50ebee-a162-41d8-bd35-38211a22a2a6",
+    "data": [
+      {
+        "text": "సెట్టింగ్స్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e1d459cd-8125-437b-8b7c-848207a82d20",
+    "data": [
+      {
+        "text": "నా సెట్టింగులను నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7379858d-0234-480b-843d-6d5cf4e09eff",
+    "data": [
+      {
+        "text": "సెట్టింగులు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a5b34bc7-7943-4e98-870b-10b9b6f464d7",
+    "data": [
+      {
+        "text": "నోటిఫికేషన్‌లు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "73309d7c-e7b1-4b20-babd-92fa7e77cbe5",
+    "data": [
+      {
+        "text": "ఎస్ ఎం ఎస్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "acd2272d-a88c-4625-88d8-41446b43ebe7",
+    "data": [
+      {
+        "text": "సెట్టింగ్లను మార్చండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e219d592-db08-47ad-bd5b-4d06c14ffc21",
+    "data": [
+      {
+        "text": "సెట్టింగులను చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "35b0be86-ceb3-4955-954d-d13b99bd8cb6",
+    "data": [
+      {
+        "text": "నోటిఫికెషన్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "604897d0-c8c5-46e5-a183-005bfa5dd0fc",
+    "data": [
+      {
+        "text": "నాకు సెట్టింగులను చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

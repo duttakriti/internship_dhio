@@ -1,0 +1,120 @@
+{
+  "id": "2d647b97-0536-4622-810a-ff29f20d4a3a",
+  "name": "SAVED_JOBS_NAVIGATION",
+  "auto": true,
+  "contexts": [
+    "navigation_and_job_search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "navigation_and_job_search",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "क्षमस्व,आपण कोणतीही नोकरी लागू केली नाही",
+            "DEFAULT": "येथे काही आवडत्या नोकर्‍या आहेत"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "ക്ഷമിക്കണം, നിങ്ങൾ സേവ് ചെയ്തിട്ടില്ലെന്ന് തോന്നുന്നു",
+            "DEFAULT": "നിങ്ങൾ സേവ് ചെയ്ത ചില ജോലികൾ ഇതാ"
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "দুঃখিত, দেখে মনে হচ্ছে আপনার কোনও কাজ বাকি নেই",
+            "DEFAULT": "আপনার সংরক্ষিত কাজগুলি এখানে"
+          },
+          "textToSpeech": "",
+          "lang": "ja",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "మీరు సేవ్ చేసిన ఉద్యోగాలు ఇక్కడ ఉన్నాయి",
+            "NO_DATA": "క్షమించండి, మీకు సేవ్ చేసిన ఉద్యోగాలు లేవనిపిస్తోంది"
+          },
+          "textToSpeech": "",
+          "lang": "sv",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "மன்னிக்கவும், நீங்கள் எந்த வேலைகளையும் சேமிக்கவில்லை என நினைக்கிறீர்கள்",
+            "DEFAULT": "நீங்கள் சேமித்த சில வேலைகள் இங்கே"
+          },
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "माफ़ करना, ऐसा लगता है कि आपके पास कोई नौकरी नहीं बची है",
+            "DEFAULT": "यहां आपकी बचाई गई नौकरियां हैं"
+          },
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "Oops, looks like you don\u0027t have any jobs saved",
+            "DEFAULT": "Here are some jobs that you saved"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ನೀವು ಉಳಿಸಿದ ಕೆಲವು ಕೆಲಸಗಳು ಇಲ್ಲಿವೆ",
+            "NO_DATA": "ಕ್ಷಮಿಸಿ, ನೀವು ಯಾವುದೇ ಕೆಲಸಗಳು ಉಳಿಸಿಲ್ಲ ಅನಿಸುತ್ತದೆ"
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

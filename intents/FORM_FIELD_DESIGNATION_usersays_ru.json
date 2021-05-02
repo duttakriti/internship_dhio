@@ -1,0 +1,446 @@
+[
+  {
+    "id": "e475a67b-49d4-4ff6-a518-04b7302b3f04",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "டைலர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை செய்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "84d40a4c-c510-4740-bf97-70198aa50ce6",
+    "data": [
+      {
+        "text": "நான் ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "டிரைவர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " தொழில் செய்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ee03aadf-7f1e-4436-a911-45a05de4b855",
+    "data": [
+      {
+        "text": " நான் ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "டிரைவர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " முகவராக வேலை செய்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "586346ba-bb13-4a39-8dee-4e252a4b616f",
+    "data": [
+      {
+        "text": "டீச்சர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": "  எனது பணியிடம்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "24fea71e-fdc6-4723-a062-61acb7728155",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "சேல்ஸ் மார்க்கெட்டிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலையில் இருக்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "37b55904-03d4-4fc0-8770-3f958e1cdceb",
+    "data": [
+      {
+        "text": "டைலரிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " செய்வது என் வேலை",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "947f8737-c6de-4b3d-b3cd-ec6f78b9e721",
+    "data": [
+      {
+        "text": "நான் ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "பைண்டிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ஆகிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bba76b50-2884-400d-82a8-4cfc48267608",
+    "data": [
+      {
+        "text": "என் கைவினை ",
+        "userDefined": false
+      },
+      {
+        "text": "பைண்டிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f8a036e5-1248-4f4b-ace1-4d24148f152b",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "எலெக்ட்ரிசியன்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை செய்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d2aab111-95d6-41bf-aa14-e8fcc38ee725",
+    "data": [
+      {
+        "text": "ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "நர்ஸ்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " என் பணி",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "31b17efc-4196-44c8-acab-bafd863c4dd2",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "ஸ்டுடென்ட்/ பிரெஷர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலையைத் தேடுகிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "13edf9b2-0c82-464f-bd4d-0485a506b4e9",
+    "data": [
+      {
+        "text": " நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "பூயூட்டிசியன்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை பார்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "13d90714-0b17-436e-a1f0-be8d5219c36a",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "டீச்சர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை செய்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4b18d353-2b3d-4cd8-b447-7b0ab81951d5",
+    "data": [
+      {
+        "text": "நான் ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "பிபிஓ/டெலிகால்லிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை செய்கிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1070165b-dee7-421f-9546-db7dd2a16e6a",
+    "data": [
+      {
+        "text": " நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "அழகு  நிபுணர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " தொழிலைத் தேர்ந்தெடுத்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af1c6912-af67-4c55-ba2b-bad9c13f8c60",
+    "data": [
+      {
+        "text": "நான் ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "கணக்காளர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3525b18f-58f5-4a07-b510-1c1edb613d84",
+    "data": [
+      {
+        "text": " நான்  ",
+        "userDefined": false
+      },
+      {
+        "text": "வெல்டிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை நிபுணத்துவம் பெற்றேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "41425fb4-7395-4977-a32d-0944b50353dc",
+    "data": [
+      {
+        "text": "நான் ஒரு ",
+        "userDefined": false
+      },
+      {
+        "text": "பிபிஓ/ டெலிகால்லிங்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலை செய்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8985f5df-59af-45e7-a601-21f663fe5d8f",
+    "data": [
+      {
+        "text": "மைசூரில் எனது ",
+        "userDefined": false
+      },
+      {
+        "text": "வரவேற்பாளர்",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலையில் பணிபுரிந்தேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a17855c-4874-430b-884a-90cd4f776fb4",
+    "data": [
+      {
+        "text": "நான் ",
+        "userDefined": false
+      },
+      {
+        "text": "மாணவர்கள் /புதிய",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " வேலையைத் தேடுகிறேன்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

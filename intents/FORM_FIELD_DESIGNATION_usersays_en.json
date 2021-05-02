@@ -1,0 +1,224 @@
+[
+  {
+    "id": "601d285b-ff37-48c2-84c5-92b79e14508f",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "Beautician",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " and also a bridal makeup artist in Bangalore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "683af5d9-16e9-466e-95d3-1c36c912c0c1",
+    "data": [
+      {
+        "text": "I worked as a ",
+        "userDefined": false
+      },
+      {
+        "text": "factory worker",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Electronic city",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b353f245-8b07-40f7-9bfc-bad2fa3d857d",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "sales representative",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangalore",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5127adf-2afe-41bf-95fa-8936cd8e1d7e",
+    "data": [
+      {
+        "text": "I work as an ",
+        "userDefined": false
+      },
+      {
+        "text": "electrician",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8afa487b-03e4-4b9d-bddb-21d5aafb9b6f",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "painter",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " and I do ",
+        "userDefined": false
+      },
+      {
+        "text": "painting",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e04f9771-c697-4593-802e-1926ca5196ac",
+    "data": [
+      {
+        "text": "I used to be a ",
+        "userDefined": false
+      },
+      {
+        "text": "nurse",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef770849-0433-47fe-b0d3-b345f61bd687",
+    "data": [
+      {
+        "text": "I am working as an ",
+        "userDefined": false
+      },
+      {
+        "text": "electrician",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdb2660b-1754-4011-be74-3d5b59c594b3",
+    "data": [
+      {
+        "text": "I was a ",
+        "userDefined": false
+      },
+      {
+        "text": "teacher",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "411fd099-083c-4eb4-93bd-b166bcb98850",
+    "data": [
+      {
+        "text": "I worked as an ",
+        "userDefined": false
+      },
+      {
+        "text": "Assistant Driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16bc2df1-3cc8-4bbe-82a8-8b28b0c1b1f0",
+    "data": [
+      {
+        "text": "I worked as a ",
+        "userDefined": false
+      },
+      {
+        "text": "Driver",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

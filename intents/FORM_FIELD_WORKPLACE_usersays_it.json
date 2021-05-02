@@ -1,0 +1,311 @@
+[
+  {
+    "id": "fb3e443b-d8ff-4116-84f1-a6d9de46e2e2",
+    "data": [
+      {
+        "text": "ഞാൻ ജോലി ചെയ്തിരുന്ന കമ്പനിയുടെ പേരു് ",
+        "userDefined": false
+      },
+      {
+        "text": "കോഗ്നിസെന്റ്",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " എന്നാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a768e78d-a75d-48f6-8bd5-3751ba324afa",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "ഇൻഫോസിസ്സ്",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ജോലി ചെയ്തിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2b39e429-3e87-40ca-a4ac-bdc89d4a0ebd",
+    "data": [
+      {
+        "text": "യുനിസിസ്സ്",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " - ൽ ഞാൻ ജോലിയിൽ ആയിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c91797dd-ed52-4c03-aab1-df110f3bfa89",
+    "data": [
+      {
+        "text": "ഞാൻ ജോലി ചെയ്തിരുന്ന സ്ഥാപനത്തിന്റെ പേരു് ",
+        "userDefined": false
+      },
+      {
+        "text": "ടി സി എസ്സ്",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " എന്നാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8e8a3fde-238a-4c51-afc2-d6a512ce79c1",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "ആമസോൺ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ആണ് ജോലി ചെയ്തിരുന്നത്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2b943e2e-b883-4296-84a0-49ed4bff15af",
+    "data": [
+      {
+        "text": "ഐ ബി എം",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "-യിൽ ഞാൻ ഉണ്ടായിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f0a56204-2211-48fa-b04a-c7473e31febd",
+    "data": [
+      {
+        "text": "അത് ",
+        "userDefined": false
+      },
+      {
+        "text": "വിപ്രോ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -യിൽ ആയിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "446dd7db-1f51-4d40-b083-4b80a07b8a91",
+    "data": [
+      {
+        "text": "അത് ",
+        "userDefined": false
+      },
+      {
+        "text": "ഡൺസോ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ആയിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "303d6109-5f7c-4129-8bc1-ddf7170b3320",
+    "data": [
+      {
+        "text": "വിപ്രോ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -യിൽ ജോലി ചെയ്തിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d507f4e5-6054-4768-93b5-88d0bfcea3c7",
+    "data": [
+      {
+        "text": "വിപ്രോ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -യിൽ ആണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "448c5ef4-10c2-4d8d-ac26-c4d54349692c",
+    "data": [
+      {
+        "text": "സ്വിഗ്ഗീ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -യിൽ ചെയ്തിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "39473027-4811-4b65-8d13-3844344e376b",
+    "data": [
+      {
+        "text": "സൊമാറ്റോ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ചെയ്യുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "402dc62d-8475-4838-a403-483bc283740e",
+    "data": [
+      {
+        "text": "സ്വിഗ്ഗീ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ചെയ്തു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ae4e5ebf-22a7-4481-aecd-123aa4f3264f",
+    "data": [
+      {
+        "text": "ആമസൊൺ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ചെയ്തു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8843a984-7d9e-417c-8db9-eaed3e4a7406",
+    "data": [
+      {
+        "text": "ഇൻഫോസിസ്സ്",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " -നു വേണ്ടി ജോലി ചെയ്യുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

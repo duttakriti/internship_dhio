@@ -1,0 +1,359 @@
+[
+  {
+    "id": "ebffeacb-cac2-4c25-9508-6fbbe5a88ee7",
+    "data": [
+      {
+        "text": "ഞാൻ പഠിച്ച സ്കൂളിന്റെ പേര് ",
+        "userDefined": false
+      },
+      {
+        "text": "അംഗനവാടി",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ebac219d-f59f-45ab-af8c-214b2edd7ef5",
+    "data": [
+      {
+        "text": "എന്റെ കോളേജിന്റെ പേര് ",
+        "userDefined": false
+      },
+      {
+        "text": "ജെ.എസ്.എസ്",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4ed219ff-3cf3-4f36-a7f9-01621c0deb5d",
+    "data": [
+      {
+        "text": "വെബ്‌സ്റ്റേഴ്സ്",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ് എന്റെ സ്കൂൾ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "acaee021-deed-481c-b025-1ba07a009d11",
+    "data": [
+      {
+        "text": "ഞാൻ അത് ",
+        "userDefined": false
+      },
+      {
+        "text": "കുമാരൻസിൽ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ് പഠിച്ചത്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6178750d-1297-4e8d-9ee2-af3c5212249a",
+    "data": [
+      {
+        "text": "ഞാൻ ഒരു ",
+        "userDefined": false
+      },
+      {
+        "text": "സർക്കാർ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " സ്കൂളിൽ ആണ് പഠിച്ചത്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f617d804-d898-4c6f-b929-53fe21735b35",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "ഏദനിൽ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": false
+      },
+      {
+        "text": " പഠിച്ചു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f7c5f4c8-ea5c-4836-8221-4c3b2dd7d103",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "അംബേദ്കർ ഇൻസ്റ്റിറ്റ്യൂട്ടി",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": "ൽ പഠിച്ചു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "088cac64-3aa9-4049-ac49-7bc8bec6f7a8",
+    "data": [
+      {
+        "text": "ഞാൻ എഞ്ചിനീയറിംഗ് പൂർത്തിയാക്കിയത് ",
+        "userDefined": false
+      },
+      {
+        "text": "കേരള സർവകലാശാല",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " യിലാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "817186d9-7f53-493f-ad05-b8be2c7e076e",
+    "data": [
+      {
+        "text": "ഞാൻ എഞ്ചിനീയറിംഗ് പൂർത്തിയാക്കിയത് ",
+        "userDefined": false
+      },
+      {
+        "text": "വി .ടി.യു",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " - ",
+        "userDefined": false
+      },
+      {
+        "text": "വിശ്വേശ്വരയ്യ സാങ്കേതിക സർവകലാശാല",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " യിലാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a05b69fe-f097-4582-bde6-6be6130dcab5",
+    "data": [
+      {
+        "text": "ഞാൻ എന്റെ വിദ്യാഭ്യാസം 2017-ൽ ",
+        "userDefined": false
+      },
+      {
+        "text": "ഗ്ലോബൽ അക്കാഡമിയിൽ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " പൂർത്തിയാക്കി",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "ba80cc12-4ddd-44bc-82c0-330166357a8c",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "പഠിച്ചത് സിർസി താലൂക്കിലെ ഒരു ചെറിയ ഗ്രാമത്തിലാണ്",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ഞാൻ പഠിച്ച കോളേജിന്റെ പേരു് ",
+        "userDefined": false
+      },
+      {
+        "text": "ബി എൻ എം ഐ ടി",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " എന്നാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8437db6c-c95c-4af6-9a84-5febeb48b85e",
+    "data": [
+      {
+        "text": "ഞാൻ കന്നഡ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " മീഡിയം ",
+        "userDefined": false
+      },
+      {
+        "text": "സർക്കാർ സ്കൂളിൽ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": false
+      },
+      {
+        "text": " ആണ് പഠിച്ചത്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "29d238a7-2a7f-4f59-803b-eb03677b1710",
+    "data": [
+      {
+        "text": "ഞാൻ പഠിച്ചത് തിരുവനന്തപുരത്തെ ഒരു കോളേജിൽ ആണ്. അതിന്റെ പേരു് ",
+        "userDefined": false
+      },
+      {
+        "text": "എം ജി കോളേജ്",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " എന്നാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "340313d5-33fe-4733-877e-1abdfde48b4c",
+    "data": [
+      {
+        "text": "ഞാൻ പഠിച്ചത് എറണാകുളം ജില്ലയിലെ ഒരു ചെറിയ ഗ്രാമത്തിലാണ്. ഞാൻ പഠിച്ച സ്കൂളിന്റെ പേരു് ",
+        "userDefined": false
+      },
+      {
+        "text": "മോഡൽ ഹൈസ്കൂൾ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " എന്നാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a2a6e199-b093-411c-97d2-2d7f39dc69c6",
+    "data": [
+      {
+        "text": "ഞാൻ മലയാളം മീഡിയം ",
+        "userDefined": false
+      },
+      {
+        "text": "സർക്കാർ സ്കൂളിൽ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ് പഠിച്ചത്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

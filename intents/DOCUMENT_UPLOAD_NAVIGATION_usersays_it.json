@@ -1,0 +1,120 @@
+[
+  {
+    "id": "233c69f4-40eb-43f1-be6d-3d1ec648bd46",
+    "data": [
+      {
+        "text": "എന്റെ രേഖകൾ അപ് ലോഡ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "68e13c25-e112-4806-814d-243df845d8c1",
+    "data": [
+      {
+        "text": "ഡ്രൈവേഴ്സ് ലൈസൻസ് അപ് ലോഡ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "13296847-0eb3-40a2-ac71-b5e0f12eb2d1",
+    "data": [
+      {
+        "text": "ഇൻഷ്യൂറൻസ് അപ് ലോഡ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c3b512dd-4294-472a-9d1c-75120858b28e",
+    "data": [
+      {
+        "text": "രേഖകൾ അപ് ലോഡ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4afcfacc-cb57-4044-8bec-1022aa627363",
+    "data": [
+      {
+        "text": "ഡ്രൈവേഴ്സ് ലൈസൻസ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "48a2e001-604e-4d10-8a14-cab3385b5055",
+    "data": [
+      {
+        "text": "ഡോക്യൂമെന്റ്സ് അപ് ലോഡ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "77a48478-a817-4c86-bd5a-4d00b14bdf16",
+    "data": [
+      {
+        "text": "ഡോക്യൂമെന്റ്സ് കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "856fc313-6833-4afd-98a5-b929dc90f416",
+    "data": [
+      {
+        "text": "രേഖകൾ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "70ee59ed-8495-4c0b-bcb2-dd9355929894",
+    "data": [
+      {
+        "text": "എന്റെ രജിസ്ട്രേഷനുകൾ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

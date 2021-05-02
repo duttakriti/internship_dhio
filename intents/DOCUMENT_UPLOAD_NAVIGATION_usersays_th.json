@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2fa3f978-bae0-4417-971b-1c7def157040",
+    "data": [
+      {
+        "text": "आपले कागदपत्रे अपलोड करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c0c3b11b-3591-4015-b3f4-dd3d1ca4aa42",
+    "data": [
+      {
+        "text": "माझ्याबद्दल तपशील दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dd94a4e6-ecac-4681-b663-a20cbfed4ec1",
+    "data": [
+      {
+        "text": "माझ्याबद्दल तपशील",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ed53a3d8-cd56-4896-8241-21b59cbc61fd",
+    "data": [
+      {
+        "text": "दस्तऐवज दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "35721d55-dac9-4482-b19b-9c0df54ddddf",
+    "data": [
+      {
+        "text": "माझे डोकमेंट्स",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "03f4cfcf-1b00-4f7a-b1de-5b94da0b14f4",
+    "data": [
+      {
+        "text": "माझे कागदपत्र",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

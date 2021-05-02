@@ -1,0 +1,218 @@
+[
+  {
+    "id": "86d79cee-7739-4284-ba63-ebf66fef89fe",
+    "data": [
+      {
+        "text": "ಸೆಟ್ಟಿಂಗ್ಸ್ ತೋರ್ಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "da65ceb4-e39f-4ee0-ab05-ccb1fbfbcc89",
+    "data": [
+      {
+        "text": "ನೋಟಿಫಿಕೇಷನ್ಸ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d7b2756a-f43a-449f-a35c-8c49a27fab98",
+    "data": [
+      {
+        "text": "ಸೆಟ್ಟಿಂಗ್ಸ್",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5e8e780a-6460-46a4-ad89-b5b8efbf1ee1",
+    "data": [
+      {
+        "text": "ಸೆಟ್ಟಿಂಗ್ಸ್  ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1e31cfbe-df1e-4812-a6ca-a81399d48cc7",
+    "data": [
+      {
+        "text": "ನನ್ನ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "739b303a-c062-4ff2-8e56-2c12500aeb48",
+    "data": [
+      {
+        "text": "ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ತೋರಿಸು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1df7409d-c426-434d-92fa-686e665ea15d",
+    "data": [
+      {
+        "text": "ಸೂಚನೆಗಳು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7b2508d2-4bb8-4961-8092-45299065e2bf",
+    "data": [
+      {
+        "text": "ಸೆಟ್ಟಿಂಗ್ಸ್ ಚೇಂಜ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "98868f33-1e6a-4c04-8644-c0f2e3806ba6",
+    "data": [
+      {
+        "text": "ನೋಟಿಫಿಕೇಷನ್ಸ್ ಅಪ್ಡೇಟ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a9b4250d-2cad-4d49-baff-4355f124998a",
+    "data": [
+      {
+        "text": "ಅಪ್ಲಿಕೇಶನ್ ಲಾಗ್ಔಟ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "929b48d0-6a66-4b40-8225-1745f3855f99",
+    "data": [
+      {
+        "text": "ಲಾಗ್ಔಟ್",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6188b4cf-871f-41a2-b745-1a31436eb8ae",
+    "data": [
+      {
+        "text": "ಯಾಪ್",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ಇಂದ ಲಾಗ್ಔಟ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a99c817c-139d-4768-98c9-3a5d48ba7da6",
+    "data": [
+      {
+        "text": "ಎಸ್ಎಂಎಸ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d4f6c74f-dd7d-4e65-8cbc-920702eaa910",
+    "data": [
+      {
+        "text": " ನನ್ನನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಕರೆದೊಯ್ಯಿರಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9b20cb6b-30d6-4ddd-9305-de44f48560ad",
+    "data": [
+      {
+        "text": "ನನಗೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d722c2ea-ef58-4b82-beb7-0be034eea0d5",
+    "data": [
+      {
+        "text": "ಲಾಗ್ ಔಟ್",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

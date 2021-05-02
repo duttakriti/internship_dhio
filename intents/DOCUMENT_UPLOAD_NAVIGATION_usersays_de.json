@@ -1,0 +1,120 @@
+[
+  {
+    "id": "d7607786-d750-4517-b339-c9afb46338d5",
+    "data": [
+      {
+        "text": "ನನ್ನ ದಾಖಲಾತಿಗಳು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "31a03f3b-c85b-41d0-bbbb-f765e753765b",
+    "data": [
+      {
+        "text": "ದಾಖಲೆಗಳು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "40610735-428d-4534-b3a9-ff70c19d05d5",
+    "data": [
+      {
+        "text": "ಡಾಕ್ಯುಮೆಂಟ್ಸ್ ತೋರಿಸಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a0ff5dc7-a606-467e-a8ea-f5047c109419",
+    "data": [
+      {
+        "text": "ಡಾಕ್ಯುಮೆಂಟ್ಸ್ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9e53fede-4ace-4f57-8195-9a1359a494ea",
+    "data": [
+      {
+        "text": "ಡ್ರೈವರ್ಸ್ ಲೈಸೆನ್ಸ್",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d0a70900-3563-44de-bb4d-533283d59bfc",
+    "data": [
+      {
+        "text": "ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "030587f0-f536-4295-9fd2-a27847f64cdb",
+    "data": [
+      {
+        "text": "ಇನ್ಶೂರೆನ್ಸ್ ಅಪ್‌ಲೋಡ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4b7ae862-1a2c-4f68-8590-ffcd8dae7e59",
+    "data": [
+      {
+        "text": "ಡ್ರೈವಿಂಗ್ ಲೈಸೆನ್ಸ್ ಅಪ್‌ಲೋಡ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "32331e9a-a260-4c5e-a0bd-bef479fc5bd1",
+    "data": [
+      {
+        "text": "ನನ್ನ ದಾಖಲೆಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

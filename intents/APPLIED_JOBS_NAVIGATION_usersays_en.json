@@ -1,0 +1,100 @@
+[
+  {
+    "id": "6f0ba094-8f6a-45bf-9a81-f582f10c4093",
+    "data": [
+      {
+        "text": "what jobs have i ",
+        "userDefined": false
+      },
+      {
+        "text": "applied",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e40fa652-2fe2-44ae-b308-666ea7f4de39",
+    "data": [
+      {
+        "text": "jobs i have ",
+        "userDefined": false
+      },
+      {
+        "text": "applied",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9750b103-370a-45be-9b06-47e831b0e6f6",
+    "data": [
+      {
+        "text": "applied",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " jobs show",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "559dabfc-10a5-4d9f-81ad-cbf6d195c4f3",
+    "data": [
+      {
+        "text": "applied",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07253a90-3d9a-45d4-95e5-751cca379c45",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "applied",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

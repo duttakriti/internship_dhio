@@ -1,0 +1,120 @@
+{
+  "id": "4ccdfa2a-6cb8-418f-b6b7-73412ea73fa8",
+  "name": "SETTINGS_NAVIGATION",
+  "auto": true,
+  "contexts": [
+    "navigation_and_job_search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "navigation_and_job_search",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "क्षमस्व,आपले म्हणणे समजले नाही",
+            "DEFAULT": "येथे आपल्या सेटिंग्ज आहेत"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "Oops, I don\u0027t understand what you are saying",
+            "DEFAULT": "Here are your App settings"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "നങങളട ആപ സററങങസ ഇത",
+            "NO_DATA": "ക്ഷമിക്കണേ, നിങ്ങൾ പറയുന്നത് എനതണനന എനകക മസസസലകനനലല"
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "দুঃখিত আপনি কি বলছেন তা আমি বুঝতে পারি না",
+            "DEFAULT": "এগুলি আপনার অ্যাপ্লিকেশন সেটিংস। আপনি এখানে লগ আউট এবং বিজ্ঞপ্তি পরিবর্তন করতে পারেন"
+          },
+          "textToSpeech": "",
+          "lang": "ja",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "NO_DATA": "माफ़ कीजिये, मुझे समझ नहीं आ रहा हैं कि आप क्या कह रहे हैं",
+            "DEFAULT": "यह आपकी ऐप सेट्टिंग्स हैं । आप यहां से लॉग आउट कर सकते हैं और नोटिफिकेशन्स बदल सकते हैं"
+          },
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ఇక్కడ మీ అప్లికేషన్ సెట్టింగ్‌లు ఉన్నాయి. మీరు ఇక్కడ నుండి లాగ్ అవుట్ చేసి నోటిఫికేషన్‌లను మార్చవచ్చు",
+            "NO_DATA": "క్షమించండి, మీరు ఏమి అంటున్నారో నాకు అర్ధం కావడం లేదు"
+          },
+          "textToSpeech": "",
+          "lang": "sv",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "இங்கே உங்கள் அப்பிளிகேஷன்ஸ் செட்டிங்ஸ்  உள்ளன. நீங்கள் இங்கிருந்து லொக்அவுட் நோட்டிபிகேஷன்ஸ் மாற்றலாம்",
+            "NO_DATA": "மன்னிக்கவும், நீங்கள் என்ன சொல்கிறீர்கள் என்று எனக்கு புரியவில்லைை"
+          },
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್ಗಳು ಇಲ್ಲಿವೆ.ನೀವು ಇಲ್ಲಿಂದ ಲಾಗ್ ಔಟ್ ಮಾಡಬಹುದು ಮತ್ತು ನೋಟಿಫಿಕೇಷನ್ಸ್ ಬದಲಿಸಬಹುದು",
+            "NO_DATA": "ಕ್ಷಮಿಸಿ, ನೀವು ಏನು ಹೇಳುತ್ತಿದ್ದೀರಿ ಎಂದು ನನಗೆ ಅರ್ಥವಾಗುತ್ತಿಲ್ಲ"
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "5fc01f9e-e9a8-4710-a862-468011eec698",
+    "data": [
+      {
+        "text": "எனது ப்ரொபைல் எடிட் செய்யவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1e7b4138-51b9-49c9-a774-849ed50d2a32",
+    "data": [
+      {
+        "text": "எனது போட்டோ மாற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "65d69878-3e35-40a1-9b62-da9b5f541c36",
+    "data": [
+      {
+        "text": "ப்ரொபைல் காட்டு",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f104451e-dcfd-4337-99a9-d00c7208eb08",
+    "data": [
+      {
+        "text": "எடிட் ப்ரொபைல்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a27d0d6-774d-40d9-885b-94c334156923",
+    "data": [
+      {
+        "text": "எனது ப்ரொபைல் எடிட் ",
+        "userDefined": false
+      },
+      {
+        "text": "திருத்தவும்",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "15ce9010-0f41-49e2-b975-177d01edd52a",
+    "data": [
+      {
+        "text": "எனது ப்ரொபைல் சேற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d9685e9e-e57c-439e-89a4-29c45934ccb2",
+    "data": [
+      {
+        "text": "எனது ப்ரொபைல் காட்டுக",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c71d012c-4c8b-4837-bb6c-9273378282a6",
+    "data": [
+      {
+        "text": "எனது ப்ரொபைல் காட்டு",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5b2ccd55-0dbe-48cf-ac91-eb663db87391",
+    "data": [
+      {
+        "text": "எனது இ மெயில் எடிட் செய்யவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9a7c693d-571c-4c5a-96a8-8de4810764ab",
+    "data": [
+      {
+        "text": "இமெயில் எடிட் செய்யவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2f06a942-f327-4808-81fb-117d749710e3",
+    "data": [
+      {
+        "text": "எனது அனுபவத்தைத் திருத்துங்கள்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "781dec0e-9677-4f14-9318-6aebe5bbdc8b",
+    "data": [
+      {
+        "text": "அனுபவத்தைத் எடிட் செய்யவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69bb86de-cbe9-4bb9-8b1e-83272edd0336",
+    "data": [
+      {
+        "text": "எனது அனுபவத்தைத் எடிட் செய்யவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af8641db-ae04-4cbf-9845-e469f2d797cd",
+    "data": [
+      {
+        "text": "எனது கல்வியைத் எடிட் செய்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d66e8cc3-575f-4210-8886-76e0bb590016",
+    "data": [
+      {
+        "text": "கல்வியைத் எடிட் செய்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b20abe63-8a86-46f5-82bd-6dddef928dc6",
+    "data": [
+      {
+        "text": "பெயரை மாற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2f9097b4-05da-49a9-bb33-033ccfce4344",
+    "data": [
+      {
+        "text": "வேலையை மாற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "749457d8-45d0-4541-b5d9-11ba8733d64e",
+    "data": [
+      {
+        "text": "எக்ஸ்பிரின்ஸ் மாற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "51482e16-b9b4-4ee9-9793-7f360de24cc8",
+    "data": [
+      {
+        "text": "போன் நம்பர் மாற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "67344895-fcd1-4f22-880d-adc971f88166",
+    "data": [
+      {
+        "text": "மொழியைத் எடிட் செய்யவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cf149086-b68c-4f18-b9d4-087e90514518",
+    "data": [
+      {
+        "text": "எனது புகைப்படத்தை மாற்றவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4b709c1f-19ea-4be4-85bf-5b58054e7687",
+    "data": [
+      {
+        "text": "எனது சுயவிவரத்தைத் திருத்தவும்",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

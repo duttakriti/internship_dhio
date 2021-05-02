@@ -1,0 +1,146 @@
+[
+  {
+    "id": "46d339bb-dc0e-4b4e-9e65-44330ce0f347",
+    "data": [
+      {
+        "text": "నా రికార్డులను అప్‌లోడ్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "532eafe7-f02f-4040-8a8d-11e0172a0639",
+    "data": [
+      {
+        "text": "డ్రైవింగ్ లైసెన్స్‌ను అప్‌లోడ్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "8fb9dd6f-0b72-47c0-9389-c77bae924034",
+    "data": [
+      {
+        "text": "ఇన్సూరెన్సు అప్‌లోడ్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "cb365060-976c-4c41-8333-3bbbfb19b88e",
+    "data": [
+      {
+        "text": "రికార్డులు అప్‌లోడ్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "919c17a4-a936-47a0-a423-fff8ac2c1bac",
+    "data": [
+      {
+        "text": "డ్రైవర్ లైసెన్స్",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "317af107-bcb5-4e83-a1b9-693694da1771",
+    "data": [
+      {
+        "text": "డాక్యుమెంట్ అప్‌లోడ్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e97967a6-7595-473d-8985-903fa663bd7d",
+    "data": [
+      {
+        "text": "డాక్యుమెంట్ చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "ae0c87cf-0cee-4993-a07f-f429f0c0e66a",
+    "data": [
+      {
+        "text": "రికార్డులు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "70b88b06-9237-49cc-bf03-7f905110a443",
+    "data": [
+      {
+        "text": "నా రికార్డులు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7a9345d2-cb66-4288-815a-4ee85daec4f7",
+    "data": [
+      {
+        "text": "నా పత్రాలను అప్‌లోడ్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "f23c6790-681c-4f3c-a9eb-62005a1d8855",
+    "data": [
+      {
+        "text": "పత్రాలను అప్‌లోడ్ చేయండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

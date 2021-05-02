@@ -1,0 +1,307 @@
+[
+  {
+    "id": "0b0dd9d9-9178-403b-8c17-16f70fda315a",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఇన్ఫోసిస్ ‌",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "లో పని చేస్తాఉండను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "fa2ceeb7-3606-4f7a-8385-061f4a4744ae",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఇన్ఫోసిస్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "  లో పనిచేశాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7f078c59-52a0-468b-b30a-9ae90113ae18",
+    "data": [
+      {
+        "text": "నేను  ",
+        "userDefined": false
+      },
+      {
+        "text": "విప్రో",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ‌లో పనిలో ఉన్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "56551ab3-6729-4040-9ed5-e798b1504f79",
+    "data": [
+      {
+        "text": "నేను పనిచేసిన company  ",
+        "userDefined": false
+      },
+      {
+        "text": "కాగ్నిజెంట్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "ad0d3fa3-4a5b-4c33-80ee-b6407a44464f",
+    "data": [
+      {
+        "text": "నేను పనిచేస్తున్న స్థలం పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "స్విగ్య్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3e52f5a5-2040-4c59-967a-832b5c25c457",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "అమెజాన్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "  వద్ద పని చేసేవాడిని",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b4a78f7b-f266-4807-a28d-955355a0ba43",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఓలా",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "   ఉన్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "c9f58116-c7e1-41a6-9c43-61f8a5dc5ebc",
+    "data": [
+      {
+        "text": "జొమాటో",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "  వద్ద ఉండను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "4247fd78-aff7-46d3-93e6-22319dd02bfc",
+    "data": [
+      {
+        "text": "డీఎంజో",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "  అయ్యింది",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "86903aea-e471-464f-aa05-410e0e9f845c",
+    "data": [
+      {
+        "text": "అమెజాన్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " లో పని చేస్థుండను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "17806f35-7ddf-4767-9252-caea4b02b7da",
+    "data": [
+      {
+        "text": "ఓలా",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " లో ఉండాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "0cf09403-a302-40f7-b5bb-b0f8739c0533",
+    "data": [
+      {
+        "text": "స్విగ్య్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " లో పనిచేసిండాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e66f0506-862f-4ab9-aca8-33a90971f72b",
+    "data": [
+      {
+        "text": "జొమాటో",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " చెసిండను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "664ea714-a251-46bc-b084-22c9245b22ee",
+    "data": [
+      {
+        "text": "స్విగ్య్",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " కోసం  చేయబడింది",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "f8a0b97b-101c-4672-9e9a-87b0158ab213",
+    "data": [
+      {
+        "text": "స్విగ్య్ కోసం",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "   పనిచేశాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

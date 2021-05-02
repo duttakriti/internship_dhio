@@ -1,0 +1,67 @@
+[
+  {
+    "id": "20a863f6-9b3f-4e7b-8c98-58ea792d5b43",
+    "data": [
+      {
+        "text": "मला जतन केलेल्या नोकर्‍या दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b49b66bd-2790-4b60-b538-2b122ec9a1c3",
+    "data": [
+      {
+        "text": "नोकर्‍या वाचवल्या",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2439ca70-8b46-4b9c-8044-642489dbe143",
+    "data": [
+      {
+        "text": "आवडत्या रोजगार",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "555475dc-bbf7-4892-8a6b-cdc9fd4d3869",
+    "data": [
+      {
+        "text": "मला आवडत्या नोकर्‍या दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "60751d81-571b-4b1c-be13-f989ad7a75da",
+    "data": [
+      {
+        "text": "मला माझ्या आवडत्या नोकर्‍या दाखवा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

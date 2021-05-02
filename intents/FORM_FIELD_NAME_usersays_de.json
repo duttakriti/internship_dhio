@@ -1,0 +1,751 @@
+[
+  {
+    "id": "0ebc59f7-47db-4b24-ad53-87fa74f9e950",
+    "data": [
+      {
+        "text": "ಎಚ್ ಡಿ ಕುಮಾರಸ್ವಾಮಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಹೆಸರು ನಂದು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "88c6772a-d3e7-4733-b297-e0c0beb5c6d0",
+    "data": [
+      {
+        "text": "ಕುಮಾರ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಎಚ್ ಡಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ನಾಮಧೇಯ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4fefb4b2-d78f-44a0-a2aa-a2d0c4a9f6cc",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಶ್ರೀನಿವಾಸ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b94aba78-6670-4ab0-90fa-f29654543e12",
+    "data": [
+      {
+        "text": "ರೈನಾ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಹೆಬ್ಳಿಕರ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಪೂರ್ತಿ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e9e2523a-ae82-4cbe-8b80-bcc1e2b989d6",
+    "data": [
+      {
+        "text": "ಸುರೇಶ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಹೆಬ್ಳಿಖರ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5d40f210-449d-4ad4-b60c-5cfccdff7870",
+    "data": [
+      {
+        "text": "ಸಂಕೃತಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕಟ್ಟಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂದು ನನಗೆ ಹಿರಿಯರು ಇಟ್ಟ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2445c115-1cf0-4431-af90-c97be59549fe",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಲಕ್ಷ್ಮಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕೃಷ್ಣಮೂರ್ತಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "56814939-7bf5-4487-8058-05b122adc2be",
+    "data": [
+      {
+        "text": "ನಾನೇ ",
+        "userDefined": false
+      },
+      {
+        "text": "ರಾಜಕುಮಾರ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a58e08a8-6313-4e2e-ad28-45f6efaf53a1",
+    "data": [
+      {
+        "text": "ಸುಲೋಚನಾ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಭಾಯಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "956aa86d-5d05-4f4b-b4ad-145a5ec8949b",
+    "data": [
+      {
+        "text": "ನನ್ನ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಲಕ್ಷ್ಮಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಚಿಂತಾಮಣಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎನ್ನುತ್ತಾರೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "914872f4-c016-4c64-bc12-ccf8984d9abb",
+    "data": [
+      {
+        "text": "ನನ್ನನ್ನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಭೀಮ್ ರಾವ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅಂಬೇಡ್ಕರ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ed37903c-ac06-487b-9eed-133c36184ecf",
+    "data": [
+      {
+        "text": "ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕೋಕಿಲ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "73863345-88d7-45b7-a4c8-bc393eb05157",
+    "data": [
+      {
+        "text": "ನನ್ನ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕಮಲಾ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಮಾರಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3917aad8-b46b-4da6-95a6-d69ad01bef51",
+    "data": [
+      {
+        "text": "ಕುಮಾರಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕಮಲಾ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "07edff1c-4fcd-49ed-9bc8-d6d09d3d742d",
+    "data": [
+      {
+        "text": "ಶಾಮಲಾ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ನಟರಾಜ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "164016b6-080d-4f85-87c5-70543237148c",
+    "data": [
+      {
+        "text": "ದಿವ್ಯ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ರಾವ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "411bd748-926c-4c66-bdfd-2c96b6e039af",
+    "data": [
+      {
+        "text": "ಶ್ರೀನಿವಾಸ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ರಾಮೇಗೌಡ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "17b50ddf-90a5-4fc8-b7e5-e81a9816e0b6",
+    "data": [
+      {
+        "text": "ನನ್ನನ್ನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ವಿಜಯ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸೂರ್ಯ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂದು ಉಲ್ಲೇಖಿಸುತ್ತಾರೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5dbd2068-5f56-4cb8-ba01-fc7b57216f89",
+    "data": [
+      {
+        "text": "ಕವಿತಾ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂಬುದು ನನ್ನ ಮೊದಲ ಹೆಸರು ಹಾಗು ",
+        "userDefined": false
+      },
+      {
+        "text": "ರಾವ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂಬುದು ನನ್ನ ಕೊನೆಯ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6c2e3f21-25d1-4dd6-ad56-6cf4fa3ce9e0",
+    "data": [
+      {
+        "text": "ನನ್ನ ಪೂರ್ಣ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ರಂಜನಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ರಾಘವನ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "acf9cb97-bdd2-4049-b1a2-f3d3b45d63e2",
+    "data": [
+      {
+        "text": "ನನ್ನ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಮಾರ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಹೆಚ್ ಡಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5deb31c9-bff7-4518-a7bb-92af243307e2",
+    "data": [
+      {
+        "text": "ಕುಮಾರ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಹೆಚ್ ಡಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0e0f9b2f-0876-454d-b900-ab49a0b53f24",
+    "data": [
+      {
+        "text": "ನನ್ನ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸಂತೋಷ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಮಾರ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6c6e8f95-5d1f-4371-83fc-960af8e85518",
+    "data": [
+      {
+        "text": "ನನ್ನನ್ನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ನಿಖಿತ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "91312dc3-4f00-40c4-9ad1-1ddd58b490f5",
+    "data": [
+      {
+        "text": "ರಾಮು",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಎಂದು ನನ್ನ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bf0094ed-9592-4516-b254-c76ed31ce6fa",
+    "data": [
+      {
+        "text": "ಶ್ರೀನಿಧಿ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಭಾರದ್ವಾಜ್",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6801c5cb-bc37-4343-93a1-26162bebeb6e",
+    "data": [
+      {
+        "text": "ರಾಜೇಶ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಲ್ಕರ್ಣಿ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "633c1a8a-510f-490e-8427-115e671b2d59",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸಂತೋಷ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "88653a6f-279d-4b97-b063-a80ada0d85f7",
+    "data": [
+      {
+        "text": "ನನ್ನ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಮಾರ್",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

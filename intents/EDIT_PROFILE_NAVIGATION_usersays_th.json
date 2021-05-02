@@ -1,0 +1,265 @@
+[
+  {
+    "id": "8ba0276f-9693-449c-86c7-fd5cf1519dcd",
+    "data": [
+      {
+        "text": "माझे ईमेल बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "edb1b27c-a895-405b-b441-73d223f66acb",
+    "data": [
+      {
+        "text": "ई",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " - ",
+        "userDefined": false
+      },
+      {
+        "text": "मेल",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "76028375-d50e-4135-891e-dceb37b064d3",
+    "data": [
+      {
+        "text": "ईमेल आयडी बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cffce6b5-9789-482a-afba-7f2687d2b7e1",
+    "data": [
+      {
+        "text": "फोटो बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d5baefa4-a721-444a-ad08-088518f5cdf1",
+    "data": [
+      {
+        "text": "प्रोफाइल दर्शवा",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4a378591-b800-4528-a1b6-2b1cbcb83b21",
+    "data": [
+      {
+        "text": "माझे प्रोफाइल बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "23957ddb-8a86-4d07-9702-e94bdd210921",
+    "data": [
+      {
+        "text": "प्रोफाइल बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c43cb717-4b08-4001-8cbd-ac2efb57a61a",
+    "data": [
+      {
+        "text": "माझा फोन नंबर बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4e717203-00b3-433c-bbe4-4216e05a30e3",
+    "data": [
+      {
+        "text": "भाषा बदला",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6d7d5821-c28f-4680-9f71-a112c0910f4e",
+    "data": [
+      {
+        "text": "माझे नाव बदल",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "59416f80-0a87-48fa-8815-d99206032959",
+    "data": [
+      {
+        "text": "माझे प्रोफाइल संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "398a210d-eaec-4f19-a35c-ff698c6e741a",
+    "data": [
+      {
+        "text": "माझा कामाचा अनुभव संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ae1498af-37bb-4a93-b20d-fd545f34003d",
+    "data": [
+      {
+        "text": "कार्य संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d8411a0f-bb6b-4106-bac8-52824f9eba24",
+    "data": [
+      {
+        "text": "माझे ",
+        "userDefined": false
+      },
+      {
+        "text": "शिक्षण",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "संपादित करा",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "df2b4957-9416-4cb8-b0f5-d8d4d527e77b",
+    "data": [
+      {
+        "text": "माझे काम संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "726beaeb-3e3d-4d15-bccc-1b74f16afe6f",
+    "data": [
+      {
+        "text": "नाव संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "83055681-b957-4908-bcff-f3852435a51a",
+    "data": [
+      {
+        "text": "फोन नंबर संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "59356032-96b7-4b01-9a18-6439c325180b",
+    "data": [
+      {
+        "text": "भाषा संपादित करा",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

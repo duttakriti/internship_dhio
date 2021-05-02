@@ -1,0 +1,164 @@
+[
+  {
+    "id": "9b0e8f08-a0ea-4a4a-9eb2-19cc222b34d3",
+    "data": [
+      {
+        "text": "झोमाटो",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": false
+      },
+      {
+        "text": " मध्ये काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "65e07ce4-7957-413c-84d4-10b08c0423bf",
+    "data": [
+      {
+        "text": "स्विगी",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": false
+      },
+      {
+        "text": " मध्ये काम",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4ee9e8f4-d242-46e1-9784-10640f13f129",
+    "data": [
+      {
+        "text": "मला ",
+        "userDefined": false
+      },
+      {
+        "text": "स्विगीम",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": false
+      },
+      {
+        "text": "ध्ये काम ",
+        "userDefined": false
+      },
+      {
+        "text": "पाहिजे",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " आहे",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "29b2c073-ad16-46b3-92b8-b764dd0bb5d0",
+    "data": [
+      {
+        "text": "मी ",
+        "userDefined": false
+      },
+      {
+        "text": "ऍमेझॉन",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": "   मध्ये काम करत होतो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ef1c6b83-9bc7-4978-b57d-700078d9b7ba",
+    "data": [
+      {
+        "text": "मी ",
+        "userDefined": false
+      },
+      {
+        "text": "फेडेक्स",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " मध्ये काम करत होतो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e9f1543c-d76a-44cf-9e8e-f1a5e2a0516c",
+    "data": [
+      {
+        "text": "मी ",
+        "userDefined": false
+      },
+      {
+        "text": "झोमाटोमध्ये",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " काम करत होतो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "db356aa6-3757-4b54-8ede-5f1b9b920d03",
+    "data": [
+      {
+        "text": "मी ",
+        "userDefined": false
+      },
+      {
+        "text": "स्विगीमध्ये",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " काम करत होतो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

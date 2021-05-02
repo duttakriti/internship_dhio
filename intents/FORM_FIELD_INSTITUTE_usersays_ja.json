@@ -1,0 +1,216 @@
+[
+  {
+    "id": "0dfdeb67-a912-4573-a64c-3a28d877ff83",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "বোর্ডিমিটা",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " পড়াশোনা শেষ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e7c11bb4-8b67-4e66-ae7d-d400f5d7306d",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "অডেন পাবলিক স্কুলে",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " পড়াশোনা শেষ করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d26ae63d-ed5c-4489-9cc7-b11591f5842a",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "জেএসএস টেকনিক্যাল এডুকেশন একাডেমি",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": "তে আমার ডিগ্রি শেষ করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "2381e70f-1acd-4921-9c57-fffffe55f5c4",
+    "data": [
+      {
+        "text": "জৈন বিশ্ববিদ্যালয়",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " থেকে স্নাতক হয়েছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "e1b14a57-0503-4411-ba79-cd725a3f1cb6",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "ভিটিউতে",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " পড়াশোনা করি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "11cfebf8-8539-4f5d-b90f-e0d044ee748b",
+    "data": [
+      {
+        "text": "আমি ভিটিইউতে পড়ছি - ",
+        "userDefined": false
+      },
+      {
+        "text": "বিশ্বেশ্বর্যা টেকনোলজিকাল বিশ্ববিদ্যালয়",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "44ab168f-719a-4617-a66b-f28c0564ff0f",
+    "data": [
+      {
+        "text": "আমি যেখানে পড়াশুনা করেছি সেখানে ",
+        "userDefined": false
+      },
+      {
+        "text": "কুমারস",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ad250afd-b978-494c-94a6-3f1362ee2755",
+    "data": [
+      {
+        "text": "আমি ",
+        "userDefined": false
+      },
+      {
+        "text": "ওয়েস্টারতে",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " পড়াশোনা করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "3a1193f6-bec7-4a80-bfae-666c77d3b5fd",
+    "data": [
+      {
+        "text": "আমার কলেজের নাম ",
+        "userDefined": false
+      },
+      {
+        "text": "দীক্ষা পিইউ সেন্টার",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "7c0ab41f-e670-46f9-b267-f5b1b6671b0b",
+    "data": [
+      {
+        "text": "আমি আমার পড়াশোনা ",
+        "userDefined": false
+      },
+      {
+        "text": "এসজেবিআইটি",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": "তে করেছি",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

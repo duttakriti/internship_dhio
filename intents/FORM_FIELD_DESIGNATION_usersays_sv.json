@@ -1,0 +1,338 @@
+[
+  {
+    "id": "54705c62-05f4-40af-9205-5f2139909e50",
+    "data": [
+      {
+        "text": "డెలివరీ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఏజెంట్‌గా పనిచేస్తున్నారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a6f87329-6dfe-427e-b0a2-ddd8036802cf",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "సేల్స్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగంలో ఉన్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "2192d00b-f531-4e9e-ad68-98c87246ed06",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "సేల్స్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " జాబ్ చేస్తాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "cd8a8760-5080-4f0d-95f0-206836435a4c",
+    "data": [
+      {
+        "text": "నా ఉద్యోగ పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "టైలరింగ్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "92af758f-104a-4ee1-8d6b-ea1ca0b2ac55",
+    "data": [
+      {
+        "text": "టైలరింగ్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " నా పని",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3d391809-b7be-40b0-b899-a987e52c771b",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "చిత్రకారుడిని",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "2948ccfb-e551-4ecb-978c-654a402e4468",
+    "data": [
+      {
+        "text": "నా రుక్తి   ",
+        "userDefined": false
+      },
+      {
+        "text": "పెయింటింగ్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "6d8beb24-95a5-4943-ab0f-de77512ac9d5",
+    "data": [
+      {
+        "text": "\n నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "ఎలక్ట్రీషియన్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7cb0ec7d-b80d-43a0-bfd3-33dbec34db31",
+    "data": [
+      {
+        "text": "టీచర్‌గా",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " పనిచేస్తున్నారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "61e7b296-9477-479d-9619-1cea9fcc1260",
+    "data": [
+      {
+        "text": "నాది ",
+        "userDefined": false
+      },
+      {
+        "text": "బిపిఓ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " టెలికాలర్ ఉద్యోగం",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "82056c0a-edd4-4bf0-b68a-551975ac589f",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "బీయూటిషన్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": "  యొక్క వృత్తిని ఎంచుకున్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "00d43e69-61b5-41f7-a8d5-96a7ea53bba9",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "అకౌంటెంట్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "adc2aa5b-9637-43ab-b1b2-50850d0ad492",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "వెల్డింగ్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " పనిలో ప్రత్యేకత కలిగి ఉన్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "f11a435e-c47b-437c-9a88-f1d1c0c1557b",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "టెలికాలర్ / బిపిఓగా",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " పనిచేశాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "795e6309-fd24-4410-8739-ca5f9b139a4e",
+    "data": [
+      {
+        "text": "మైసూర్‌లోని నా ",
+        "userDefined": false
+      },
+      {
+        "text": "రిసెప్టివ్‌నిస్ట్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగంలో ఉద్యోగం పొందాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "91eb05ba-2d0a-4b43-abc8-4e7b565c87a2",
+    "data": [
+      {
+        "text": "నేను నా ఇతర ",
+        "userDefined": false
+      },
+      {
+        "text": "విద్యార్థి / ఫ్రెషర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగం కోసం చూస్తున్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

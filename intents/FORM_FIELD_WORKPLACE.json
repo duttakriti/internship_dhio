@@ -1,0 +1,64 @@
+{
+  "id": "ad4dbeba-22ee-4930-98a7-06f76ab02bdf",
+  "name": "FORM_FIELD_WORKPLACE",
+  "auto": true,
+  "contexts": [
+    "workplace_form_field"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "workplace_form_field",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8661dc5a-f507-42ff-8e47-ff8ba1601493",
+          "name": "workplace-name",
+          "required": false,
+          "dataType": "@workplace-name",
+          "value": "$workplace-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "ವಾವ್ ಸೊಗಸಾಗಿದೆ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

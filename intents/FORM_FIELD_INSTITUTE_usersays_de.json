@@ -1,0 +1,287 @@
+[
+  {
+    "id": "5e22bcc1-abfe-499d-a028-0205dab17373",
+    "data": [
+      {
+        "text": "ನಾನು ಕನ್ನಡ ಮಾಧ್ಯಮದ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸರ್ಕಾರಿ ಶಾಲೆಯಲ್ಲಿ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಕಲಿತದ್ದು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "08a5cf5c-af5a-48ba-8d50-395a04da37aa",
+    "data": [
+      {
+        "text": "ನನ್ನ ಶಿಕ್ಷಣ ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸಿರಸಿ",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ತಾಲೂಕಿನ ಪುಟ್ಟ ಹಳ್ಳಿಯಲ್ಲಿ ಆಯಿತು. ನನ್ನ ಶಾಲೆ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಬಂಟವಾಳ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8bd6ab9d-575b-4eec-89fb-d455db1fd49c",
+    "data": [
+      {
+        "text": "ನನ್ನ ಓದಿದ್ದು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಮಂಗಳೂರಿನಲ್ಲಿ",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ಒಂದು ಸಂಸ್ಥೆಯಲ್ಲಿ ಅದರ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಆಳ್ವಾಸ್",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "11ad19e8-e3ab-49b5-ada9-99ce16c926d9",
+    "data": [
+      {
+        "text": "BNMIT",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಕಾಲೇಜಿನ ಹೆಸರು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "991e79df-e672-4fb6-990d-6de97a0bc514",
+    "data": [
+      {
+        "text": "೨೦೧೭ರಲ್ಲಿ ನಾನು ನನ್ನ ಓದನ್ನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಗ್ಲೋಬಲ್ ಅಕಾಡೆಮಿ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಮುಗಿಸಿದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5dc11689-871d-4eb0-8957-1b35fe4c4987",
+    "data": [
+      {
+        "text": "ಇಂಜಿನಿಯರಿಂಗ್ ಮುಗಿಸಿದ್ದು ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ವಿಟಿಯು - ವಿಶ್ವೇಶ್ವರಯ್ಯ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "be23774f-0cd6-456d-91ec-ac432f970176",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅಂಬೇಡ್ಕರ್ ವಿದ್ಯಾಸಂಸ್ಥೆಯಲ್ಲಿ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ವ್ಯಾಸಂಗ ಮಾಡಿದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c43e2ec0-0d52-41de-a094-70da48636873",
+    "data": [
+      {
+        "text": "ನಾನು ಶಿಕ್ಷಣವನ್ನು ಪಡೆದ್ದಿದ್ದು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಆಡೆನ್",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "adef34d4-cf79-42a1-b93a-aa4617e3c3e9",
+    "data": [
+      {
+        "text": "ಸರಕಾರಿ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಶಾಲೆಗೆ ನಾನು ಹೋಗಿದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "55cdaca2-f574-40e7-9fed-2e53b126b5dc",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕುಮಾರನ್ಸ್",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಓದಿದ್ದು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3109de34-7d49-4a68-bed1-8ceedf1c0789",
+    "data": [
+      {
+        "text": "ವೆಬ್ಸ್ಟರ್ಸ್",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನನ್ನ ಸ್ಕೂಲ್",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "59590091-11dc-4174-a241-eeb2be99c081",
+    "data": [
+      {
+        "text": "ನನ್ನ ಕಾಲೇಜಿನ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಜೆಎಸ್ಎಸ್",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c71ab59a-6ec6-4ee6-ab66-5e29213fcc54",
+    "data": [
+      {
+        "text": "ನಾನು ಕಲಿತ ಶಾಲೆಯ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅಂಗನವಾಡಿ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

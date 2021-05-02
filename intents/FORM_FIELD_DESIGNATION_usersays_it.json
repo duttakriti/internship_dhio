@@ -1,0 +1,403 @@
+[
+  {
+    "id": "18d12412-b55f-47ae-b43f-d1f77d2d28a7",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "പെയിന്റർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആയി പ്രവർത്തിക്കുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "11d1f031-be73-4d00-af6e-440646ebc10b",
+    "data": [
+      {
+        "text": "ഡ്രൈവർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആയി പ്രവർത്തിക്കുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b0cceaa6-de36-4d5c-83c8-72a461c0e119",
+    "data": [
+      {
+        "text": "ഡെലിവറി",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ഏജന്റായി പ്രവർത്തിക്കുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2f9ca082-ae7a-4ad5-a96b-39c01e0535e6",
+    "data": [
+      {
+        "text": "ടീച്ചർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ് എന്റെ ജോലി",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0b222512-1410-47b3-ad42-8095e2394d57",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "സെയിൽസ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലിയിലാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e5db23dd-2a24-4490-a522-3056fb44fa74",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "സെയിൽസ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോബ് ചെയ്യുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1e47b907-d6f5-4437-9dfe-893334e289fe",
+    "data": [
+      {
+        "text": "എന്റെ ജോലിയുടെ പേര് ",
+        "userDefined": false
+      },
+      {
+        "text": "തയ്യൽ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1f233067-70ab-4355-b9d3-d214429ef4a8",
+    "data": [
+      {
+        "text": "എന്റെ ജോലി ",
+        "userDefined": false
+      },
+      {
+        "text": "തയ്യൽ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "69ff1246-c529-466d-83c1-b96f66d9c6a7",
+    "data": [
+      {
+        "text": "എന്റെ ജോലി ",
+        "userDefined": false
+      },
+      {
+        "text": "പെയിന്റിംഗ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9d24ec40-4dfd-4d21-88e8-a7821ef0d34d",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "ഇലട്രീഷ്യൻ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "530044bf-1cbc-46b0-a7cf-62f0a2bb414c",
+    "data": [
+      {
+        "text": "നേഴ്സ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ് എന്റെ ജോലി",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1b840338-0010-43e1-b399-93044d92c1cb",
+    "data": [
+      {
+        "text": "അധ്യാപകൻ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആയി പ്രവർത്തിക്കുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e43b3687-a214-4b30-ada4-9e8780b2e549",
+    "data": [
+      {
+        "text": "എന്റേത് ഒരു ",
+        "userDefined": false
+      },
+      {
+        "text": "ബിപിഒ / ടെലികോളർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലിയാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "790c6665-70f6-4dd7-a248-4da8283a3ed1",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "ബ്യൂട്ടീഷ്യൻ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " കരിയർ തിരഞ്ഞെടുത്തു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5ff0b312-6b8f-42a9-a9eb-b4835b59689f",
+    "data": [
+      {
+        "text": "ഞാൻ ",
+        "userDefined": false
+      },
+      {
+        "text": "അകൗണ്ടന്റ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f442209e-655e-41d3-9475-a6db37ae97d9",
+    "data": [
+      {
+        "text": "വെൽഡിംഗ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലികൾ ചെയ്യാൻ സാധിക്കും",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2ffa3232-0309-4327-bcab-070955d1b862",
+    "data": [
+      {
+        "text": "ഞാൻ ഒരു ",
+        "userDefined": false
+      },
+      {
+        "text": "ടെലികോളർ / ബിപിഒ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആയി ജോലി ചെയ്തു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "96bbdad3-edf3-4f5b-980a-865f7b1a278e",
+    "data": [
+      {
+        "text": "ഞാൻ മൈസൂരിൽ ",
+        "userDefined": false
+      },
+      {
+        "text": "റിസപ്ഷനിസ്റ്റായി",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി ചെയ്യുകയായിരുന്നു",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a3f79590-f057-48f4-9489-f83ad766d098",
+    "data": [
+      {
+        "text": "ഞാൻ ഇപ്പോഴും ",
+        "userDefined": false
+      },
+      {
+        "text": "വിദ്യാർത്ഥി/ഫ്രെഷർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി തേടുകയാണ്",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

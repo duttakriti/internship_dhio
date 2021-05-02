@@ -1,0 +1,275 @@
+[
+  {
+    "id": "5da2a81e-63c0-4b42-b254-7fd2e80b4e46",
+    "data": [
+      {
+        "text": "আবার ঠিক করো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1e090562-843d-4eac-9ef6-1b9c5a655236",
+    "data": [
+      {
+        "text": "ঠিক করে দাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6179b620-71c9-40e1-87be-f9830a48da57",
+    "data": [
+      {
+        "text": "পাল্টে দাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d7006f6c-f3d4-4d45-916e-a849cdf1b124",
+    "data": [
+      {
+        "text": "সেটিং এ নিয়ে চলো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "91671346-b6dd-4f20-84bf-2dc249ee3462",
+    "data": [
+      {
+        "text": "সেট",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "fbdf075b-4701-4f0a-814e-810a8f1fe00d",
+    "data": [
+      {
+        "text": "সেটিংস এ নিয়ে যাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "fb23ed9e-7ecf-44a3-b9bb-8064aeda0fad",
+    "data": [
+      {
+        "text": "কি করে সেটিংস",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "4e78a03e-7131-407a-b89a-6a0017d41e8a",
+    "data": [
+      {
+        "text": "কি করে সেটিংস বদলাবে",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "68e36303-cd5c-43a1-bff1-9b9e9df32409",
+    "data": [
+      {
+        "text": "বদলাবো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "6e35efcd-1808-486d-82c8-cf47b446e5af",
+    "data": [
+      {
+        "text": "সেটিংস বদলাবো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "d698f825-f0e1-40d9-8692-aa8d2450624f",
+    "data": [
+      {
+        "text": "এটাকে পাল্টাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "5be569fd-5c85-4a14-be98-7302d950d757",
+    "data": [
+      {
+        "text": "পাল্টাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "0a805de1-37bd-4f87-9554-83917f920551",
+    "data": [
+      {
+        "text": "সেটিং",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "140ee085-9de7-4295-a730-ef771c540c45",
+    "data": [
+      {
+        "text": "সেটিং পাল্টাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "5af67a47-1388-419d-869a-26aca342b807",
+    "data": [
+      {
+        "text": "কি করে পাল্টাবো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "257844cd-95cf-4b68-be26-0afdbc02a503",
+    "data": [
+      {
+        "text": "আমি এটা কি করে পাল্টাবো",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "a7ca49b2-22cb-456f-88fd-8c25deb8c06f",
+    "data": [
+      {
+        "text": "সেটিংস দেখাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "62e152a4-2ecc-473e-91f3-ed7b7404e48a",
+    "data": [
+      {
+        "text": "আমাকে সেটিংস দেখাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "baa9aab5-6f7b-4a98-9609-ee5447752d7d",
+    "data": [
+      {
+        "text": "আমাকে সেটিংস",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f67ffbd6-25a8-493c-a3f5-8eacd1f836db",
+    "data": [
+      {
+        "text": "সেটিংস এ  যাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "ff3c052f-1c68-4ca1-ad13-d12fc68b7a0e",
+    "data": [
+      {
+        "text": "আমাকে সেটিংস এ নিয়ে যাও",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

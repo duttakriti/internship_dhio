@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1ee0e1a2-e39d-405b-ba8b-5a0eaabb268d",
+    "data": [
+      {
+        "text": "I did my studies at ",
+        "userDefined": false
+      },
+      {
+        "text": "SJBIT",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9150d41d-41f9-4dfc-8f30-a3de11f92f28",
+    "data": [
+      {
+        "text": "My college name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Deeksha PU Center",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ff5333b-7cd7-4b26-a34e-617cea06a92a",
+    "data": [
+      {
+        "text": "I did my schooling at ",
+        "userDefined": false
+      },
+      {
+        "text": "Websters",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42ee14ef-9e74-4ecf-80ae-f2ffef0a84ec",
+    "data": [
+      {
+        "text": "Kumarans",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " is where I studied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3f40e06-0fbd-4a4e-b4b4-8f25003031fe",
+    "data": [
+      {
+        "text": "I am studying at ",
+        "userDefined": false
+      },
+      {
+        "text": "VTU -  Visvesvaraya Technological University",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6976f110-16fc-46f0-9fca-0b4d8ea89718",
+    "data": [
+      {
+        "text": "I graduated from ",
+        "userDefined": false
+      },
+      {
+        "text": "Jain University",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0c4eb0d-e5b8-4dbc-ae38-4a60a7aa4393",
+    "data": [
+      {
+        "text": "I completed my degree at ",
+        "userDefined": false
+      },
+      {
+        "text": "JSS Academy of Technical Education",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d40b74a2-410f-49fe-acec-602138c5413f",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "finished",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "education",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Auden Public School",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "348fa0a7-318c-42e3-a56e-2560889cd62b",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "studied",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "BNMIT",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

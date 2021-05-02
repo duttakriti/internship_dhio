@@ -1,0 +1,695 @@
+[
+  {
+    "id": "f7a1dedb-11a5-4480-b29f-7c3d1d83e5bd",
+    "data": [
+      {
+        "text": "నాపేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "నాగార్జున్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "436c82fa-494d-4846-8b00-d910634d5772",
+    "data": [
+      {
+        "text": "\n నా పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "కుమార్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7329c310-c152-4824-9843-65124382e8ff",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "సంతోష్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "cd2e963b-7481-4274-bd9d-d23ae859f9ab",
+    "data": [
+      {
+        "text": "రాజేష్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "కులకర్ణి",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a6f7f4ed-6398-43cd-8264-d7babf3f526e",
+    "data": [
+      {
+        "text": "శ్రీనిధి",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "భరద్వాజ్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " నా పేరు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "cccd7d36-4487-49e2-800b-6e3bbb34b173",
+    "data": [
+      {
+        "text": "నా పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "రాము",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b1e41c1f-5019-4ff6-b897-545608a7edf4",
+    "data": [
+      {
+        "text": "నన్ను ",
+        "userDefined": false
+      },
+      {
+        "text": "నిఖిత",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": "  అని పిలుస్తారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b1d00a71-f7af-4462-9bb8-5db8718ef037",
+    "data": [
+      {
+        "text": "నా పూర్తి పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "రంజని",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "రాఘవన్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "06304641-6b8f-43a2-8482-581a3917c500",
+    "data": [
+      {
+        "text": "కవిత",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " నా మొదటి పేరు, ",
+        "userDefined": false
+      },
+      {
+        "text": "రావు",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " నా చివరి పేరు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "2dc67d54-e34b-48ee-8215-42b9c6ec67ff",
+    "data": [
+      {
+        "text": " నన్ను ",
+        "userDefined": false
+      },
+      {
+        "text": "విజయ్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "సూర్య",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " అని పిలుస్తారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "fdd39cea-b5ab-4b7a-84e5-1ee6508bebc7",
+    "data": [
+      {
+        "text": "శ్రీనివాస్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "రామేగౌడ",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a5f83bc8-4582-4c03-b760-49db60555938",
+    "data": [
+      {
+        "text": "దివ్య",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "రావు",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "dff2a32e-1c12-4b36-a36f-2968aee79781",
+    "data": [
+      {
+        "text": "షమల",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "నటరాజ్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "820a1ac1-f74a-4a02-abad-773e67c6f5d1",
+    "data": [
+      {
+        "text": "కుమారి",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "కమల",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " నా పేరు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "e57ac17d-697e-4731-a48c-dfd60f67e2ba",
+    "data": [
+      {
+        "text": "నా పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "కమల",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "కుమారి",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "a335c0df-6e23-413b-8162-9baa5d1f5cde",
+    "data": [
+      {
+        "text": "పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "కోకిల",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "4b8aa124-3af1-45aa-9847-e809659c6ecc",
+    "data": [
+      {
+        "text": "నన్ను ",
+        "userDefined": false
+      },
+      {
+        "text": "భీమ్ రావు",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "అంబేద్కర్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " అని పిలుస్తారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "ab456fc0-676e-4165-b99d-ec0086b06ff9",
+    "data": [
+      {
+        "text": "నన్ను ",
+        "userDefined": false
+      },
+      {
+        "text": "రాణి",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "చింతామణి",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " అంటారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "3090d0b5-8269-49b6-a3ee-7a4d4d5ad31a",
+    "data": [
+      {
+        "text": "రాజా",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "గోపాల్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "2d24f913-2348-4fcc-929a-ee4a7b81db63",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "యువరాజు",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "4d5b2c53-1e97-4cf0-9d98-4c1b1d5ac658",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "లక్ష్మీ",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "కృష్ణమూర్తి",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b24e424d-7089-49b4-99ca-9155d0c1dc1a",
+    "data": [
+      {
+        "text": "నేను ",
+        "userDefined": false
+      },
+      {
+        "text": "భట్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ఇంటి కుర్రాడు ",
+        "userDefined": false
+      },
+      {
+        "text": "నరేంద్ర",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "945db370-53d9-46a2-b057-b342add5a5f1",
+    "data": [
+      {
+        "text": "పుట్టీ నా ఇతర పేరు కాని నా అధికారిక పేరు ",
+        "userDefined": false
+      },
+      {
+        "text": "భార్గవి",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "1a9b7407-ab76-4742-90d8-20484ed952e5",
+    "data": [
+      {
+        "text": "పెద్దలు నాకు ",
+        "userDefined": false
+      },
+      {
+        "text": "సంకృతి",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "కట్టి",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " అనే పేరు పెట్టారు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "d45feda7-270e-4b9d-a4a6-f178242cf5eb",
+    "data": [
+      {
+        "text": "సురేష్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "హెబ్లిఖర్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "87c07cf4-ad42-4f24-8fb9-e5e5865c3350",
+    "data": [
+      {
+        "text": "\n ",
+        "userDefined": false
+      },
+      {
+        "text": "రైనా",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "హెబ్లికర్",
+        "meta": "@last-name",
+        "alias": "last-name",
+        "userDefined": true
+      },
+      {
+        "text": " నా పూర్తి పేరు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "92da3add-2cf6-443e-b715-e62cef5c4ac9",
+    "data": [
+      {
+        "text": "నను ",
+        "userDefined": false
+      },
+      {
+        "text": "శ్రీనివాస్",
+        "meta": "@given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

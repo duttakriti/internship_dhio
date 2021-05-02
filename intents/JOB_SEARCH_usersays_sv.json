@@ -1,0 +1,404 @@
+[
+  {
+    "id": "9cc578b0-7ab5-41b8-91f6-653f7d35edd1",
+    "data": [
+      {
+        "text": "మైసూర్లో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "డెలివరీ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": false
+      },
+      {
+        "text": " జాబ్స్ చూపించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "eb2de08b-f244-452f-ae22-f29f2fe58dd0",
+    "data": [
+      {
+        "text": "నాకు ",
+        "userDefined": false
+      },
+      {
+        "text": "బెంగళూరులో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "డ్రైవర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగాలు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "d2bdd342-1f03-43d5-b9a9-52244db19c84",
+    "data": [
+      {
+        "text": "నాకు ",
+        "userDefined": false
+      },
+      {
+        "text": "బెంగళూరులో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "డెలివరీ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగం చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "8b8cf753-b577-47ce-8e19-9038d765a52a",
+    "data": [
+      {
+        "text": "మైసూర్‌లో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "డ్రైవర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగాలు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "256a380b-decf-4486-be25-78805c682016",
+    "data": [
+      {
+        "text": "బెంగళూరు",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "కుక్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " పనిని చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "ec333b5b-a4a8-485d-bbed-eebd644474ac",
+    "data": [
+      {
+        "text": "కుక్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉదియోగం ",
+        "userDefined": false
+      },
+      {
+        "text": "బెంగళూరులో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " చూపించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "6ee170d8-6e02-4569-931a-780edb23eecb",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "మంగుళూరులో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "డ్రైవర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఐయ్యిండ్డాను,  డ్రైవర్ ఉదియోగం చూపించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "60ba91be-6b07-40c0-8592-cd9201c736e7",
+    "data": [
+      {
+        "text": "డ్రైవర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉండను  ",
+        "userDefined": false
+      },
+      {
+        "text": "బెంగళూరులో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " డెలివరీ పని చూపించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "843da21c-0450-407c-a5c1-2720cd9b9147",
+    "data": [
+      {
+        "text": "హౌస్ కీపింగ్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " జాబ్ చూపించండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "714f72d5-a91b-4d9d-bf6b-1c851a69a943",
+    "data": [
+      {
+        "text": "నర్సు",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " పని ఉంటె చూపించండి ",
+        "userDefined": false
+      },
+      {
+        "text": "బెంగళూరులో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "c2f58d81-cf1e-42c5-be62-e7bd43c87a86",
+    "data": [
+      {
+        "text": "మైసూర్‌లో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "వెల్డింగ్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగం గురించి చెప్పండి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "d3ee7ae9-16c5-4e2d-8f8a-183d59666c66",
+    "data": [
+      {
+        "text": "ఒక ",
+        "userDefined": false
+      },
+      {
+        "text": "టీచర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": "  పనిని నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "0f266a69-ef3c-48a1-8a42-8b3e6a255cb9",
+    "data": [
+      {
+        "text": "తుమ్కూర్‌లో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "బిపిఓ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ఉద్యోగాలు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "ef07eb57-708f-49d9-a047-e06f1611f4f8",
+    "data": [
+      {
+        "text": " పనీ చూపించండి ",
+        "userDefined": false
+      },
+      {
+        "text": "మాండ్యలో",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ఫ్యాక్టరీ వర్కర్",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " పని",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

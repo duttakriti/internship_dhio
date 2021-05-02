@@ -1,0 +1,89 @@
+[
+  {
+    "id": "05532822-c33e-4eda-84b4-62b3f957dc3f",
+    "data": [
+      {
+        "text": "show me my favourite jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55189186-f88f-4892-a28b-dee6f6c5f71b",
+    "data": [
+      {
+        "text": "show me favourite jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce90eabb-46ba-4974-b7f3-6a90d559411b",
+    "data": [
+      {
+        "text": "show saved jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47aca32b-fb8d-4151-a438-4535c3cdf90c",
+    "data": [
+      {
+        "text": "favourite jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7bdd0d4-1ea6-4626-81b8-418eecd2b8dc",
+    "data": [
+      {
+        "text": "saved jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02c545bc-449d-4fd2-bc0a-289523d13da7",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saved jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

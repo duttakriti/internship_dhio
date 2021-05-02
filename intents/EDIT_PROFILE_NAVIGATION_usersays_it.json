@@ -1,0 +1,280 @@
+[
+  {
+    "id": "715131e2-2883-4e75-a5cf-79488bcbdae6",
+    "data": [
+      {
+        "text": "എന്റെ പ്രൊഫൈൽ തിരുത്തുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "86759619-a389-4a12-8663-ed1b46b7030a",
+    "data": [
+      {
+        "text": "എന്റെ ഫോട്ടോ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " മാറ്റുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "b297e6b2-1e5a-4927-b38c-c023d9d94ce2",
+    "data": [
+      {
+        "text": "പ്രൊഫൈൽ കാണിക്കുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8b6ebd07-971f-4b57-a484-d21d19d8ca93",
+    "data": [
+      {
+        "text": "എഡിറ്റ് പ്രൊഫൈൽ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "a803921a-1721-49e4-897a-29bb874bea2a",
+    "data": [
+      {
+        "text": "എന്റെ പ്രൊഫൈൽ എഡിറ്റ്  ചെയ്യൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "403419a6-14d8-45a7-8066-006e59bdd114",
+    "data": [
+      {
+        "text": "എന്റെ പ്രൊഫൈൽ എഡിറ്റ്  ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "aab7b5c9-3de2-4d24-acd4-cca58e9072d2",
+    "data": [
+      {
+        "text": "എന്റെ പ്രൊഫൈൽ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "87a2acfd-fbfd-4cd2-b5c7-95ba7e64a1ef",
+    "data": [
+      {
+        "text": "എന്റെ പ്രൊഫൈൽ കാണിക്കുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dcd801b4-5bd1-4376-8284-a58700e7e96c",
+    "data": [
+      {
+        "text": "എന്റെ ഈമെയിൽ എഡിറ്റ്  ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "08a8cf31-250d-43f2-ad46-4799fed3240f",
+    "data": [
+      {
+        "text": "ഈമെയിൽ എഡിറ്റ്  ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f1c77ce2-e0b9-4b31-9c62-42fc9597d7a4",
+    "data": [
+      {
+        "text": "എന്റെ പരിചയം എഡിറ്റ്  ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8613b7a4-a9d3-4346-a232-ce63001244b9",
+    "data": [
+      {
+        "text": "പരിചയം എഡിറ്റ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d05fa494-1ad7-42b7-a11a-92efb901b7e3",
+    "data": [
+      {
+        "text": "എന്റെ പരിചയം എഡിറ്റ്  ചെയ്യൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "e9a0bf3b-8f87-4a34-8c5f-5454bdc0ec06",
+    "data": [
+      {
+        "text": "എന്റെ വിദ്യാഭ്യാസം എഡിറ്റ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "bf4f8acf-e523-4749-87ad-3cc7a66ba46e",
+    "data": [
+      {
+        "text": "വിദ്യാഭ്യാസം എഡിറ്റ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "0e2dc19f-8afb-4271-abe5-17a8b25ea610",
+    "data": [
+      {
+        "text": "പേര് ചെയിഞ്ച് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "5effda17-4502-486a-8c09-855a6f143497",
+    "data": [
+      {
+        "text": "തൊഴില്  മാറ്റുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "9aa2bb0c-05d3-4064-881a-9952ba72c736",
+    "data": [
+      {
+        "text": "പേര് മാറ്റുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "1cd7b1e8-a72e-4e76-a34c-657a25440b5b",
+    "data": [
+      {
+        "text": "എക്സ്പീരിയൻസ് മാറ്റുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "f80e0362-db16-4723-95e9-0b633429aab6",
+    "data": [
+      {
+        "text": "ഫോൺ നമ്പർ മാറ്റുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "c692d703-a7a8-4f54-ab5f-599eac254f94",
+    "data": [
+      {
+        "text": "ഭാഷ എഡിറ്റ് ചെയ്യുക",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

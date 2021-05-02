@@ -1,0 +1,66 @@
+{
+  "id": "c66d7b9c-dbb1-459a-a1e3-cb614b1404b2",
+  "name": "FORM_FIELD_DESIGNATION",
+  "auto": true,
+  "contexts": [
+    "designation_form_field"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "designation_form_field",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2d635aae-e68d-42be-96d0-c4e5dbc385aa",
+          "name": "job",
+          "required": false,
+          "dataType": "@job",
+          "value": "$job",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "ಲಕ್ಷಣವಾದ ವೃತ್ತಿಯನ್ನು ಆರಿಸಿಕೊಂಡಿದ್ದೀರಾ",
+            "ನಿಮ್ಮ ವೃತ್ತಿಯನ್ನು ನಾವು ಮೆಚ್ಚುತ್ತೇವೆ",
+            "ಸೊಗಸಾದ ಕೆಲಸವನ್ನು ಆರಿಸಿದ್ದೀರ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

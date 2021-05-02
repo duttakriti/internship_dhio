@@ -1,0 +1,171 @@
+[
+  {
+    "id": "d65bf68a-721f-4b00-b0b6-9a81f1d17c3d",
+    "data": [
+      {
+        "text": "నేను ఏ ఉద్యోగాల కోసం దరఖాస్తు చేసుకున్నాను",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "7d0e7e82-9837-4c53-8e97-ad6dcf6cab87",
+    "data": [
+      {
+        "text": "నా అప్లికేషన్  నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "5a77c5d9-8d68-4334-8b76-be260200344c",
+    "data": [
+      {
+        "text": "దరఖాస్తు చేసిన ఉద్యోగాలను నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b6aaa280-75ae-4ce7-89c3-0a1efaef781f",
+    "data": [
+      {
+        "text": "నేను దరఖాస్తు చేసుకున్న ఉద్యోగాలను నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "fb11e74b-8549-4794-a0f0-b1be37c6f20a",
+    "data": [
+      {
+        "text": "అప్లైడ్ జాబ్స్",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "50e938aa-6655-4bf3-b5b8-aa53d75f31ba",
+    "data": [
+      {
+        "text": "అనువర్తిత ఉద్యోగాలను చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "b9f5de5e-d25f-41ab-a169-fef51b5fb9fe",
+    "data": [
+      {
+        "text": "అనువర్తితచేసిన ఉద్యోగాలను చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "9e4a16f5-5a58-447f-991b-32e8fb991892",
+    "data": [
+      {
+        "text": "నా పనిని నాకు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "75bf23b7-d4f0-4648-ae78-e4c83de3f87d",
+    "data": [
+      {
+        "text": "అప్లై చేసినపనిని చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "581dc032-f4c1-4197-b83f-b052cc6f072f",
+    "data": [
+      {
+        "text": "అప్లైడ్  పని",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "62ac48cb-d6a2-40f5-a62e-7d3bb65b83bf",
+    "data": [
+      {
+        "text": "అప్లై చేసిన పని",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "1a8463d3-241f-496d-b200-633553680f2a",
+    "data": [
+      {
+        "text": "నా అనువర్తిత ఉద్యోగాలు ఏమిటి",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  },
+  {
+    "id": "2c626116-1d4b-4f13-9b21-944ee2e9b18f",
+    "data": [
+      {
+        "text": "నాకు అనువర్తిత ఉద్యోగాలు చూపించు",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "sv",
+    "updated": 0
+  }
+]

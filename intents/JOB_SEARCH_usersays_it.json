@@ -1,0 +1,457 @@
+[
+  {
+    "id": "43ec7cd1-85ce-4b70-a823-48db2fd05a7b",
+    "data": [
+      {
+        "text": "ട്രിച്ചൂർ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ഉള്ള ",
+        "userDefined": false
+      },
+      {
+        "text": "ഡ്രൈവർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " പണികൾ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "99dd9497-11f3-4115-96cc-9795d5a5a3f9",
+    "data": [
+      {
+        "text": "ട്രിച്ചൂർ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " -ൽ ഉള്ള ",
+        "userDefined": false
+      },
+      {
+        "text": "ഡെലിവറി",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "dde7ec7e-921e-4ff8-ad9e-dd7ae3914e05",
+    "data": [
+      {
+        "text": "കണ്ണൂരിൽ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "വാഹനം ഓടിക്കുന്ന",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "061dbeb4-4015-4239-a2c2-44a0648958d4",
+    "data": [
+      {
+        "text": "കോഴിക്കോട്",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ഒഴിവുള്ള ",
+        "userDefined": false
+      },
+      {
+        "text": "കുക്ക്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "d19e8fd9-a470-4498-b0fa-e245d0ffc83f",
+    "data": [
+      {
+        "text": "കോഴിക്കോട്ട്",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " കുക്ക് ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "42ccb429-efe0-47b3-aa51-4a18bdc62fa2",
+    "data": [
+      {
+        "text": "എറണാകുളത്ത്",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ഡ്രൈവർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ്, കൊല്ലത്ത് ഡ്രൈവർ ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "682f8a10-61d4-4710-a833-ca9da9cbfe41",
+    "data": [
+      {
+        "text": "ഡ്രൈവർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ആണ്, ",
+        "userDefined": false
+      },
+      {
+        "text": "കൊല്ലത്ത്",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ഡെലിവറി ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "64156fab-b1bc-48b2-8cff-2e8e9f611847",
+    "data": [
+      {
+        "text": "ഹൗസ് കീപ്പിംഗ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "668a1058-a0b6-4d0c-b3d3-a971a9021322",
+    "data": [
+      {
+        "text": "എറണാകുളത്ത് ",
+        "userDefined": false
+      },
+      {
+        "text": "നേഴ്സ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി ഉണ്ടെങ്കിൽ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "36fa1789-4ca3-4523-b3ba-9992dd97a791",
+    "data": [
+      {
+        "text": "തൃശൂരിൽ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "വെൽഡിംഗ്",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി ഉണ്ടങ്കിൽ പറയൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "2eb06093-d28e-490f-a796-b3be81f824ae",
+    "data": [
+      {
+        "text": "എന്നെ ",
+        "userDefined": false
+      },
+      {
+        "text": "അധ്യാപക",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലികൾ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "6014b9fa-4fe0-46f6-9ec2-0bb3dae3274d",
+    "data": [
+      {
+        "text": "ബി പി ഓ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി കോട്ടയത്ത് വേണം",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "4e0fd378-8c60-43e6-91ef-c441aa2a5afd",
+    "data": [
+      {
+        "text": "എറണാകുളത്തെ ",
+        "userDefined": false
+      },
+      {
+        "text": "ഫാക്ടറി വർക്കർ",
+        "meta": "@job",
+        "alias": "job",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലികൾ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "115da54f-2aba-4834-b2b4-fd5ea01ba817",
+    "data": [
+      {
+        "text": "എറണാകുളം",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "13c56c62-9241-437c-a733-891394583273",
+    "data": [
+      {
+        "text": "കൊല്ലം",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7819904b-df23-4236-a18e-c8414d85adef",
+    "data": [
+      {
+        "text": "എന്നെ എല്ലാവിധ ജോലികൾ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "77e13e17-7741-4076-a612-44290055f75b",
+    "data": [
+      {
+        "text": "എന്നെ എല്ലാവിധ ജോലികളും കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "7e6cdbd2-dd5e-447c-8335-75a3819bc367",
+    "data": [
+      {
+        "text": "എല്ലാവിധ ജോലികളും കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "94f00d7e-ca9d-4889-b750-fff13babdf38",
+    "data": [
+      {
+        "text": "തിരുവനന്തപുരത്തെ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലി എന്നെ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "8b62f212-627e-455d-9627-3d5968df2d38",
+    "data": [
+      {
+        "text": "തിരുവനന്തപുരത്തെ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലികൾ എന്നെ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  },
+  {
+    "id": "3ae65617-d54e-442a-8dcf-43cf7e4088e1",
+    "data": [
+      {
+        "text": "തിരുവനന്തപുരത്തെ",
+        "meta": "@job-location",
+        "alias": "job-location",
+        "userDefined": true
+      },
+      {
+        "text": " ജോലികൾ കാണിക്കൂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "it",
+    "updated": 0
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "id": "a09bbe24-f12b-43f7-a3ab-96bfd2864aea",
+  "name": "EDIT_PROFILE_NAVIGATION",
+  "auto": true,
+  "contexts": [
+    "navigation_and_job_search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "navigation_and_job_search",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "आपले प्रोफाइल येथे संपादित करा"
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ನೀವು ಇಲ್ಲಿಂದ ನಿಮ್ಮ ಪ್ರೊಫೈಲಿನಲ್ಲಿರುವ ಹೆಸರು,ಫೋಟೋ,ವಯಸ್ಸು,ವೃತ್ತಿ,ಶಿಕ್ಷಣ,ಅನುಭವ ಮತ್ತು ಇತರ ಮೂಲ ಮಾಹಿತಿಗಳನ್ನೂ ಬದಲಿಸಬಹುದು"
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "നിങ്ങളുടെ പ്രൊഫൈൽ ഇവിടെ എഡിറ്റുചെയ്യാം"
+          },
+          "textToSpeech": "",
+          "lang": "it",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "আপনি এখানে আপনার প্রোফাইল সম্পাদনা করতে পারেন"
+          },
+          "textToSpeech": "",
+          "lang": "ja",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "ఇక్కడ నుండి మీరు మీ ప్రొఫైల్‌లో పేరు, వయస్సు, వృత్తి, విద్య, అనుభవం మరియు ఇతర ప్రాథమిక సమాచారాన్ని మార్చవచ్చుు"
+          },
+          "textToSpeech": "",
+          "lang": "sv",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "உங்கள் ப்ரொபைல்  பெயர், போட்டோ, வயது, தொழில், கல்வி, அனுபவம் மற்றும் பிற அடிப்படை தகவல்களையும் இங்கிருந்து மாற்றலாம்"
+          },
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "You can edit your profile here"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "DEFAULT": "आप अपनी प्रोफ़ाइल को यहां संपादित कर सकते हैं"
+          },
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

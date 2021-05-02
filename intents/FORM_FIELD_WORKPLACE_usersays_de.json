@@ -1,0 +1,299 @@
+[
+  {
+    "id": "76f84a92-1e3f-4e98-ab91-ab54338b1fe6",
+    "data": [
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಗೆ ಕೆಲಸ ಮಾಡಿದ್ದೀನಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "63e44509-4b00-4312-8aad-bf56487b47f1",
+    "data": [
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಗೆ ಮಾಡಿದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c74f3ef5-460f-4a6f-a13f-c21481d94a26",
+    "data": [
+      {
+        "text": "ಝೋಮ್ಯಾಟೊ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಮಾಡಿದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5fd6a0d5-7ab9-491a-80f7-123ef2311364",
+    "data": [
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a1f49a13-d6e6-436d-9b62-ee9faba8b1f9",
+    "data": [
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದೀನಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1381661a-3a75-4bc8-ab01-61920793e141",
+    "data": [
+      {
+        "text": "ಓಲಾ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ದಲ್ಲಿ ಇದ್ದೀನಿ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "087f0826-6d35-49b2-9a7f-2ea26654bafb",
+    "data": [
+      {
+        "text": "ಅಮೆಜಾನ್",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "704cb48f-686d-4e7b-bf6b-05d44ee97ebf",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ಡಂಝೋ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ಆಗಿತ್ತು",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "28707500-cb38-4e1e-8556-9451df7fbb0e",
+    "data": [
+      {
+        "text": "ಝೋಮ್ಯಾಟೊ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಇದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "48d238a9-5e5b-4fe7-a0e9-0b8bc34b4812",
+    "data": [
+      {
+        "text": "ಓಲಾ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ದಲ್ಲಿ ನಾನು ಇದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "014903f6-afa0-4e71-b205-4877a72d0276",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಅಮೆಜಾನ್",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "82dd1007-bd94-4e64-a70e-464c99f9fcef",
+    "data": [
+      {
+        "text": "ನಾನು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದ ಜಾಗದ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಸ್ವಿಗ್ಗಿ",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "511e4521-1d5b-4c84-a7d3-bfc913ec29f3",
+    "data": [
+      {
+        "text": "ನನ್ನ ಕೆಲಸ ಮಾಡಿದ ಕಂಪನಿ ಹೆಸರು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಕಾಗ್ನಿಜೆಂಟ್",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "164cbba3-9429-4676-b9fa-66a26b4d751d",
+    "data": [
+      {
+        "text": "ಅಕ್ಸೆಂಚರ್",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ನಾನು ಕೆಲಸದಲ್ಲಿ ಇದ್ದೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1bc14474-d36a-49a9-9f59-543d4f7b173c",
+    "data": [
+      {
+        "text": "ನಾನು ",
+        "userDefined": false
+      },
+      {
+        "text": "ಇನ್ಫೋಸಿಸ್",
+        "meta": "@workplace-name",
+        "alias": "workplace-name",
+        "userDefined": true
+      },
+      {
+        "text": " ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದೇನೆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

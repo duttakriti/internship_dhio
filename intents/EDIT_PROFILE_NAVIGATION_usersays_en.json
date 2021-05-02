@@ -1,0 +1,301 @@
+[
+  {
+    "id": "474e9701-bbf3-4536-8f1a-8d51ea927a54",
+    "data": [
+      {
+        "text": "change DP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "440f33d5-b92e-4e2f-a9fc-a9a57038c09f",
+    "data": [
+      {
+        "text": "change photo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b63b90d5-6975-4555-a460-17a8b63b612f",
+    "data": [
+      {
+        "text": "add picture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ce84955-875a-40e6-b76e-072c652d2188",
+    "data": [
+      {
+        "text": "add photo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db8910d-7903-440f-a920-81e449d1adc5",
+    "data": [
+      {
+        "text": "add education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8836855c-3b80-4a2c-b64a-c91b20628875",
+    "data": [
+      {
+        "text": "add experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1622fb91-c1c6-4204-b1ac-7c5846d5f7a7",
+    "data": [
+      {
+        "text": "add languages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a915feae-eb75-47b8-ac05-ba08ca0a4f45",
+    "data": [
+      {
+        "text": "view profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4de424e-2283-4788-b3e5-156ef51f342e",
+    "data": [
+      {
+        "text": "profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2615ed-f9ab-4bf2-b96d-79d5527c5036",
+    "data": [
+      {
+        "text": "create profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "accd87ae-c9bf-4856-86eb-f669f307290c",
+    "data": [
+      {
+        "text": "edit my profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a44ebafe-6541-4a8a-b04e-84de722504cb",
+    "data": [
+      {
+        "text": "profile edit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90e4befe-b6cf-4abe-85d8-79027f5d37ee",
+    "data": [
+      {
+        "text": "redeem credits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1693af2-2d79-4c2f-b8e6-9c997a212d4f",
+    "data": [
+      {
+        "text": "redeem points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f60b8a4b-7719-4cf7-87f6-e98bf40479ae",
+    "data": [
+      {
+        "text": "redeem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f5f3f9-8baf-4824-be43-f5531b3dd7e5",
+    "data": [
+      {
+        "text": "edit languages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "266b6391-5869-4242-83a8-5402903f2c71",
+    "data": [
+      {
+        "text": "edit education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6baf60fe-d2c2-4f26-b678-ed5387d549d4",
+    "data": [
+      {
+        "text": "edit experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97e4e5e7-c51e-4ff3-b9b6-4da465084f41",
+    "data": [
+      {
+        "text": "edit photo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b6fb6c6-6cad-4d77-b62e-8db916aa3d52",
+    "data": [
+      {
+        "text": "change my profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee1b09df-6f0d-4eaf-942a-00a2b3c3a5f8",
+    "data": [
+      {
+        "text": "show profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af160868-4cac-466b-96d5-f58fbfc4724a",
+    "data": [
+      {
+        "text": "show me profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d06e21c-6717-4082-948c-9df7e51778a8",
+    "data": [
+      {
+        "text": "edit profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

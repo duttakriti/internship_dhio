@@ -1,0 +1,205 @@
+[
+  {
+    "id": "53965be5-bc69-4946-ba14-3f1630e19b9c",
+    "data": [
+      {
+        "text": "मैंने पढ़ाई ",
+        "userDefined": false
+      },
+      {
+        "text": "सरकारी कॉलेज",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " में की हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "0dcd260a-a653-4d64-836a-4cdbdd8876a1",
+    "data": [
+      {
+        "text": "मेरे स्कूल का नाम ",
+        "userDefined": false
+      },
+      {
+        "text": "वेबस्टर स्कूल",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "c64e11ee-aa8d-4f83-86d9-934cff5f7af8",
+    "data": [
+      {
+        "text": "मेरा कॉलेज का नाम ",
+        "userDefined": false
+      },
+      {
+        "text": "सैंट जोसेफ",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "7da1931f-48ab-46df-8c4b-76add0ac3f64",
+    "data": [
+      {
+        "text": "मैंने ",
+        "userDefined": false
+      },
+      {
+        "text": "सरस्वती विद्या मंदिर",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " से पढ़ाई की हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "25e42287-2e79-49e4-81d2-2d31df60f358",
+    "data": [
+      {
+        "text": "मैंने ",
+        "userDefined": false
+      },
+      {
+        "text": "श्रीराम कॉलेज",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " से पढ़ाई की हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "ed12611b-92a3-4eca-9a77-d3a0db3ba71d",
+    "data": [
+      {
+        "text": "मैंने अपनी डिग्री ",
+        "userDefined": false
+      },
+      {
+        "text": "IIT खड़गपुर",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " में की हैं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "041bc898-8dfd-4cc6-ab0a-9c6eaefeb266",
+    "data": [
+      {
+        "text": "मैं ",
+        "userDefined": false
+      },
+      {
+        "text": "रामजी इंस्टीट्यूट ऑफ टेक्नोलॉजी",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " गया",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "868eb3b5-051c-49ca-9e09-dbe33826bad8",
+    "data": [
+      {
+        "text": "मैंने अपनी इंजीनियरिंग ",
+        "userDefined": false
+      },
+      {
+        "text": "IIT कानपुर",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " में पूरी की",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "d8c929c3-ec6e-4b51-8ceb-91f2af62bfa2",
+    "data": [
+      {
+        "text": "बापूजी संस्थान",
+        "meta": "@institute-name",
+        "alias": "institute-name",
+        "userDefined": true
+      },
+      {
+        "text": " में यह स्टडीज",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]
