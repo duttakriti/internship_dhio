@@ -1,9 +1,0 @@
-{
-  "id": "77fad9ee-4c4e-45f1-9e35-ecccee4492c8",
-  "name": "contact-number",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": false
-}

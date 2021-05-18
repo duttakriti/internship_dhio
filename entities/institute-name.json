@@ -1,9 +1,0 @@
-{
-  "id": "470c1d32-42dc-4e2f-b23c-7f3d14622b20",
-  "name": "institute-name",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": true
-}
